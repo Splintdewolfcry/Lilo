@@ -1,4 +1,0 @@
-[[Coursera]]
-[[Tomorrow Plans]]
-[[Success]]
-
