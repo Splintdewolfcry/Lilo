@@ -1,0 +1,1 @@
+[[1.Hafta]] Biraz giriş yaptı işleyeceklerimize, kendini ve dersinin genel tonunu tanıttı
