@@ -232,3 +232,4 @@
 | 229 | [[WatsonFrames/ids/5baa365]] | 0 days 01:24:56  | 2023-10-14 02:28:44 | 2023-10-14 03:53:40 | Programming                 | #WorkedOnMildew, #PrepFor_Obsidian, #InspiredWork                   | [[daily/2023-10-14]] |
 | 230 | [[WatsonFrames/ids/c74928f]] | 0 days 01:02:31  | 2023-10-15 01:09:00 | 2023-10-15 02:11:31 | Programming                 | #WorkedOnMildew, #PrepFor_Obsidian, #InspiredWork                   | [[daily/2023-10-15]] |
 | 231 | [[WatsonFrames/ids/cdd8350]] | 0 days 00:16:28  | 2023-10-16 00:55:00 | 2023-10-16 01:11:28 | Programming                 | #WorkedOnMildew, #PrepFor_Obsidian, #InspiredWork                   | [[daily/2023-10-16]] |
+| 232 | [[WatsonFrames/ids/031780c]] | 0 days 06:00:00  | 2023-10-15 12:00:00 | 2023-10-15 18:00:00 | Theatre                     | #AFTIT                                                              | [[daily/2023-10-15]] |
