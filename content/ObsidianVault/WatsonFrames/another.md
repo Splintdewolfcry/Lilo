@@ -241,3 +241,4 @@
 | 238 | [[WatsonFrames/ids/8186cfb]] | 0 days 00:02:05  | 2023-10-17 02:02:01 | 2023-10-17 02:04:06 | Programming                 | #WorkedOnMildew, #InspiredWork, #Testing                            | [[daily/2023-10-17]] |
 | 239 | [[WatsonFrames/ids/f63ff0c]] | 0 days 00:05:28  | 2023-10-17 02:04:06 | 2023-10-17 02:09:34 | Programming                 | #WorkedOnMildew, #InspiredWork, #Testing                            | [[daily/2023-10-17]] |
 | 240 | [[WatsonFrames/ids/846647a]] | 0 days 00:11:05  | 2023-10-17 02:12:32 | 2023-10-17 02:23:37 | Programming                 | #InspiredWork                                                       | [[daily/2023-10-17]] |
+| 241 | [[WatsonFrames/ids/bf8d025]] | 0 days 01:47:50  | 2023-10-17 20:46:00 | 2023-10-17 22:33:50 | Linguistics                 | #Revision, #PrepFor_Anki PrepFor_Obsidian                           | [[daily/2023-10-17]] |
