@@ -19,7 +19,7 @@ Bu soru bizim çalışma alanımızı ilgilendirmiyor ancak tarihsel olarak çe�
 ^1697569102712
 
 
-
+![[Pasted image 20231019113411.png]] 
 
 
 
