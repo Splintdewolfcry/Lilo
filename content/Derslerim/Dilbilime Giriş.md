@@ -15,3 +15,6 @@ Ben masaya saban dediğim için ona saban demeyi bırakmayacağız, o kelime üz
 
 ![[Pasted image 20231019113411.png]] 
 
+Trial
+
+
