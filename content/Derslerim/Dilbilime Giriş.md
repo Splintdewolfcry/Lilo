@@ -13,3 +13,5 @@ Gideceğim gibi yazılıp gidicem gibi okunur basit bir örnek olarak [[2. Hafta
 Ben masaya saban dediğim için ona saban demeyi bırakmayacağız, o kelime üzerine toplumcak anlaşmışız masaya masa demeye [[2. Hafta]]
 
 
+![[Pasted image 20231019113411.png]] 
+

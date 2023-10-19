@@ -1,7 +1,6 @@
 ---
 cards-deck: Linguistics
 ---
-
 ### Dilbilgisel açıdan anadilini bilmek demek ne demektir? #card
 Temel yapılarını anlayabiliyorsa, onu biliyor demektir. Bir çocuk 5 yaşına ulaştığında mükemmel/ideal/doğal konuşucudur. [[2. Hafta]]
 ^1697569102688
@@ -17,9 +16,6 @@ Dilin kendine özgü kurallarını ortaya çıkarmaktır. [[2. Hafta]]
 ### İlk dil hangisidir sorusu neden bizim için önemli? #card 
 Bu soru bizim çalışma alanımızı ilgilendirmiyor ancak tarihsel olarak çeşitli dilbilimsel çalışmaların yapılması için motivasyon olmuştur [[2. Hafta]]
 ^1697569102712
-
-
-![[Pasted image 20231019113411.png]] 
 
 
 
