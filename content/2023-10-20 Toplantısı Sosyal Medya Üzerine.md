@@ -43,4 +43,5 @@
 			- Kendi rotamız çizmemiz gerektiğini açıklamak için fazla uzun cümleler ve karışık anlatımlar.
 			- Bunun yanında biraz teorik de kalıyor istemsizce çünkü bunu zaten yapmayan birisi sadece seminerlere katılmanız lazım diye bir yazı görünce kafasında bir şey canlanması düşük ihtimal gibime geliyor.
 
-			-  Sü
+			-  Sükse yapan şeyleri arada daha aktif kullanmamız lazım
+			- 
