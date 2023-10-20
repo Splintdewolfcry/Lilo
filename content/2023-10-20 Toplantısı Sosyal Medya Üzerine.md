@@ -41,3 +41,4 @@
 			 
 			- ![[Pasted image 20231020180438.png]]
 			- Kendi rotamız çizmemiz gerektiğini açıklamak için fazla uzun cümleler ve karışık anlatımlar.
+			- Bunun yanında biraz teorikt
