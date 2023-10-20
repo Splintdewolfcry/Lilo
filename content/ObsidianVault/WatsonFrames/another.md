@@ -246,3 +246,4 @@
 | 243 | [[WatsonFrames/ids/177123a]] | 0 days 01:17:22  | 2023-10-19 21:14:10 | 2023-10-19 22:31:32 | Programming                 | #WorkedOnMildew, #InspiredWork                                      | [[daily/2023-10-19]] |
 | 244 | [[WatsonFrames/ids/157d249]] | 0 days 00:13:57  | 2023-10-19 22:31:32 | 2023-10-19 22:45:29 | Programming                 | #WorkedOnMildew, #InspiredWork                                      | [[daily/2023-10-19]] |
 | 245 | [[WatsonFrames/ids/a8ba7c4]] | 0 days 00:04:29  | 2023-10-19 23:04:06 | 2023-10-19 23:08:35 | Programming                 | #WorkedOnMildew, #InspiredWork                                      | [[daily/2023-10-19]] |
+| 246 | [[WatsonFrames/ids/e05ed3e]] | 0 days 02:40:05  | 2023-10-20 16:39:55 | 2023-10-20 19:20:00 | Topluluklar                 | #ADIT                                                               | [[daily/2023-10-20]] |
