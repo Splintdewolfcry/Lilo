@@ -36,4 +36,4 @@
 		- Bazılarında terim fazlalığı göze batıyor
 			- ![[Pasted image 20231020175700.png]]
 			- Bilgi dağarcığı postunda mesela 2. cümleden eş-süremli ve art süremli diye hemen tanıma gidilmiş. Evet, işlevsel ve açıklayıcı bir post ancak çoğu kişi süremli gibi çok alışkın olmadığımız bir sözcük gördüğü zaman okumayı bırakacaktır
-			- Bunun yerine daha kısa tanımlarla biraz daha uzunsa da 
+			- Bunun yerine daha kısa tanımlarla ve bölerek aktarmak daha güzel, kendi iç
