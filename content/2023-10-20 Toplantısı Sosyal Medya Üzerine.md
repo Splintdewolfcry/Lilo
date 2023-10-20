@@ -44,5 +44,8 @@
 			- Bunun yanında biraz teorik de kalıyor istemsizce çünkü bunu zaten yapmayan birisi sadece seminerlere katılmanız lazım diye bir yazı görünce kafasında bir şey canlanması düşük ihtimal gibime geliyor.
 
 		-  Sükse yapan şeyleri arada daha aktif kullanmamız lazım
+			- Computational Linguistics'teki olanaklar olsun daha kendi alanlarınızda araştırabileceğimiz şeyler olsun mutlaka değişip gelişen bir yanları olacaktır.
+			- Bunları göz önüne çıkarmak o ilgiyi toplamak için çok güzel bir haraket olabilir
 
-		- 
+		- Genel olarak bizim bölümde istemeyerek gelenler bile dilin kendisine ilgi duyduğu için bunun üzerine oynamak mantıklı olabilir.
+			- Dillerin kültürel benzerlikleri olabilir, sözcük veya dilbilgisi benzerlikleri olabilir. Sağlıklı olabilir.
