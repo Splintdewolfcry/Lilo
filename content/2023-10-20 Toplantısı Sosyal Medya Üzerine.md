@@ -41,4 +41,4 @@
 			 
 			- ![[Pasted image 20231020180438.png]]
 			- Kendi rotamız çizmemiz gerektiğini açıklamak için fazla uzun cümleler ve karışık anlatımlar.
-			- Bunun yanında biraz teorik de kalıyor istemsizce çünkü bunu zaten yapmayan bir insan sadece 
+			- Bunun yanında biraz teorik de kalıyor istemsizce çünkü bunu zaten yapmayan bir insan sadece seminerlere katılmanız lazım diye ka
