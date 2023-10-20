@@ -44,3 +44,5 @@
 			- Bunun yanında biraz teorik de kalıyor istemsizce çünkü bunu zaten yapmayan birisi sadece seminerlere katılmanız lazım diye bir yazı görünce kafasında bir şey canlanması düşük ihtimal gibime geliyor.
 
 		-  Sükse yapan şeyleri arada daha aktif kullanmamız lazım
+
+		- 
