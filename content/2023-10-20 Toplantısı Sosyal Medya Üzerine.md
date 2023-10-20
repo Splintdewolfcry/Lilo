@@ -40,4 +40,4 @@
 			- Bunun yerine daha kısa tanımlarla ve bölerek aktarmak daha güzel, kendi içinde birkaç paragrafa bölüp ayrı sayfa yapmak gibi
 			 
 			- ![[Pasted image 20231020180438.png]]
-			- Kendi rotamız çizmemiz gerektiğini açıklamak için fazla uzun 
+			- Kendi rotamız çizmemiz gerektiğini açıklamak için fazla uzun, bu
