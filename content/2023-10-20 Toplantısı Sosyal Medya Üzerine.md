@@ -33,4 +33,4 @@
 	- Birkaç eleştirim var
 		- Neredeyse her postun İngilizcesi olmasına rağmen hiçbir şekilde bu rastgele denk gelmediğimiz sürece belli olmuyor
 			- Eğer yabancıları da çekmek istiyorsak bunu daha belli eden kapak tasarımları tercih etmemiz lazım, "doğrusu şu" nun yanında örnek veriyorum "Here's the truth" gibi bir şeyle İngilizcesinin de olduğu net gözükmeli
-		- 
+		- Bazılarında terim fa
