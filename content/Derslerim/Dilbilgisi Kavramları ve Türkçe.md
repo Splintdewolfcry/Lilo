@@ -13,7 +13,7 @@ Temel yapılarını anlayabiliyorsa, onu biliyor demektir. Bir çocuk 5 yaşına
 Dilin kendine özgü kurallarını ortaya çıkarmaktır. [[2. Hafta]]
 ^1697569102708
 
-### İlk dil hangisidir sorusu neden bizim için önemli? #card 
+### İlk dil hangisidir sorusu bizim için hangi açıdan önemli? #card 
 Bu soru bizim çalışma alanımızı ilgilendirmiyor ancak tarihsel olarak çeşitli dilbilimsel çalışmaların yapılması için motivasyon olmuştur [[2. Hafta]]
 ^1697569102712
 

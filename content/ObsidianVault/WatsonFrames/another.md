@@ -251,3 +251,5 @@
 | 248 | [[WatsonFrames/ids/11d5235]] | 0 days 00:36:23  | 2023-10-23 01:27:46 | 2023-10-23 02:04:09 | Programming                 | #InspiredWork, #WorkedOnMildew                                      | [[daily/2023-10-23]] |
 | 249 | [[WatsonFrames/ids/4b81493]] | 0 days 06:20:00  | 2023-10-22 12:00:00 | 2023-10-22 18:20:00 | Theatre                     | #AFTIT                                                              | [[daily/2023-10-22]] |
 | 250 | [[WatsonFrames/ids/aa08a51]] | 0 days 01:05:44  | 2023-10-26 21:57:38 | 2023-10-26 23:03:22 | BookReading                 | #Psychology, #RobertSapolsky, #Behave                               | [[daily/2023-10-26]] |
+| 251 | [[WatsonFrames/ids/653783c]] | 0 days 01:02:03  | 2023-10-27 03:07:29 | 2023-10-27 04:09:32 | Programming                 | #WorkedOnMildew, #InspiredWork                                      | [[daily/2023-10-27]] |
+| 252 | [[WatsonFrames/ids/45066a3]] | 0 days 00:18:41  | 2023-10-28 18:31:03 | 2023-10-28 18:49:44 | Linguistics                 | #Revision, #Anki                                                    | [[daily/2023-10-28]] |
