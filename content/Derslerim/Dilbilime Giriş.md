@@ -1,16 +1,26 @@
+```anki
+id: 1698522515393
 ---
-cards-deck: Linguistics
----
-
-### Biz neden harf yerine "ses" ifadesini kullanıyoruz? #card
+### Biz neden harf yerine "ses" ifadesini kullanıyoruz?
+===
 Çünkü Dilbiliminin çalışma alanı konuşma dilidir. [[1. Hafta]]
-^1697567234541
+```
 
-### Neden Türkçe tam olarak yazıldığı gibi konuşulan bir dil değildir? #card 
+```anki
+id: 1698522515513
+---
+### Neden Türkçe tam olarak yazıldığı gibi konuşulan bir dil değildir?
+===
 Gideceğim gibi yazılıp gidicem gibi okunur basit bir örnek olarak [[2. Hafta]] 
+```
 
-### Dilin uzlaşımsal olması ne demek? #card 
+```anki
+id: 1698522515603
+---
+### Dilin uzlaşımsal olması ne demek?
+===
 Ben masaya saban dediğim için ona saban demeyi bırakmayacağız, o kelime üzerine toplumcak anlaşmışız masaya masa demeye [[2. Hafta]]
+```
 
 
-![[Pasted image 20231019113411.png]] 
+

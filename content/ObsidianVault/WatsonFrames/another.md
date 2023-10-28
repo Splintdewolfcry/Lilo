@@ -253,3 +253,5 @@
 | 250 | [[WatsonFrames/ids/aa08a51]] | 0 days 01:05:44  | 2023-10-26 21:57:38 | 2023-10-26 23:03:22 | BookReading                 | #Psychology, #RobertSapolsky, #Behave                               | [[daily/2023-10-26]] |
 | 251 | [[WatsonFrames/ids/653783c]] | 0 days 01:02:03  | 2023-10-27 03:07:29 | 2023-10-27 04:09:32 | Programming                 | #WorkedOnMildew, #InspiredWork                                      | [[daily/2023-10-27]] |
 | 252 | [[WatsonFrames/ids/45066a3]] | 0 days 00:18:41  | 2023-10-28 18:31:03 | 2023-10-28 18:49:44 | Linguistics                 | #Revision, #Anki                                                    | [[daily/2023-10-28]] |
+| 253 | [[WatsonFrames/ids/098129a]] | 0 days 01:28:00  | 2023-10-28 20:04:00 | 2023-10-28 21:32:00 | Linguistics                 | #PrepFor_Obsidian                                                   | [[daily/2023-10-28]] |
+| 254 | [[WatsonFrames/ids/c939951]] | 0 days 00:28:00  | 2023-10-28 21:32:00 | 2023-10-28 22:00:00 | Programming                 | #PrepFor_Obsidian                                                   | [[daily/2023-10-28]] |
