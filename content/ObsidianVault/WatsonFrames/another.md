@@ -255,3 +255,5 @@
 | 252 | [[WatsonFrames/ids/45066a3]] | 0 days 00:18:41  | 2023-10-28 18:31:03 | 2023-10-28 18:49:44 | Linguistics                 | #Revision, #Anki                                                    | [[daily/2023-10-28]] |
 | 253 | [[WatsonFrames/ids/098129a]] | 0 days 01:28:00  | 2023-10-28 20:04:00 | 2023-10-28 21:32:00 | Linguistics                 | #PrepFor_Obsidian                                                   | [[daily/2023-10-28]] |
 | 254 | [[WatsonFrames/ids/c939951]] | 0 days 00:28:00  | 2023-10-28 21:32:00 | 2023-10-28 22:00:00 | Programming                 | #PrepFor_Obsidian                                                   | [[daily/2023-10-28]] |
+| 255 | [[WatsonFrames/ids/8f8062e]] | 0 days 01:29:12  | 2023-10-28 22:00:00 | 2023-10-28 23:29:12 | Programming                 | #PrepFor_Obsidian                                                   | [[daily/2023-10-28]] |
+| 256 | [[WatsonFrames/ids/0ad53f4]] | 0 days 00:44:18  | 2023-10-31 14:25:42 | 2023-10-31 15:10:00 | Linguistics                 | #NoteTaking, #Revision                                              | [[daily/2023-10-31]] |
