@@ -258,3 +258,4 @@
 | 255 | [[WatsonFrames/ids/8f8062e]] | 0 days 01:29:12  | 2023-10-28 22:00:00 | 2023-10-28 23:29:12 | Programming                 | #PrepFor_Obsidian                                                   | [[daily/2023-10-28]] |
 | 256 | [[WatsonFrames/ids/0ad53f4]] | 0 days 00:44:18  | 2023-10-31 14:25:42 | 2023-10-31 15:10:00 | Linguistics                 | #NoteTaking, #Revision                                              | [[daily/2023-10-31]] |
 | 257 | [[WatsonFrames/ids/058af39]] | 0 days 01:24:58  | 2023-11-02 17:38:30 | 2023-11-02 19:03:28 | Linguistics                 | #InspiredWork                                                       | [[daily/2023-11-02]] |
+| 258 | [[WatsonFrames/ids/2f6dfc3]] | 0 days 00:06:19  | 2023-11-02 19:08:00 | 2023-11-02 19:14:19 | Linguistics                 | #Revision                                                           | [[daily/2023-11-02]] |
