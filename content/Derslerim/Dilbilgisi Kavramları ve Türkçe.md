@@ -31,6 +31,25 @@ id: 1698522536057
 Bu soru bizim çalışma alanımızı ilgilendirmiyor ancak tarihsel olarak çeşitli dilbilimsel çalışmaların yapılması için motivasyon olmuştur [[2. Hafta]]
 ```
 
+```anki
+id: 1699014053292
+---
+"Bazı diller diğerlerine göre yanlıştır"
+===
+Hayır, çünkü ilk dil olarak öğrenen birisinin Türkçeyi öğrenmesi Rusçayı öğrenmesinden daha kolay veya zor değildir [[3. Hafta]]
+```
+
+```anki
+id: 1699014053321
+---
+"Ağızlar dilin bozuk yapılarıdır"
+===
+Hayır, çünkü bu aslında standart Türkçe dediğimiz de İstanbul ağzıdır [[3. Hafta]]
+```
+
+
+
+
 
 
 

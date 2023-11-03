@@ -6,6 +6,7 @@ id: 1698522508425
 ===
 Biçimbilimsel [[1. Hafta]]
 ```
+
 ```anki
 id: 1698522508492
 ---
@@ -20,7 +21,6 @@ id: 1698522508492
 |Voi|Andate|
 |Loro| Vanno| [[1. Hafta]]
 ```
-
 ```anki
 id: 1698522508555
 ---
@@ -79,7 +79,7 @@ Anneanesine giderken çiçek topluyordu [[2. Hafta]]
 ```
 
 ```anki
-id: 1698523122553
+id: 1699009027851
 ---
 ### Rosso başlıklı Bambina 
 ===
@@ -149,4 +149,5 @@ id: 1698522509983
 ===
 /ya:mur/ <ğ> öndeki ve arkadakini uzatır [[2. Hafta]]
 ```
+
 
