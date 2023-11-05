@@ -66,7 +66,7 @@ Nedensizlik, sözcük ile sözcüğün işaret ettiği şey arasında bir sebep 
 
 ```anki
 ---
-Ses bilgisi?
+Ses bilgisi İng?
 ===
 BACK
 ```
