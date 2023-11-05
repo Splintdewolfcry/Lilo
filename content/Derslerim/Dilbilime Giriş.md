@@ -114,7 +114,7 @@ Semantics
 
 ```anki
 ---
-FRONT
+Akustik sesbilgi
 ===
 BACK
 ```
