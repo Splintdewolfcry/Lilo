@@ -23,5 +23,14 @@ Dil içi çeviri nedir?
 Biz bu müdürden razı değiliz (biz bu müdürden memnun değiliz)
 ```
 
+```anki
+---
+FRONT HERE
+===
+BACK HERE
+```
+
+
+
 
 
