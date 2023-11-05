@@ -18,7 +18,7 @@ Miras dil konuşuru
 
 ```anki
 ---
-FRONT HERE
+Dil içi çv
 ===
 BACK HERE
 ```
