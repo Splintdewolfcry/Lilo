@@ -159,9 +159,9 @@ Yazıbirim ile sesbirimin uyuşması (yazıldığı gibi söylenmesi)
 
 ```anki
 ---
-FRONT HERE
+Ezgi biçimleri
 ===
-BACK HERE
+
 ```
 
 
