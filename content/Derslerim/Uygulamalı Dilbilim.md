@@ -9,4 +9,11 @@ Uygulamalı Dilbilimin çalışma alanına birkaç basit örnek ver
 Trendyol yorumlarındaki semantik arama olabilir [[2. Hafta]]
 ```
 
+```anki
+---
+Almanya T}r
+===
+BACK HERE
+```
+
 
