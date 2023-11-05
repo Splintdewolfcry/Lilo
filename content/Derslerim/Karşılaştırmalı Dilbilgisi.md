@@ -168,7 +168,7 @@ Soru ezgisi [[3. Hafta]]
 
 ```anki
 ---
-Türkçede 
+Konuşurken 
 ===
 BACK HERE
 ```
