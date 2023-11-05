@@ -20,7 +20,7 @@ Miras dil konuşuru
 ---
 Dil içi çeviri nedir?
 ===
-BACK HERE
+Biz bu müdürden razı değiş
 ```
 
 
