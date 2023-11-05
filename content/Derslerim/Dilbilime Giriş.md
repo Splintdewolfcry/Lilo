@@ -127,6 +127,14 @@ Dinleyici tarafından nasıl işitildiğini anlamakla
 ```
 - Söyleyiş sesbilgisi ?
 
+```anki
+---
+Ötümsüz sel
+===
+BACK
+```
+
+
 
 
 
