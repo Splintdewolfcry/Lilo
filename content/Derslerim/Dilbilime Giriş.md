@@ -163,8 +163,16 @@ Dilin devinimine göre (arka damak)
 ---
 Dilde anlam ayırt edici en küçük birim?
 ===
-Sesbirim (minimal )
+Sesbirim (minimal pair den hatırla)
 ```
+
+```anki
+---
+FRONT
+===
+BACK
+```
+
 
 
 
