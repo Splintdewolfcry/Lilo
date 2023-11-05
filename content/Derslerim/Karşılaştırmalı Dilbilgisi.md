@@ -198,9 +198,9 @@ tuzakmış / Tuz akmış [[3. Hafta]]
 
 ```anki
 ---
-L'accento nedir
+L'accento nedir?
 ===
-BACK HERE
+(tonico) v
 ```
 
 
