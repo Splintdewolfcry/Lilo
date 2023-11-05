@@ -107,7 +107,7 @@ Ses Bilgisi (Daha genel olan)
 
 ```anki
 ---
-FRONT
+Anlambilim İN
 ===
 BACK
 ```
