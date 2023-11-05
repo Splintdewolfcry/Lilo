@@ -11,7 +11,7 @@ Trendyol yorumlarındaki semantik arama olabilir [[2. Hafta]]
 
 ```anki
 ---
-Almanya Türkçesi konuşanlara veri
+Almanya Türkçesi konuşanlara verilen terimsel ad?
 ===
 BACK HERE
 ```
