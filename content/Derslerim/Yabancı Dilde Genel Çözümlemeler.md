@@ -73,9 +73,9 @@ Phonetics
 
 ```anki
 ---
-Sapir-Whorf teoremi neyi dest
+Sapir-Whorf teoremi neyi destekler?
 ===
-BACK
+Dilin düşünceyi etkilediğini
 ```
 
 
