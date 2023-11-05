@@ -150,14 +150,5 @@ id: 1698522509983
 /ya:mur/ <ğ> öndeki ve arkadakini uzatır [[2. Hafta]]
 ```
 
-- Girdi temelli görüş?
-
-```anki
----
-Neden amacımız en az kuralla en fazla şeyi açıklamak?
-===
-Çocukların dil edinim hızı gerçekten çok ama çok hızlı ve 5 yaşına geldiklerinde doğal konuşucu oluyorlar. Dolayısıyla en az karmaşıklıklıkla(kuralla) çok fazla şeyi açıklamamız mümkün
-```
-
 
 
