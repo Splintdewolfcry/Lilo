@@ -161,7 +161,7 @@ Dilin devinimine göre (arka damak)
 
 ```anki
 ---
-FRONT
+Dilde anlam ayırt edici en k
 ===
 BACK
 ```
