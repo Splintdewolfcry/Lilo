@@ -177,7 +177,7 @@ Dilde anlam ayırt edici en küçük birim
 ---
 Türkçede sözdizim sırası nasıldır?
 ===
-Subject Object B
+Subject Object Verb (S O B)
 ```
 
 
