@@ -215,7 +215,7 @@ id: 1699193553874
 ---
 L'intonazione nedir?
 ===
-Ezgi (biten, soru, süren)
+Ezgi (biten, soru, süren) [[3. Hafta]]
 
 Arrivano.
 Arrivano?
