@@ -138,8 +138,16 @@ fstkç şhp
 ---
 Ötümlü ses ne demek?
 ===
-Ses tellerinin t
+Ses tellerinin titremesi
 ```
+
+```anki
+---
+FRONT
+===
+BACK
+```
+
 
 
 
