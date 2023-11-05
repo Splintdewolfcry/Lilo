@@ -60,7 +60,7 @@ Onu çevreleyen dilsel birimlerin bütünü [[2. Hafta]]
 ---
 'Arbitrariness' meaning?
 ===
-Nedensizlik, kelime ile 
+Nedensizlik, sözcük ile 
 ```
 
 
