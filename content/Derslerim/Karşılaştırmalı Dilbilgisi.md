@@ -215,6 +215,14 @@ Arrivano?
 Arrivano, ...
 ```
 
+```anki
+---
+FRONT HERE
+===
+BACK HERE
+```
+
+
 
 
 
