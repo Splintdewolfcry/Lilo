@@ -129,9 +129,9 @@ Dinleyici tarafından nasıl işitildiğini anlamakla
 
 ```anki
 ---
-Ötümsüz sel
+Ötümsüz sesler?
 ===
-BACK
+fstkç şhp
 ```
 
 
