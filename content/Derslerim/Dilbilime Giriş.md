@@ -109,21 +109,21 @@ Ses Bilgisi (Daha genel olan) [[4. Hafta]]
 ---
 Anlambilim İng?
 ===
-Semantics
+Semantics [[4. Hafta]]
 ```
 
 ```anki
 ---
 Akustik sesbilgisi nelerle uğraşır?
 ===
-Seslerin fiziksel özelliklerini inceler
+Seslerin fiziksel özelliklerini inceler [[4. Hafta]]
 ```
 
 ```anki
 ---
 İşitsel sesbilgisi nelerle uğraşır?
 ===
-Dinleyici tarafından nasıl işitildiğini anlamakla
+Dinleyici tarafından nasıl işitildiğini anlamakla [[4. Hafta]]
 ```
 - Söyleyiş sesbilgisi ?
 
@@ -131,8 +131,8 @@ Dinleyici tarafından nasıl işitildiğini anlamakla
 ---
 Ötümsüz sesler?
 ===
-fstkç şhp
-```
+fstkç şhp [[4. Hafta]]
+``` 
 
 ```anki
 ---
