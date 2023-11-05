@@ -168,7 +168,7 @@ Sesbirim (minimal pair den hatırla)
 
 ```anki
 ---
-FRONT
+Sesbirim tanımı?
 ===
 BACK
 ```
