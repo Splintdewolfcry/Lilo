@@ -198,7 +198,7 @@ tuzakmış / Tuz akmış [[3. Hafta]]
 
 ```anki
 ---
-FRONT HERE
+L
 ===
 BACK HERE
 ```
