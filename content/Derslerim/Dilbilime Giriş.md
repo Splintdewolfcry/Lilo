@@ -154,8 +154,8 @@ Ses tellerinin titreşimine göre (ötümlü ötümsüz)
 ---
 Ünlüleri nasıl sınıflandırıyoruz?
 ===
-Çene açısının durumuna göre
-Dudakların biçimine göre
+Çene açısının durumuna göre (geniş)
+Dudakların biçimine göre ()
 Dilin devinimine göre
 ```
 
