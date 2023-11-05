@@ -89,7 +89,7 @@ Descriptive Grammar [[3. Hafta]]
 
 ```anki
 ---
-FRONT
+Di
 ===
 BACK
 ```
