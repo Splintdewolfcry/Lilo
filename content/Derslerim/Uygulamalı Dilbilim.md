@@ -13,7 +13,7 @@ Trendyol yorumlarındaki semantik arama olabilir [[2. Hafta]]
 ---
 Almanya Türkçesi konuşurlarına verilen terimsel ad?
 ===
-Miras dil konuşuru
+Miras dil konuşuru [[3/]]
 ```
 
 ```anki
