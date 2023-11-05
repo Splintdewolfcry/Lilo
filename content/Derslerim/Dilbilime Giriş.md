@@ -173,6 +173,14 @@ Sesbirim tanımı?
 Dilde anlam ayırt edici en küçük birim
 ```
 
+```anki
+---
+FRONT
+===
+BACK
+```
+
+
 
 
 
