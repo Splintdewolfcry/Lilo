@@ -147,7 +147,7 @@ Ses tellerinin titremesi
 ===
 Ses tellerinin titreşimine göre (ötümlü ötümsüz)
 Çıkış biçimleri (genizsil, patlamalı, sürtünücü) 
-Çıkış yerleri 
+Çıkış yerleri (çift dudaksıl, ön dama)
 ```
 
 ```anki
