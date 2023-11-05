@@ -5,7 +5,6 @@ id: 1698522515393
 ===
 Çünkü Dilbiliminin çalışma alanı konuşma dilidir. [[1. Hafta]]
 ```
-
 ```anki
 id: 1698522515513
 ---
@@ -88,6 +87,7 @@ Descriptive Grammar [[3. Hafta]]
 ```
 
 ```anki
+id: 1699195982574
 ---
 Dilbilimin makro alt alanları?
 ===
@@ -99,6 +99,7 @@ Sözlükçe (lexicology) [[4. Hafta]]
 ```
 
 ```anki
+id: 1699195982611
 ---
 Phonology nedir?
 ===
@@ -106,6 +107,7 @@ Ses Bilgisi (Daha genel olan) [[4. Hafta]]
 ```
 
 ```anki
+id: 1699195982641
 ---
 Anlambilim İng?
 ===
@@ -113,6 +115,7 @@ Semantics [[4. Hafta]]
 ```
 
 ```anki
+id: 1699195982674
 ---
 Akustik sesbilgisi nelerle uğraşır?
 ===
@@ -120,21 +123,24 @@ Seslerin fiziksel özelliklerini inceler [[4. Hafta]]
 ```
 
 ```anki
+id: 1699195982705
 ---
 İşitsel sesbilgisi nelerle uğraşır?
 ===
 Dinleyici tarafından nasıl işitildiğini anlamakla [[4. Hafta]]
 ```
+
 - Söyleyiş sesbilgisi ?
 
 ```anki
+id: 1699195982737
 ---
 Ötümsüz sesler?
 ===
 fstkç şhp [[4. Hafta]]
-``` 
-
+```
 ```anki
+id: 1699195982770
 ---
 Ötümlü ses ne demek?
 ===
@@ -142,6 +148,7 @@ Ses tellerinin titremesi [[4. Hafta]]
 ```
 
 ```anki
+id: 1699195982802
 ---
 Ünsüzleri nasıl sınıflandırıyoruz?
 ===
@@ -151,6 +158,7 @@ Ses tellerinin titreşimine göre (ötümlü ötümsüz)
 ```
 
 ```anki
+id: 1699195982834
 ---
 Ünlüleri nasıl sınıflandırıyoruz?
 ===
@@ -160,6 +168,7 @@ Dilin devinimine göre (arka damak) [[4. Hafta]]
 ```
 
 ```anki
+id: 1699195982866
 ---
 Dilde anlam ayırt edici en küçük birim?
 ===
@@ -167,6 +176,7 @@ Sesbirim (minimal pair den hatırla) [[4. Hafta]]
 ```
 
 ```anki
+id: 1699195982899
 ---
 Sesbirim tanımı?
 ===
@@ -174,11 +184,13 @@ Dilde anlam ayırt edici en küçük birim [[4. Hafta]]
 ```
 
 ```anki
+id: 1699195982931
 ---
 Türkçede sözdizim sırası nasıldır?
 ===
-Subject Object Verb (S O B)
+Subject Object Verb (S O B) [[4. Hafta]]
 ```
+
 
 
 
