@@ -47,6 +47,17 @@ id: 1699014053321
 Hayır, çünkü bu aslında standart Türkçe dediğimiz de İstanbul ağzıdır [[3. Hafta]]
 ```
 
+- Girdi temelli görüş?
+
+```anki
+---
+Neden amacımız en az kuralla en fazla şeyi açıklamak?
+===
+Çocukların dil edinim hızı gerçekten çok ama çok hızlı ve 5 yaşına geldiklerinde doğal konuşucu oluyorlar. Dolayısıyla en az karmaşıklıklıkla(kuralla) çok fazla şeyi açıklamamız mümkün
+```
+
+
+
 
 
 
