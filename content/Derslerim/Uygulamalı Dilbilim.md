@@ -18,7 +18,7 @@ Miras dil konuşuru
 
 ```anki
 ---
-Dil içi çv
+Dil içi çeviri nedir?
 ===
 BACK HERE
 ```
