@@ -146,7 +146,7 @@ Ses tellerinin titremesi
 Ünsüzleri nasıl sınıflandırıyoruz?
 ===
 Ses tellerinin titreşimine göre (ötümlü ötümsüz)
-Çıkış biçimleri 
+Çıkış biçimleri () 
 Çıkış yerleri
 ```
 
