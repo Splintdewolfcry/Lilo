@@ -171,7 +171,7 @@ Soru ezgisi [[3. Hafta]]
 Konuşurken kavşak ne için kullanılır?
 ===
 Ulamayı kaldırmaya yöneliktir.
-Cam açıkmış 
+Camaçıkmış / Cam açıkmıs
 ```
 
 
