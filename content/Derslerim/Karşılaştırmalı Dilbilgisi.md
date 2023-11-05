@@ -154,8 +154,16 @@ id: 1698522509983
 ---
 Dilde saydamlık ne demek?
 ===
-Yazıbirim ile sesbirimin uyuşması (s)
+Yazıbirim ile sesbirimin uyuşması (yazıldığı gibi söylenmesi)
 ```
+
+```anki
+---
+FRONT HERE
+===
+BACK HERE
+```
+
 
 
 
