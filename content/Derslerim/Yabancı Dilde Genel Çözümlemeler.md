@@ -80,7 +80,7 @@ Dilin düşünceyi etkilediğini
 
 ```anki
 ---
-FRONT
+Uttarance ne demek?
 ===
 BACK
 ```
