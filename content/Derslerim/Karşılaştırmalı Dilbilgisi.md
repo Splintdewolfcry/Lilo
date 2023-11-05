@@ -150,5 +150,13 @@ id: 1698522509983
 /ya:mur/ <ğ> öndeki ve arkadakini uzatır [[2. Hafta]]
 ```
 
+```anki
+---
+FRONT HERE
+===
+BACK HERE
+```
+
+
 
 
