@@ -146,8 +146,8 @@ Ses tellerinin titremesi
 Ünsüzleri nasıl sınıflandırıyoruz?
 ===
 Ses tellerinin titreşimine göre (ötümlü ötümsüz)
-Çıkış biçimleri () 
-Çıkış yerleri
+Çıkış biçimleri (genizsil, patlamalı, sürtünücü) 
+Çıkış yerleri 
 ```
 
 ```anki
