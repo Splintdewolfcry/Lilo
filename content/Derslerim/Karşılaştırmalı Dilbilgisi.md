@@ -162,8 +162,8 @@ Yazıbirim ile sesbirimin uyuşması (yazıldığı gibi söylenmesi)
 Ezgi biçimleri?
 ===
 Biten
-Süren
-
+Süren ezgi
+Soru ezgisi
 ```
 
 
