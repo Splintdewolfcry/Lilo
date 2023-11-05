@@ -161,9 +161,9 @@ Dilin devinimine göre (arka damak)
 
 ```anki
 ---
-Dilde anlam ayırt edici en k
+Dilde anlam ayırt edici en küçük birim?
 ===
-BACK
+Sesbirim (minimal )
 ```
 
 
