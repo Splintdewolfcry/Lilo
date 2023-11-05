@@ -121,7 +121,7 @@ Seslerin fiziksel özelliklerini inceler
 
 ```anki
 ---
-FRONT
+İşis
 ===
 BACK
 ```
