@@ -143,7 +143,7 @@ Ses tellerinin titremesi
 
 ```anki
 ---
-Sesleri kaça ayırıyoruz?
+Ünsüzleri kaça ayırıyoruz?
 ===
 Ses tellerinin titreşimine göre
 Çıkış biçimleri
