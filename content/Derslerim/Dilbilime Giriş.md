@@ -100,7 +100,7 @@ Sözlükçe (lexicology)
 
 ```anki
 ---
-FRONT
+Phonology nedir?
 ===
 BACK
 ```
