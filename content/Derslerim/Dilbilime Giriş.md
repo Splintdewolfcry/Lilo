@@ -123,9 +123,9 @@ Seslerin fiziksel özelliklerini inceler
 ---
 İşitsel sesbilgisi nelerle uğraşır?
 ===
-Dinleyici tarafından nasıl işitildiğini 
+Dinleyici tarafından nasıl işitildiğini anlamakla
 ```
-
+- 
 
 
 
