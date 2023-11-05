@@ -161,10 +161,19 @@ Yazıbirim ile sesbirimin uyuşması (yazıldığı gibi söylenmesi)
 ---
 Ezgi biçimleri?
 ===
-Biten
+Biten ezgi
 Süren ezgi
 Soru ezgisi
 ```
+
+```anki
+---
+FRONT HERE
+===
+BACK HERE
+```
+
+
 
 
 
