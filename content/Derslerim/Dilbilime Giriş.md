@@ -116,8 +116,16 @@ Semantics
 ---
 Akustik sesbilgisi nelerle uğraşır?
 ===
+Seslerin fiziksel özelliklerini inceler
+```
+
+```anki
+---
+FRONT
+===
 BACK
 ```
+
 
 
 
