@@ -168,7 +168,7 @@ Soru ezgisi
 
 ```anki
 ---
-FRONT HERE
+Türkçede 
 ===
 BACK HERE
 ```
