@@ -125,7 +125,7 @@ Seslerin fiziksel özelliklerini inceler
 ===
 Dinleyici tarafından nasıl işitildiğini anlamakla
 ```
-- 
+- Söyleyiş sesbilgisi 
 
 
 
