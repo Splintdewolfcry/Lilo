@@ -206,7 +206,7 @@ perché
 
 ```anki
 ---
-L'in
+L'intonazione nedir?
 ===
 BACK HERE
 ```
