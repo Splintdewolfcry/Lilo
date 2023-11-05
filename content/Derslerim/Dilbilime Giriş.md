@@ -143,9 +143,9 @@ Ses tellerinin titremesi
 
 ```anki
 ---
-Sesleri kaça ayırıy
+Sesleri kaça ayırıyoruz?
 ===
-BACK
+Ses tellerinin 
 ```
 
 
