@@ -152,6 +152,13 @@ Ses tellerinin titreşimine göre
 
 ```anki
 ---
+Ünlüleri nasıl sınıf
+===
+BACK
+```
+
+```anki
+---
 FRONT
 ===
 BACK
