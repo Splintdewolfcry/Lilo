@@ -196,6 +196,13 @@ Camaçıkmış / Cam açıkmış
 tuzakmış / Tuz akmış [[3. Hafta]]
 ```
 
+```anki
+---
+FRONT HERE
+===
+BACK HERE
+```
+
 
 
 
