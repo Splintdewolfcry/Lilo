@@ -73,7 +73,7 @@ Phonetics
 
 ```anki
 ---
-FRONT
+Sapir-Whorfg
 ===
 BACK
 ```
