@@ -6,7 +6,6 @@ id: 1698522535751
 ===
 Temel yapılarını anlayabiliyorsa, onu biliyor demektir. Bir çocuk 5 yaşına ulaştığında mükemmel/ideal/doğal konuşucudur. [[2. Hafta]]
 ```
-
 ```anki
 id: 1698522535864
 ---
@@ -47,9 +46,11 @@ id: 1699014053321
 Hayır, çünkü bu aslında standart Türkçe dediğimiz de İstanbul ağzıdır [[3. Hafta]]
 ```
 
+
 - Girdi temelli görüş?
 
 ```anki
+id: 1699194944644
 ---
 Neden amacımız en az kuralla en fazla şeyi açıklamak?
 ===
