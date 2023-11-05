@@ -107,9 +107,9 @@ Ses Bilgisi (Daha genel olan)
 
 ```anki
 ---
-Anlambilim İN
+Anlambilim İng?
 ===
-BACK
+Semantics
 ```
 
 ```anki
