@@ -145,14 +145,14 @@ Ses tellerinin titremesi
 ---
 Ünsüzleri nasıl sınıflandırıyoruz?
 ===
-Ses tellerinin titreşimine göre
+Ses tellerinin titreşimine göre (ötümlü ötümsü)
 Çıkış biçimleri
 Çıkış yerleri
 ```
 
 ```anki
 ---
-Ünlüleri nasıl sınıf
+Ünlüleri nasıl sınıflandırıyoruz
 ===
 BACK
 ```
