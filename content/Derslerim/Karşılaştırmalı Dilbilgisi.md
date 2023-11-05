@@ -152,9 +152,9 @@ id: 1698522509983
 
 ```anki
 ---
-FRONT HERE
+Dilde saydamlık ne demek?
 ===
-BACK HERE
+
 ```
 
 
