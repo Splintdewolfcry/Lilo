@@ -175,7 +175,7 @@ Dilde anlam ayırt edici en küçük birim
 
 ```anki
 ---
-FRONT
+Türkçede 
 ===
 BACK
 ```
