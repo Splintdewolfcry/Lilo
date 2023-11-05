@@ -200,7 +200,8 @@ tuzakmış / Tuz akmış [[3. Hafta]]
 ---
 L'accento nedir?
 ===
-(tonico) v
+(tonico) vurgu
+perch
 ```
 
 
