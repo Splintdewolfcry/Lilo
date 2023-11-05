@@ -73,7 +73,7 @@ Phonetics
 
 ```anki
 ---
-Sapir-Whorfg
+Sapir-Whorf teoremi neyi dest
 ===
 BACK
 ```
