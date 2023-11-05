@@ -123,7 +123,7 @@ Seslerin fiziksel özelliklerini inceler
 ---
 İşitsel sesbilgisi nelerle uğraşır?
 ===
-BACK
+Dinleyici tarafından nasıl işitildiğini 
 ```
 
 
