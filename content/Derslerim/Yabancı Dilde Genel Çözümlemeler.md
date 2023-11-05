@@ -60,7 +60,8 @@ Onu çevreleyen dilsel birimlerin bütünü [[2. Hafta]]
 ---
 'Arbitrariness' meaning?
 ===
-Nedensizlik, sözcük ile sözcüğün işaret ettiği şey arasında bir sebep olmamas 
+Nedensizlik, sözcük ile sözcüğün işaret ettiği şey arasında bir sebep olmaması
+(Ağaç sözcüğüyle ağa)
 ```
 
 
