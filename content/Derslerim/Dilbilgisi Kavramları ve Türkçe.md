@@ -36,7 +36,7 @@ id: 1699014053292
 ---
 "Bazı diller diğerlerine göre yanlıştır"
 ===
-Hayır, çünkü ilk dil olarak öğrenen birisinin Türkçeyi öğrenmesi Rusçayı öğrenmesinden daha kolay veya zor değildir [[3. Hafta]]
+Hayır, çünkü ilk dil olarak öğrenen birisinin Türkçeyi öğrenmesi Rusçayı öğrenmesinden daha kolay veya zor değildir [[[[[[[[[[[[[[[[[[3. Hafta]]]]]]]]]]]]]]]]]]
 ```
 
 ```anki
