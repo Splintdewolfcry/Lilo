@@ -56,6 +56,13 @@ Bağlam dilbilimde ne demek?
 Onu çevreleyen dilsel birimlerin bütünü [[2. Hafta]]
 ```
 
+```anki
+---
+FRONT
+===
+BACK
+```
+
 
 
 
