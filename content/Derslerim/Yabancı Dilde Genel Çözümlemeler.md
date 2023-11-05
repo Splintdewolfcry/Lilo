@@ -78,6 +78,14 @@ Sapir-Whorf hipotezi neyi destekler?
 Dilin düşünceyi etkilediğini
 ```
 
+```anki
+---
+FRONT
+===
+BACK
+```
+
+
 
 
 
