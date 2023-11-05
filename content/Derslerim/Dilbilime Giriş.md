@@ -121,7 +121,7 @@ Seslerin fiziksel özelliklerini inceler
 
 ```anki
 ---
-İşis
+İşitsel sesbilgisi en
 ===
 BACK
 ```
