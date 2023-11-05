@@ -102,7 +102,7 @@ Sözlükçe (lexicology)
 ---
 Phonology nedir?
 ===
-BACK
+Ses Bilgisi (Daha )
 ```
 
 ```anki
