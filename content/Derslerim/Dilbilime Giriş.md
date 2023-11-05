@@ -136,7 +136,7 @@ fstkç şhp
 
 ```anki
 ---
-FRONT
+Ötümlü s
 ===
 BACK
 ```
