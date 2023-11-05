@@ -154,7 +154,7 @@ Ses tellerinin titreşimine göre (ötümlü ötümsüz)
 ---
 Ünlüleri nasıl sınıflandırıyoruz?
 ===
-BACK
+Çene açısına göre 
 ```
 
 ```anki
