@@ -175,9 +175,9 @@ Kedi geldi.
 
 ```anki
 ---
-Süren ezgiye örnek 
+Süren ezgiye örnek ver
 ===
-BACK HERE
+Kedi
 ```
 
 ```anki
