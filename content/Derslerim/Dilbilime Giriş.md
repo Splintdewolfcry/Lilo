@@ -91,7 +91,8 @@ Descriptive Grammar [[3. Hafta]]
 ---
 Dilbilimin makro alt alanları?
 ===
-Ses bilgisi
+Ses bilgisi (phonology)
+Anlam Si
 ```
 
 ```anki
