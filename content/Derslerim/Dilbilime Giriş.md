@@ -94,6 +94,13 @@ FRONT
 BACK
 ```
 
+```anki
+---
+FRONT
+===
+BACK
+```
+
 
 
 
