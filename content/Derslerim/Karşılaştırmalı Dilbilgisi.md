@@ -168,9 +168,9 @@ Soru ezgisi [[3. Hafta]]
 
 ```anki
 ---
-	Biten ezgiye örnek ver
+Biten ezgiye örnek ver
 ===
-BACK HERE
+
 ```
 
 ```anki
