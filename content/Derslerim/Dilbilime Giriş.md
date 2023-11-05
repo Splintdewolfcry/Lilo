@@ -87,6 +87,14 @@ Betimleyici dilbigisi İng?
 Descriptive Grammar [[3. Hafta]]
 ```
 
+```anki
+---
+FRONT
+===
+BACK
+```
+
+
 
 
 
