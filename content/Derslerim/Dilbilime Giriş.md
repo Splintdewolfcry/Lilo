@@ -93,7 +93,8 @@ Dilbilimin makro alt alanları?
 ===
 Ses bilgisi (phonology)
 Anlambilim (semantics)
-Biçimbili
+Biçimbilim (morphology)
+
 ```
 
 ```anki
