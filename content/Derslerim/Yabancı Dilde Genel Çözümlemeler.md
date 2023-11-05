@@ -68,8 +68,16 @@ Nedensizlik, sözcük ile sözcüğün işaret ettiği şey arasında bir sebep 
 ---
 Ses bilgisi İng?
 ===
+Phonetics
+```
+
+```anki
+---
+FRONT
+===
 BACK
 ```
+
 
 
 
