@@ -168,7 +168,7 @@ Soru ezgisi [[3. Hafta]]
 
 ```anki
 ---
-Konuşurken 
+Konuşurken kavşak ne için kullanılır?
 ===
 BACK HERE
 ```
