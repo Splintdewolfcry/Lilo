@@ -11,7 +11,7 @@ Trendyol yorumlarındaki semantik arama olabilir [[2. Hafta]]
 
 ```anki
 ---
-Almanya T}r
+Almanya Türkçesi konuşanlara veri
 ===
 BACK HERE
 ```
