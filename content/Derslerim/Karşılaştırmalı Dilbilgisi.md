@@ -184,10 +184,8 @@ Kedi geldi. Yemek yedi. Uyudu. [[3. Hafta]]
 ---
 Soru ezgisine örnek ver
 ===
-Kedi geldi mi?
+Kedi geldi mi? [[3. Hafta]]
 ```
-
-
 
 ```anki
 ---
