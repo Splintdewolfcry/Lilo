@@ -177,12 +177,12 @@ Kedi geldi.
 ---
 Süren ezgiye örnek ver
 ===
-Kedi geldi. Yemek yedi. Uyudu
+Kedi geldi. Yemek yedi. Uyudu.
 ```
 
 ```anki
 ---
-FRONT HERE
+Soru ezgisine örnek ver
 ===
 BACK HERE
 ```
