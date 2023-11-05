@@ -95,7 +95,7 @@ Ses bilgisi (phonology)
 Anlambilim (semantics)
 Biçimbilim (morphology)
 Sözdizim (syntax)
-Sözlükçe (lexicology) [[4. Hf]]
+Sözlükçe (lexicology) [[4. Hafta]]
 ```
 
 ```anki
