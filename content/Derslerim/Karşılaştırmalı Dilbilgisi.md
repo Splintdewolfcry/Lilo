@@ -209,7 +209,8 @@ perché
 L'intonazione nedir?
 ===
 Ezgi
-Arr
+Arrivano.
+Arrivano:
 ```
 
 
