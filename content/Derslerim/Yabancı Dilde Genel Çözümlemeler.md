@@ -64,6 +64,15 @@ Nedensizlik, sözcük ile sözcüğün işaret ettiği şey arasında bir sebep 
 (Ağaç sözcüğüyle ağacın kendisi arasında bir bağıntı yoktur)
 ```
 
+```anki
+---
+FRONT
+===
+BACK
+```
+
+
+
 
 
 
