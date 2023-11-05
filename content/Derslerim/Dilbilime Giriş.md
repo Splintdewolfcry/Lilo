@@ -121,7 +121,7 @@ Seslerin fiziksel özelliklerini inceler
 
 ```anki
 ---
-İşitsel sesbilgisi en
+İşitsel sesbilgisi nelerle uğraşır?
 ===
 BACK
 ```
