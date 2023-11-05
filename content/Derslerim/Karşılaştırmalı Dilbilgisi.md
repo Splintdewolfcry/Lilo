@@ -163,7 +163,7 @@ Ezgi biçimleri?
 ===
 Biten ezgi
 Süren ezgi
-Soru ezgisi
+Soru ezgisi [[3.Hafta]]
 ```
 
 ```anki
