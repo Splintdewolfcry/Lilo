@@ -175,7 +175,7 @@ Kedi geldi.
 
 ```anki
 ---
-Süren ezgiye ge
+Süren ezgiye örnek 
 ===
 BACK HERE
 ```
