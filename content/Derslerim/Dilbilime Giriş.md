@@ -143,7 +143,7 @@ Ses tellerinin titremesi
 
 ```anki
 ---
-FRONT
+Sesleri kaça ayırıy
 ===
 BACK
 ```
