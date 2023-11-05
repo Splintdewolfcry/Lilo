@@ -175,9 +175,9 @@ Dilde anlam ayırt edici en küçük birim
 
 ```anki
 ---
-Türkçede sözdizim sırası nasıldır
+Türkçede sözdizim sırası nasıldır?
 ===
-BACK
+Subject Object B
 ```
 
 
