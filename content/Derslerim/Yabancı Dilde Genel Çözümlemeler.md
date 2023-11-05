@@ -5,7 +5,6 @@ Dilin durağan olmadığını vurgulayan güzel bir cümle
 ===
 Dil kinetiktir, devinimseldir[[2. Hafta]]
 ```
-
 ```anki
 id: 1699012767987
 ---
@@ -57,6 +56,7 @@ Onu çevreleyen dilsel birimlerin bütünü [[2. Hafta]]
 ```
 
 ```anki
+id: 1699194857928
 ---
 'Arbitrariness' meaning?
 ===
@@ -65,6 +65,7 @@ Nedensizlik, sözcük ile sözcüğün işaret ettiği şey arasında bir sebep 
 ```
 
 ```anki
+id: 1699194857957
 ---
 Ses bilgisi İng?
 ===
@@ -72,6 +73,7 @@ Phonetics
 ```
 
 ```anki
+id: 1699194857984
 ---
 Sapir-Whorf hipotezi neyi destekler?
 ===
@@ -79,11 +81,13 @@ Dilin düşünceyi etkilediğini
 ```
 
 ```anki
+id: 1699194858017
 ---
 Uttarance ne demek?
 ===
 Sözce
 ```
+
 
 
 
