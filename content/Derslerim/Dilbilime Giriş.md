@@ -114,7 +114,7 @@ Semantics
 
 ```anki
 ---
-Akustik sesbilgi
+Akustik sesbilgisi nelerle uğraşır?
 ===
 BACK
 ```
