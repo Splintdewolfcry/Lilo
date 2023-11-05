@@ -102,7 +102,7 @@ Sözlükçe (lexicology)
 ---
 Phonology nedir?
 ===
-Ses Bilgisi (Daha )
+Ses Bilgisi (Daha genel olan)
 ```
 
 ```anki
