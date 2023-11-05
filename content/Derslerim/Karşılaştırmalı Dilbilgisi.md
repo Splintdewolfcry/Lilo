@@ -207,7 +207,7 @@ id: 1699193553838
 L'accento nedir?
 ===
 (tonico) vurgu
-perché
+perché [[3. Hafta]]
 ```
 
 ```anki
