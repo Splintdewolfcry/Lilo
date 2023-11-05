@@ -82,7 +82,7 @@ Dilin düşünceyi etkilediğini
 ---
 Uttarance ne demek?
 ===
-BACK
+Sözce
 ```
 
 
