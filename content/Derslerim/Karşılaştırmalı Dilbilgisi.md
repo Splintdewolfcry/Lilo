@@ -175,7 +175,7 @@ Kedi geldi.
 
 ```anki
 ---
-FRONT HERE
+Süren ezgiye ge
 ===
 BACK HERE
 ```
