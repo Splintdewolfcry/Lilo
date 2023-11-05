@@ -168,6 +168,13 @@ Soru ezgisi [[3. Hafta]]
 
 ```anki
 ---
+	Biten ezgiye örnek ver
+===
+BACK HERE
+```
+
+```anki
+---
 Konuşurken kavşak ne için kullanılır?
 ===
 Ulamayı kaldırmaya yöneliktir.
@@ -175,12 +182,7 @@ Camaçıkmış / Cam açıkmış
 tuzakmış / Tuz akmış [[3. Hafta]]
 ```
 
-```anki
----
-Biten ezgi
-===
-BACK HERE
-```
+
 
 
 
