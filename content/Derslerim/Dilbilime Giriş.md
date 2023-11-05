@@ -143,7 +143,7 @@ Ses tellerinin titremesi
 
 ```anki
 ---
-Ünsüzleri kaça ayırıyoruz?
+Ünsüzleri nasıl sınıflandırıyoruz?
 ===
 Ses tellerinin titreşimine göre
 Çıkış biçimleri
