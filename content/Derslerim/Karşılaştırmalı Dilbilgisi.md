@@ -170,14 +170,14 @@ Soru ezgisi [[3. Hafta]]
 ---
 Biten ezgiye geldi ile örnek ver
 ===
-Kedi geldi.
+Kedi geldi. [[3. Hafta]]
 ```
 
 ```anki
 ---
 Süren ezgiye örnek ver
 ===
-Kedi geldi. Yemek yedi. Uyudu.
+Kedi geldi. Yemek yedi. Uyudu. [[3. Hafta]]
 ```
 
 ```anki
