@@ -1,7 +1,7 @@
 ```anki
 ---
-FRONT HERE
+FRONT
 ===
-BACK HERE
+BACK
 ```
 
