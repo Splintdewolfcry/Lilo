@@ -159,8 +159,10 @@ Yazıbirim ile sesbirimin uyuşması (yazıldığı gibi söylenmesi)
 
 ```anki
 ---
-Ezgi biçimleri
+Ezgi biçimleri?
 ===
+Biten
+Süren
 
 ```
 
