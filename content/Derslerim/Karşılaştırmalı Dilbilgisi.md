@@ -6,7 +6,6 @@ id: 1698522508425
 ===
 Biçimbilimsel [[1. Hafta]]
 ```
-
 ```anki
 id: 1698522508492
 ---
@@ -21,6 +20,7 @@ id: 1698522508492
 |Voi|Andate|
 |Loro| Vanno| [[1. Hafta]]
 ```
+
 ```anki
 id: 1698522508555
 ---
@@ -28,7 +28,6 @@ id: 1698522508555
 ===
 Gitmek / seyahat etmek, çekimleri de Vado Vai Va gibi oluyor tekiller için [[1. Hafta]]
 ```
-
 ```anki
 id: 1698522508623
 ---
@@ -151,6 +150,7 @@ id: 1698522509983
 ```
 
 ```anki
+id: 1699193553665
 ---
 Dilde saydamlık ne demek?
 ===
@@ -158,6 +158,7 @@ Yazıbirim ile sesbirimin uyuşması (yazıldığı gibi söylenmesi) [[3. Hafta
 ```
 
 ```anki
+id: 1699193553687
 ---
 Ezgi biçimleri?
 ===
@@ -167,6 +168,7 @@ Soru ezgisi [[3. Hafta]]
 ```
 
 ```anki
+id: 1699193553721
 ---
 Biten ezgiye geldi ile örnek ver
 ===
@@ -174,6 +176,7 @@ Kedi geldi. [[3. Hafta]]
 ```
 
 ```anki
+id: 1699193553753
 ---
 Süren ezgiye örnek ver
 ===
@@ -181,6 +184,7 @@ Kedi geldi. Yemek yedi. Uyudu. [[3. Hafta]]
 ```
 
 ```anki
+id: 1699193553785
 ---
 Soru ezgisine örnek ver
 ===
@@ -188,6 +192,7 @@ Kedi geldi mi? [[3. Hafta]]
 ```
 
 ```anki
+id: 1699193553815
 ---
 Konuşurken kavşak ne için kullanılır?
 ===
@@ -197,6 +202,7 @@ tuzakmış / Tuz akmış [[3. Hafta]]
 ```
 
 ```anki
+id: 1699193553838
 ---
 L'accento nedir?
 ===
@@ -205,6 +211,7 @@ perché
 ```
 
 ```anki
+id: 1699193553874
 ---
 L'intonazione nedir?
 ===
@@ -214,6 +221,7 @@ Arrivano.
 Arrivano?
 Arrivano, ...
 ```
+
 
 
 
