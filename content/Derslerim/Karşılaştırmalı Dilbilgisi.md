@@ -209,8 +209,10 @@ perché
 L'intonazione nedir?
 ===
 Ezgi
+
 Arrivano.
-Arrivano:
+Arrivano?
+Arrivano, ...
 ```
 
 
