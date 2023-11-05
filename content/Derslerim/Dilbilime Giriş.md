@@ -147,6 +147,7 @@ Ses tellerinin titremesi
 ===
 Ses tellerinin titreşimine göre
 Çıkış biçimleri
+Çıkış ye
 ```
 
 
