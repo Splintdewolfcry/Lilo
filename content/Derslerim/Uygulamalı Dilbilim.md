@@ -13,14 +13,14 @@ Trendyol yorumlarındaki semantik arama olabilir [[2. Hafta]]
 ---
 Almanya Türkçesi konuşurlarına verilen terimsel ad?
 ===
-Miras dil konuşuru [[3/]]
+Miras dil konuşuru [[3. Hafta]]
 ```
 
 ```anki
 ---
 Dil içi çeviri nedir?
 ===
-Biz bu müdürden razı değiliz (biz bu müdürden memnun değiliz)
+Biz bu müdürden razı değiliz (biz bu müdürden memnun değiliz) [[3. Hafta]]
 ```
 
 
