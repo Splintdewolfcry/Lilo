@@ -172,7 +172,7 @@ Konuşurken kavşak ne için kullanılır?
 ===
 Ulamayı kaldırmaya yöneliktir.
 Camaçıkmış / Cam açıkmış
-tuzakmış / Tuz 
+tuzakmış / Tuz akmış
 ```
 
 ```anki
