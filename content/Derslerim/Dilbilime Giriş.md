@@ -170,7 +170,7 @@ Sesbirim (minimal pair den hatırla)
 ---
 Sesbirim tanımı?
 ===
-BACK
+Dilde anlam ayırt edici en küçük birim
 ```
 
 
