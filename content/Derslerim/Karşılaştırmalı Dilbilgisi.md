@@ -170,7 +170,7 @@ Soru ezgisi [[3. Hafta]]
 ---
 Konuşurken kavşak ne için kullanılır?
 ===
-BACK HERE
+Ulamayı kaldırmaya yöneliktir
 ```
 
 
