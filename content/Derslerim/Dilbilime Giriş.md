@@ -134,6 +134,14 @@ Dinleyici tarafından nasıl işitildiğini anlamakla
 fstkç şhp
 ```
 
+```anki
+---
+FRONT
+===
+BACK
+```
+
+
 
 
 
