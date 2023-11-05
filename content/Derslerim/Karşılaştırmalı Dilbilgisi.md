@@ -198,7 +198,7 @@ tuzakmış / Tuz akmış [[3. Hafta]]
 
 ```anki
 ---
-L
+L'accento nedir
 ===
 BACK HERE
 ```
