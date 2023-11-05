@@ -138,7 +138,7 @@ fstkç şhp [[4. Hafta]]
 ---
 Ötümlü ses ne demek?
 ===
-Ses tellerinin titremesi
+Ses tellerinin titremesi [[4. Hafta]]
 ```
 
 ```anki
@@ -147,7 +147,7 @@ Ses tellerinin titremesi
 ===
 Ses tellerinin titreşimine göre (ötümlü ötümsüz)
 Çıkış biçimleri (genizsil, patlamalı, sürtünücü) 
-Çıkış yerleri (çift dudaksıl, ön damak)
+Çıkış yerleri (çift dudaksıl, ön damak) [[4. Hafta]]
 ```
 
 ```anki
@@ -156,21 +156,21 @@ Ses tellerinin titreşimine göre (ötümlü ötümsüz)
 ===
 Çene açısının durumuna göre (geniş)
 Dudakların biçimine göre (düz)
-Dilin devinimine göre (arka damak)
+Dilin devinimine göre (arka damak) [[4. Hafta]]
 ```
 
 ```anki
 ---
 Dilde anlam ayırt edici en küçük birim?
 ===
-Sesbirim (minimal pair den hatırla)
+Sesbirim (minimal pair den hatırla) [[4. Hafta]]
 ```
 
 ```anki
 ---
 Sesbirim tanımı?
 ===
-Dilde anlam ayırt edici en küçük birim
+Dilde anlam ayırt edici en küçük birim [[4. Hafta]]
 ```
 
 ```anki
