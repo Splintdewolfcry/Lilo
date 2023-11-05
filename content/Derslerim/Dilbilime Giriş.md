@@ -147,12 +147,12 @@ Ses tellerinin titremesi
 ===
 Ses tellerinin titreşimine göre (ötümlü ötümsüz)
 Çıkış biçimleri (genizsil, patlamalı, sürtünücü) 
-Çıkış yerleri (çift dudaksıl, ön dama)
+Çıkış yerleri (çift dudaksıl, ön damak)
 ```
 
 ```anki
 ---
-Ünlüleri nasıl sınıflandırıyoruz
+Ünlüleri nasıl sınıflandırıyoruz?
 ===
 BACK
 ```
