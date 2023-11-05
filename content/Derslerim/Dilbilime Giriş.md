@@ -145,7 +145,8 @@ Ses tellerinin titremesi
 ---
 Sesleri kaça ayırıyoruz?
 ===
-Ses tellerinin 
+Ses tellerinin titreşimine göre
+Çıkış biçimleri
 ```
 
 
