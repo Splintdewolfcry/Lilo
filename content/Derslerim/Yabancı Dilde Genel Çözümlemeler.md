@@ -58,7 +58,7 @@ Onu çevreleyen dilsel birimlerin bütünü [[2. Hafta]]
 
 ```anki
 ---
-
+What d
 ===
 BACK
 ```
