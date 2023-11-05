@@ -177,7 +177,7 @@ Kedi geldi.
 ---
 Süren ezgiye örnek ver
 ===
-Kedi
+Kedi geldi. Yemek yedi. Uyudu
 ```
 
 ```anki
