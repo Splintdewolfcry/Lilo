@@ -208,7 +208,7 @@ perché
 ---
 L'intonazione nedir?
 ===
-Ezgi (biten, süren, soru)
+Ezgi (biten, soru, süren)
 
 Arrivano.
 Arrivano?
