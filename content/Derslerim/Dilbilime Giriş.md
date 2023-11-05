@@ -136,9 +136,9 @@ fstkç şhp
 
 ```anki
 ---
-Ötümlü s
+Ötümlü ses ne demek?
 ===
-BACK
+Ses tellerinin t
 ```
 
 
