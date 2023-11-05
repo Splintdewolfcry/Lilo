@@ -101,6 +101,20 @@ FRONT
 BACK
 ```
 
+```anki
+---
+FRONT
+===
+BACK
+```
+
+```anki
+---
+FRONT
+===
+BACK
+```
+
 
 
 
