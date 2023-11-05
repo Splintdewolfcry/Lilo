@@ -175,6 +175,22 @@ Kedi geldi.
 
 ```anki
 ---
+FRONT HERE
+===
+BACK HERE
+```
+
+```anki
+---
+FRONT HERE
+===
+BACK HERE
+```
+
+
+
+```anki
+---
 Konuşurken kavşak ne için kullanılır?
 ===
 Ulamayı kaldırmaya yöneliktir.
