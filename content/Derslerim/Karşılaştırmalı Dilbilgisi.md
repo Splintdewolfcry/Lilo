@@ -172,12 +172,12 @@ Konuşurken kavşak ne için kullanılır?
 ===
 Ulamayı kaldırmaya yöneliktir.
 Camaçıkmış / Cam açıkmış
-tuzakmış / Tuz akmış
+tuzakmış / Tuz akmış [[3. Hafta]]
 ```
 
 ```anki
 ---
-FRONT HERE
+Biten ezgi
 ===
 BACK HERE
 ```
