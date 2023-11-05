@@ -102,7 +102,7 @@ Sözlükçe (lexicology) [[4. Hafta]]
 ---
 Phonology nedir?
 ===
-Ses Bilgisi (Daha genel olan)
+Ses Bilgisi (Daha genel olan) [[4. Hafta]]
 ```
 
 ```anki
