@@ -263,3 +263,4 @@
 | 260 | [[WatsonFrames/ids/e78c696]] | 0 days 00:03:24  | 2023-11-04 01:48:19 | 2023-11-04 01:51:43 | Programming                 | #WorkedOnMildew, #InspiredWork                                      | [[daily/2023-11-04]] |
 | 261 | [[WatsonFrames/ids/055ccd5]] | 0 days 00:33:00  | 2023-11-05 02:15:00 | 2023-11-05 02:48:00 | BookReading                 | #HerYonuyleDil, #DoganAksan, #Linguistics                           | [[daily/2023-11-05]] |
 | 262 | [[WatsonFrames/ids/503940a]] | 0 days 01:37:06  | 2023-11-05 16:20:55 | 2023-11-05 17:58:01 | Linguistics                 | #Revision, #For_Anki                                                | [[daily/2023-11-05]] |
+| 263 | [[WatsonFrames/ids/459b223]] | 0 days 02:40:42  | 2023-11-06 23:02:02 | 2023-11-07 01:42:44 | Linguistics                 | #Homework                                                           | [[daily/2023-11-06]] |
