@@ -5,6 +5,7 @@ id: 1698522515393
 ===
 Çünkü Dilbiliminin çalışma alanı konuşma dilidir. [[1. Hafta]]
 ```
+
 ```anki
 id: 1698522515513
 ---
