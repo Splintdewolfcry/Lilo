@@ -28,7 +28,7 @@ id: 1699013784502
 What does competence refer to?
 ===
 Innate underlying knowledge or capability of the native speakers about their own language
-(The knowledge that enables one to speak and understand a language) [[3. Hafta]]
+(The knowledge that enables one to speak and understand a language) (edinç) [[3. Hafta]]
 ```
 
 ```anki
@@ -140,6 +140,7 @@ id: 1699195982737
 ===
 fstkç şhp [[4. Hafta]]
 ```
+
 ```anki
 id: 1699195982770
 ---
@@ -181,7 +182,10 @@ id: 1699195982899
 ---
 Sesbirim tanımı?
 ===
-Dilde anlam ayırt edici en küçük birim [[4. Hafta]]
+Dilde anlam ayırt edici en küçük birim **s**el / **k**el / **y**el
+
+Biçimbiriminki anlam yükleyici en küçük birim. **göz**-lük-çü 
+Bağımlı biçimbirim bağımsız biçimbirim gibi de hatırlayabilirsin [[4. Hafta]]
 ```
 
 ```anki

@@ -18,7 +18,7 @@ It's also Productive and Arbitrary [[2. Hafta]]
 ```anki
 id: 1699012768019
 ---
-"Ses Bilgisi"nin İngilizcesi
+"Ses Bilgisi" teriminin İngilizcesi
 ===
 Phonetics (International Phonetics Dictionary gibi düşünebilirsin, bir dil özelinde değil) [[2. Hafta]]
 ```
@@ -36,7 +36,7 @@ id: 1699012768083
 ---
 Ses Bilim ne yapar?
 ===
-Ses Bilgisinin ürettiği bilgileri alır, bunu dil özelinde işler ve inceler [[2. Hafta]]
+Ses Bilgisinin(Phonology) ürettiği bilgileri alır, bunu dil özelinde işler ve inceler [[2. Hafta]]
 ```
 
 ```anki
