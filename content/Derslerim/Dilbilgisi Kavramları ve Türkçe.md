@@ -6,6 +6,7 @@ id: 1698522535751
 ===
 Temel yapılarını anlayabiliyorsa, onu biliyor demektir. Bir çocuk 5 yaşına ulaştığında mükemmel/ideal/doğal konuşucudur. [[2. Hafta]]
 ```
+
 ```anki
 id: 1698522535864
 ---
