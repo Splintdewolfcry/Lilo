@@ -92,7 +92,7 @@ id: 1699195982574
 ---
 Dilbilimin makro alt alanları?
 ===
-Ses bilgisi (phonology)
+Ses bilgisi (phonetics)
 Anlambilim (semantics)
 Biçimbilim (morphology)
 Sözdizim (syntax)
@@ -104,7 +104,7 @@ Sözlükçe (lexicology) [[4. Hafta]]
 ```anki
 id: 1699195982611
 ---
-Phonology nedir?
+Phonetics nedir?
 ===
 Ses Bilgisi (Daha genel olan) [[4. Hafta]]
 ```
