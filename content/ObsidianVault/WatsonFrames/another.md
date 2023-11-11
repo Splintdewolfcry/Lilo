@@ -265,3 +265,5 @@
 | 262 | [[WatsonFrames/ids/503940a]] | 0 days 01:37:06  | 2023-11-05 16:20:55 | 2023-11-05 17:58:01 | Linguistics                 | #Revision, #For_Anki                                                | [[daily/2023-11-05]] |
 | 263 | [[WatsonFrames/ids/459b223]] | 0 days 02:40:42  | 2023-11-06 23:02:02 | 2023-11-07 01:42:44 | Linguistics                 | #Homework                                                           | [[daily/2023-11-06]] |
 | 264 | [[WatsonFrames/ids/0478584]] | 0 days 01:38:49  | 2023-11-09 00:41:26 | 2023-11-09 02:20:15 | Linguistics                 | #Homework                                                           | [[daily/2023-11-09]] |
+| 265 | [[WatsonFrames/ids/fa410e6]] | 0 days 00:29:54  | 2023-11-11 19:26:03 | 2023-11-11 19:55:57 | Programming                 | #InspiredWork, #Optimization                                        | [[daily/2023-11-11]] |
+| 266 | [[WatsonFrames/ids/8774fee]] | 0 days 00:37:06  | 2023-11-11 20:00:29 | 2023-11-11 20:37:35 | Linguistics                 | #Revision, #Anki                                                    | [[daily/2023-11-11]] |
