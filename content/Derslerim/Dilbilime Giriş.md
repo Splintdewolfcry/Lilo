@@ -99,6 +99,8 @@ Sözdizim (syntax)
 Sözlükçe (lexicology) [[4. Hafta]]
 ```
 
+^0bbb6f
+
 ```anki
 id: 1699195982611
 ---
