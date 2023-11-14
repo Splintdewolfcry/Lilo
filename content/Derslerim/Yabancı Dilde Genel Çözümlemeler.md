@@ -5,6 +5,7 @@ Dilin durağan olmadığını vurgulayan güzel bir cümle
 ===
 Dil kinetiktir, devinimseldir[[2. Hafta]]
 ```
+
 ```anki
 id: 1699012767987
 ---

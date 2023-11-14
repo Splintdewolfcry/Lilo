@@ -269,3 +269,4 @@
 | 266 | [[WatsonFrames/ids/8774fee]] | 0 days 00:37:06  | 2023-11-11 20:00:29 | 2023-11-11 20:37:35 | Linguistics                 | #Revision, #Anki                                                    | [[daily/2023-11-11]] |
 | 267 | [[WatsonFrames/ids/7e006bf]] | 0 days 02:24:10  | 2023-11-11 23:11:16 | 2023-11-12 01:35:26 | Programming                 | #InspiredWork, #WorkedOnMildew                                      | [[daily/2023-11-11]] |
 | 268 | [[WatsonFrames/ids/5d57837]] | 0 days 00:13:06  | 2023-11-12 01:35:26 | 2023-11-12 01:48:32 | Linguistics                 | #Anki, #Revision                                                    | [[daily/2023-11-12]] |
+| 269 | [[WatsonFrames/ids/ccb762f]] | 0 days 00:50:19  | 2023-11-13 23:30:00 | 2023-11-14 00:20:19 | Linguistics                 | #PrepFor_Obsidian, #NoteTaking                                      | [[daily/2023-11-13]] |

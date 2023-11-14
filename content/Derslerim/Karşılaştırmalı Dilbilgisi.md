@@ -6,6 +6,7 @@ id: 1698522508425
 ===
 Biçimbilimsel [[1. Hafta]]
 ```
+
 ```anki
 id: 1698522508492
 ---
@@ -152,7 +153,7 @@ id: 1698522509983
 ```anki
 id: 1699193553665
 ---
-Dilde saydamlık ne demek?
+### Dilde saydamlık ne demek?
 ===
 Yazıbirim ile sesbirimin uyuşması (yazıldığı gibi söylenmesi) [[3. Hafta]]
 ```
@@ -160,7 +161,7 @@ Yazıbirim ile sesbirimin uyuşması (yazıldığı gibi söylenmesi) [[3. Hafta
 ```anki
 id: 1699193553687
 ---
-Ezgi biçimleri?
+### Ezgi biçimleri?
 ===
 Biten ezgi
 Süren ezgi
@@ -170,7 +171,7 @@ Soru ezgisi [[3. Hafta]]
 ```anki
 id: 1699193553721
 ---
-Biten ezgiye geldi ile örnek ver
+### Biten ezgiye geldi ile örnek ver
 ===
 Kedi geldi. [[3. Hafta]]
 ```
@@ -178,7 +179,7 @@ Kedi geldi. [[3. Hafta]]
 ```anki
 id: 1699193553753
 ---
-Süren ezgiye örnek ver
+### Süren ezgiye örnek ver
 ===
 Kedi geldi. Yemek yedi. Uyudu. [[3. Hafta]]
 ```
@@ -186,7 +187,7 @@ Kedi geldi. Yemek yedi. Uyudu. [[3. Hafta]]
 ```anki
 id: 1699193553785
 ---
-Soru ezgisine örnek ver
+### Soru ezgisine örnek ver
 ===
 Kedi geldi mi? [[3. Hafta]]
 ```
@@ -194,7 +195,7 @@ Kedi geldi mi? [[3. Hafta]]
 ```anki
 id: 1699193553815
 ---
-Konuşurken kavşak ne için kullanılır?
+### Konuşurken kavşak ne için kullanılır?
 ===
 Ulamayı kaldırmaya yöneliktir.
 Camaçıkmış / Cam açıkmış
@@ -204,7 +205,7 @@ tuzakmış / Tuz akmış [[3. Hafta]]
 ```anki
 id: 1699193553838
 ---
-L'accento nedir?
+### L'accento nedir?
 ===
 (tonico) vurgu
 perché [[3. Hafta]]
@@ -213,7 +214,7 @@ perché [[3. Hafta]]
 ```anki
 id: 1699193553874
 ---
-L'intonazione nedir?
+### L'intonazione nedir?
 ===
 Ezgi (biten, soru, süren) [[3. Hafta]]
 
