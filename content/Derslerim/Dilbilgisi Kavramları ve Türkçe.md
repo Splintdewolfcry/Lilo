@@ -6,7 +6,6 @@ id: 1698522535751
 ===
 Temel yapılarını anlayabiliyorsa, onu biliyor demektir. Bir çocuk 5 yaşına ulaştığında mükemmel/ideal/doğal konuşucudur. [[2. Hafta]]
 ```
-
 ```anki
 id: 1698522535864
 ---
@@ -55,8 +54,56 @@ id: 1699194944644
 ---
 Neden amacımız en az kuralla en fazla şeyi açıklamak?
 ===
-Çocukların dil edinim hızı gerçekten çok ama çok hızlı ve 5 yaşına geldiklerinde doğal konuşucu oluyorlar. Dolayısıyla en az karmaşıklıklıkla(kuralla) çok fazla şeyi açıklamamız mümkün
+Çocukların dil edinim hızı gerçekten çok ama çok hızlı ve 5 yaşına geldiklerinde doğal konuşucu oluyorlar. Dolayısıyla en az karmaşıklıklıkla(kuralla) çok fazla şeyi açıklamamız mümkün [[3. Hafta]]
 ```
+```anki
+id: 1700310788467
+---
+Türkçe'de özneyi sesletmesek de olmasına ne ad veriliyor?
+===
+Sıfır özne dilidir (Null Subject Language)
+```
+
+```anki
+id: 1700310788499
+---
+Edinç nedir?
+===
+Doğal konuşucusu olduğumuz dile ait sahip olduğumuz gramer bilgisi (edinç-bilinç)
+```
+
+```anki
+id: 1700310788530
+---
+Edinç İng?
+===
+Competence or Linguistic Competence
+```
+
+```anki
+id: 1700310788575
+---
+Dilbilimde Edim nedir?
+===
+Dil yetisini kullanma, sahip olduğumuz gramer bilgisini kullanma
+```
+
+```anki
+id: 1700310788606
+---
+Edim İng?
+===
+Linguistic Performance (diğeri edinç - linguistic competence)
+```
+
+```anki
+id: 1700310788639
+---
+Sezgisel veri kaça ayrılır
+===
+BACK
+```
+
 
 
 
