@@ -62,7 +62,7 @@ id: 1699194857928
 'Arbitrariness' meaning?
 ===
 Nedensizlik, sözcük ile sözcüğün işaret ettiği şey arasında bir sebep olmaması
-(Ağaç sözcüğüyle ağacın kendisi arasında bir bağıntı yoktur)
+(Ağaç sözcüğüyle ağacın kendisi arasında bir bağıntı yoktur) [[3. Hafta]]
 ```
 
 ```anki
@@ -70,7 +70,7 @@ id: 1699194857957
 ---
 Ses bilgisi İng?
 ===
-Phonetics
+Phonetics [[3. Hafta]]
 ```
 
 ```anki
@@ -78,7 +78,7 @@ id: 1699194857984
 ---
 Sapir-Whorf hipotezi neyi destekler?
 ===
-Dilin düşünceyi etkilediğini
+Dilin düşünceyi etkilediğini [[3. Hafta]]
 ```
 
 ```anki
@@ -86,8 +86,30 @@ id: 1699194858017
 ---
 Uttarance ne demek?
 ===
-Sözce
+Sözce [[3. Hafta]]
 ```
+
+```anki
+id: 1700827433813
+---
+Saussure temelde şunu savunur
+===
+söz ve dilin birbirinden ayrı olduğunu [[4. Hafta]]
+```
+
+```anki
+id: 1700827433845
+---
+What is generative grammar?
+===
+It's a system which explicit rules may be applied repeatedly to generate an indefinite amount of sentences and they can be as long as one wants them to be [[4. Hafta]]
+```
+
+
+-  Cognitive Linguistics?
+- Construction grammar?
+
+
 
 
 

@@ -6,7 +6,6 @@ id: 1698522508425
 ===
 Biçimbilimsel [[1. Hafta]]
 ```
-
 ```anki
 id: 1698522508492
 ---
@@ -29,6 +28,7 @@ id: 1698522508555
 ===
 Gitmek / seyahat etmek, çekimleri de Vado Vai Va gibi oluyor tekiller için [[1. Hafta]]
 ```
+
 ```anki
 id: 1698522508623
 ---
@@ -36,7 +36,6 @@ id: 1698522508623
 ===
 Anlam yükleyici en küçük birim. göz-lük, göz-cü [[1. Hafta]]
 ```
-
 ```anki
 id: 1698522508727
 ---
@@ -222,6 +221,143 @@ Arrivano.
 Arrivano?
 Arrivano, ...
 ```
+
+```anki
+id: 1700827086104
+---
+Dillerde genelde .. cinsiyet vardır.
+===
+2, Dilbilgisel ve sözlüksel [[4. Hafta]]
+```
+
+```anki
+id: 1700827086136
+---
+Dilbilgisel cinsiyet nedir?
+===
+Dilbilgisel cinsiyet adları dişil, eril ya da yansız kategorize eden sistemdir [[4. Hafta]]
+```
+
+```anki
+id: 1700827086169
+---
+Sözlüksel cinsiyet nedir?
+===
+Doğal-biyolojik cinsiyet (dilbilgisel cinsiyette kullanılan artikeller yerine) [[4. Hafta]]
+```
+
+```anki
+id: 1700827086206
+---
+Sözlüksel cinsiyet İng?
+===
+Lexical Gender [[4. Hafta]]
+```
+
+```anki
+id: 1700827086239
+---
+Türkçede hangi cinsiyet kullanımı yaygındır?
+===
+Sözlüksel cinsiyet(biyolojik cinsiyet) [[4. Hafta]]
+```
+
+```anki
+id: 1700827086275
+---
+İtalyanca hangi cinsiyetin ağırlıklı olduğu bir dildir?
+===
+Maskulin [[4. Hafta]]
+```
+
+```anki
+id: 1700827086307
+---
+İtalyancada .. cinsiyet varken Türkçede .. cinsiyet vardır
+===
+İtalyanca dilbilgisel, Türkçede sözlüksel cinsiyet vardır [[4. Hafta]]
+```
+
+```anki
+id: 1700827086339
+---
+Türkçede dilbilgisel cinsiyet bulunmaz ancak bazı ödünçleme sözcüklerde bu durum görülebilir, buna örnek ver
+===
+Kral--Kraliçe [[4. Hafta]]
+```
+
+```anki
+id: 1700827086375
+---
+Türkçede dilbilgisel cinsiyete rastladığımız 3 yere örnek ver
+===
+Ödünçleme (kral kraliçe)
+Akrabalık adlarında ve hitap biçimlerinde (anne baba, teyze dayı)
+Hayvan adlarında (tavuk horoz, inek boğa) [[4. Hafta]]
+```
+
+```anki
+id: 1700827086407
+---
+Türkçede dilbilgisel cinsiyet bulunmaz ancak bazı hayvan adlarında görülür, örnek ver
+===
+Tavuk horoz, inek boğa [[4. Hafta]]
+```
+
+```anki
+id: 1700827086439
+---
+Bazı isimler çağrışımlarıyla erkek olabiliyor, örnek ver
+===
+Asker, şöfor, aslan... [[4. Hafta]]
+```
+
+```anki
+id: 1700827086475
+---
+Say black cat in Italian
+===
+il gatt*o* ner*o*
+il gatt*a* ner*a* [[4. Hafta]]
+```
+
+```anki
+id: 1700827086507
+---
+Erkek arkadaş - kız arkadaş in Italian
+===
+amico - amica [[4. Hafta]]
+```
+
+```anki
+id: 1700827086525
+---
+Dilbilgisel cinsiyetle .. her zaman örtüşmez
+===
+Doğal cinsiyetle her zaman örtüşmez [[4. Hafta]]
+```
+
+```anki
+id: 1700827086558
+---
+Cinsiyet atamada iki doğal yöntem vardır:
+===
+İlki dilbilgisel(biçimsel) diğeri de doğal(anlamsal) [[4. Hafta]]
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
