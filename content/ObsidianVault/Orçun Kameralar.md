@@ -1,7 +1,7 @@
 - Nikon D3500 vs D5300 https://cameradecision.com/compare/Nikon-D3500-vs-Nikon-D5300
 	- Its wide dynamic range makes it ideal for landscape photography
 	- Oynatilabilir ekran
-	- AF noktasi fazlaligi
+	- AF noktasi fazlaligi 11 vs 39 nokta
 	- ![[Pasted image 20231208035059.png]]
 
 
@@ -13,3 +13,6 @@
 - https://www.sahibinden.com/en/nikon-dslr-digital-cameras?query_text_mf=d7100&query_text=d7100
 - ![[Pasted image 20231208035134.png]]
 - Weather-sealed (splashproof)
+
+
+- SLR ve DSLR arasindaki teknoloji farklari (focus stacking, hdr, image stabilization..)
