@@ -201,14 +201,48 @@ Subject Object Verb (S O B) [[4. Hafta]]
 
 
 
+======
+Slaytlardan, Sözdizim1
+
+Bu anlamda denilebilir ki, sözdizim, öbek ve tümcelerin yapısını inceleyen bir dilbilgisi bileşenidir (Dile ilişkin bilgimizi oluşturan diğer yapılar, dilbilgisinin diğer bileşenleridir. Yani dilbilgisinin diğer bileşenleri, sesbilim, sesbilgisi, biçimbilim ve anlambilimdir).
+
+Bir dili bilmek, hangi biçimbirim birleşim ya da dizilerine sözdizimsel kurallarca izin verildiğini ve hangilerine de izin verilmediğini bilmek demektir. Sözdizimsel kurallara uyan biçimbirim dizilerine tümce ya da dilbilgisel tümce (grammatical sentence), uymayanlara da **dilbilgisi dışı** tümce (ungrammatical sentence) adı verilir.
+![[librewolf_XPyRN8uHNx.png]] 
+- Burada hocanın verdiği örneklerin tamamı bağlamdan eksik olduğu için veya neye işaret ettiğini bilmediğimiz için sıkıntılı ya da bozuk diyoruz.
+- Soru işareti de yok direk bağlamla ilgili sorular
+
+
+## Dilbilgisellik Nelere Bağlı Değildir?
+- Okulda öğrenilene hiç bağlı değil (Okuma yazma bilmeyenler de düzgün konuşabiliyor ve edim+edinç)
+- Daha önceden duymuş olmamıza bağlı değil
+	- Benim arka bahçedeki serçeler boş zamanlarında sigara içiyor dediğimde bu cümlenin (dilbilgisel olarak) doğru olup olmadığını bilmem için daha önce duymuş olmam gerekmiyor
+- Colorless green ideas sleep furiously ([anlamlı olup olmaması değil] olay)
+- Cümlenin doğruluğuna bağlı değildir, öyle olsa yalan söylemezdik
+
+## Anlambulanıklığı:
+### Yapısal olarak:
+12)
+[Tahta kapı] tokmakları burada satılmaktadır.
+
+13)
+Tahta [kapı tokmakları] burada satılmaktadır.
+
+![[librewolf_QJXaqPFcu4.png]]
+### Anlamsal olarak:
+
+- Özlem evde kaldı.
+Yani, ifadenin iki anlama birden geldiği bir sözdizimsel yapı söz konusudur.
+
+
+![[librewolf_Uv4lp37sk7 1.png]]
 
 
 
+- Bir tümcenin dilbiligiselliğini native speaker i olduğumuz için biliyoruz ve benim arkabahçemdeki serçeler sigara içiyor cümlesindeki gibi tekrara dayalı değildir. (Üretkenlik + Edim/Edinç)
 
+- Bizim fakültede çok fazla ucube var: Fakültenin kendisi değil içindekileri dilbilgisel olarak kast ettiğini anlamamız, aynı zamanda anlam bulanıklığı (Çift anlamlılık)
 
-
-
-
+- 
 
 
 
