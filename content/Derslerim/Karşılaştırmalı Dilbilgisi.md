@@ -289,11 +289,9 @@ Kral--Kraliçe [[4. Hafta]]
 ```anki
 id: 1700827086375
 ---
-Türkçede dilbilgisel cinsiyete rastladığımız 3 yere örnek ver
+Türkçede dilbilgisel cinsiyete rastladığımız yere örnek ver
 ===
 Ödünçleme (kral kraliçe)
-Akrabalık adlarında ve hitap biçimlerinde (anne baba, teyze dayı)
-Hayvan adlarında (tavuk horoz, inek boğa) [[4. Hafta]]
 ```
 
 ```anki
