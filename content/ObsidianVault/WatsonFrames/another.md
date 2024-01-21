@@ -273,4 +273,4 @@
 | 270 | [[WatsonFrames/ids/6c4247c]] | 0 days 05:30:00  | 2023-11-17 17:30:00 | 2023-11-17 23:00:00 | Linguistics                 | #Revision                                                           | [[daily/2023-11-17]] |
 | 271 | [[WatsonFrames/ids/adf3488]] | 0 days 05:30:00  | 2023-11-18 17:30:00 | 2023-11-18 23:00:00 | Linguistics                 | #Revision                                                           | [[daily/2023-11-18]] |
 | 272 | [[WatsonFrames/ids/1a879e3]] | 0 days 07:30:00  | 2023-11-19 15:30:00 | 2023-11-19 23:00:00 | Linguistics                 | #Revision                                                           | [[daily/2023-11-19]] |
-| 273 | [[WatsonFrames/ids/9f25015]] | 0 days 01:33:40  | 2023-11-24 13:50:53 | 2023-11-24 15:24:33 | Lingustics                  | #Revision, #For_Anki, #NoteTaking                                   | [[daily/2023-11-24]] |
+| 273 | [[WatsonFrames/ids/9f25015]] | 0 days 01:33:40  | 2023-11-24 13:50:53 | 2023-11-24 15:24:33 | Linguistics                 | #Revision, #For_Anki, #NoteTaking                                   | [[daily/2023-11-24]] |
