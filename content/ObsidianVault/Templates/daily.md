@@ -1,9 +1,9 @@
 ### {{title}}
 
-### Anything Due Today?
-```dataviewjs
-dv.taskList(dv.pages().file.tasks 
-  .where(t => !t.completed)
-  .where(t => t.text.includes("{{date:YYYY-MM-DD}}")))
+### Notes Created/Modified Today
+```dataview
+LIST 
+WHERE file.mday = this.file.cday
+SORT file.name asc
 ```
 ### Log
