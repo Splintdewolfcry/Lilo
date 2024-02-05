@@ -16,5 +16,11 @@
 
 ## Day 4 
 - OHLC value tanımları
+- Genel bir tekrar
 - Trend'in matematiksel tanımı
+- Trend türleri (Range bound, uptrend, downtrend)
+
+## Day 5
 - Klinger Oscillator üzerinden biraz volume ile uğraşmaya başlayabiliriz
+- Moving Average SMA vs EMA 
+	- https://corporatefinanceinstitute.com/resources/data-science/moving-average/
