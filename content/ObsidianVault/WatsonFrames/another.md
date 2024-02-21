@@ -284,3 +284,4 @@
 | 281 | [[WatsonFrames/ids/a2c0d1e]] | 0 days 00:31:08  | 2024-02-12 01:31:48 | 2024-02-12 02:02:56 | Programming                 | #InspiredWork, #WorkedOnMildew                                             | [[daily/2024-02-12]] |
 | 282 | [[WatsonFrames/ids/c658a46]] | 0 days 00:53:24  | 2024-02-12 08:01:19 | 2024-02-12 08:54:43 | Programming                 | #InspiredWork, #WorkedOnMildew                                             | [[daily/2024-02-12]] |
 | 283 | [[WatsonFrames/ids/b69ece1]] | 0 days 00:42:00  | 2024-02-17 06:33:00 | 2024-02-17 07:15:00 | Programming                 | #Udemy, #Tutorial                                                          | [[daily/2024-02-17]] |
+| 284 | [[WatsonFrames/ids/a3b970a]] | 0 days 02:05:38  | 2024-02-21 01:00:00 | 2024-02-21 03:05:38 | PodcastListening            | #WithNotes, #PonderedOver, #PhilosophizeThis, #Author_SimonWeil            | [[daily/2024-02-21]] |
