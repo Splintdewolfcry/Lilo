@@ -1,12 +1,12 @@
 ## Day 1
 - General introduction to [[RSI]], 6-10 günlük [[RSI]] değerini hesaplamasını istedim berattan (14 günlük hazırladı o)
-	- [[In Retrospective]] 14 günlük istemeliydim çünkü zaten sürekli hesaplanan bir şey değil ve ilk noktada [[RSI]] ı düzgün anlaması açısından daha sağlıklı olurdu ^vfsqsy
+	- [[Things In Retrospective]] 14 günlük istemeliydim çünkü zaten sürekli hesaplanan bir şey değil ve ilk noktada [[RSI]] ı düzgün anlaması açısından daha sağlıklı olurdu ^vfsqsy
 
 ## Day 2
 - İkinci gün;
 	- BTC ve ETH nin Binance ve Bybitteki pairlerini
 	- [[BTC.D]], [[ETH.D]] chartlarını eklettim
-- [[In Retrospective]] bunların o günlerdeki birbirleriyle bağıntılı olarak nasıl ilerlediğini anlaması açısından biraz inceleyip bana yorum çıkarmasını istemem gerekirdi
+- [[Things In Retrospective]] bunların o günlerdeki birbirleriyle bağıntılı olarak nasıl ilerlediğini anlaması açısından biraz inceleyip bana yorum çıkarmasını istemem gerekirdi
 
 ## Day 3
 - [[RSI]] [[Divergence]] lara giriştim, en temel trading toollardan birisi olduğu için onlara giriştim

@@ -5,3 +5,6 @@
 	- In James Gleick's groundbreaking 1997 book "Chaos: Making a New Science," he masterfully navigates the uncharted territory of chaos theory, weaving a captivating narrative that explores the profound implications of chaos in various scientific disciplines and everyday life.  
 	- Gleick demystifies the complex concepts of nonlinear dynamics and fractals, offering readers a lucid and accessible introduction to a realm where unpredictability and order coexist.
 
+- On Photography'e bir sağlam kitap + minimum'unda ilk coursera kursunu bitirdikten sonra dön
+	- Philosophize this podcastlerinden yola çıkabilirsin
+	- 
