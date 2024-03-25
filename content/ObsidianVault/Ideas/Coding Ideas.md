@@ -23,3 +23,5 @@
 	- Değişiklikleri nasıl birebir alabilirim gerçekten hiç kestiremiyorum ama onun da kesin bir library'si yapılmıştır
 	- ![[Python#^cdnmbq]]
 	- ![[Python#^zedhtk]]
+
+- Google calendar daki o günkü eventleri al, obsidian'a kopyala. Probably will be in the other vault
