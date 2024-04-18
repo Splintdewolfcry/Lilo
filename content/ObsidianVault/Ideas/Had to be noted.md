@@ -10,3 +10,21 @@
 - Mathematically improving my trades and the risks i take
 
 - DÖK projelerini hiç incelemedim, onlara biraz bakmalıyım
+
+
+
+
+- Proje
+	- Selcuk
+	- Coskun Aral
+	- Berk Kir
+
+TRTli Proje
+- Coskun Aralla TRT Muzesi
+- Coskun Aral Taciz
+	- Facebook
+	- İnsta
+	- Mail
+	- LinkedIn
+	- Mehmet Coskun Aral
+	- 
