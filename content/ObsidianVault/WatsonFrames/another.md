@@ -308,3 +308,4 @@
 | 305 | [[WatsonFrames/ids/58dee95]] | 0 days 03:15:00  | 2024-03-21 18:00:00 | 2024-03-21 21:15:00 | Linguistics                 | #TOMER, #French, #Zoom                                                     | [[daily/2024-03-21]] |
 | 306 | [[WatsonFrames/ids/e8405e1]] | 0 days 01:15:00  | 2024-03-24 12:45:00 | 2024-03-24 14:00:00 | Topluluklar                 | #AmerikanFutbolu, #Golbasi                                                 | [[daily/2024-03-24]] |
 | 307 | [[WatsonFrames/ids/7642a23]] | 0 days 02:51:49  | 2024-03-25 18:00:00 | 2024-03-25 20:51:49 | Linguistics                 | #TOMER, #French, #Zoom                                                     | [[daily/2024-03-25]] |
+| 308 | [[WatsonFrames/ids/c6d9a5d]] | 0 days 02:48:43  | 2024-04-27 16:51:45 | 2024-04-27 19:40:28 | Linguistics                 | #Revision, #AdditionalRevision                                             | [[daily/2024-04-27]] |

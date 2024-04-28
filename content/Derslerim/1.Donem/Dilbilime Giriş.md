@@ -3,7 +3,7 @@ id: 1698522515393
 ---
 ### Biz neden harf yerine "ses" ifadesini kullanıyoruz?
 ===
-Çünkü Dilbiliminin çalışma alanı konuşma dilidir. [[1. Hafta]]
+Çünkü Dilbiliminin çalışma alanı konuşma dilidir. [[1. HaftEa]]
 ```
 
 ```anki
