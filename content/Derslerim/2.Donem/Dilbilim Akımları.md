@@ -1,4 +1,5 @@
 - Hafta 1, 2, 6, 7 yapılmadı
+- Saussure kısımları eksik
 
 [[Dönem 2 Hafta 3]]
 ```
