@@ -1,0 +1,1 @@
+Biraz düzenle folderları, bu kadar lineer olmasınlar, hiçbi sikim uymuyor 
