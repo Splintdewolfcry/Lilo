@@ -128,7 +128,7 @@ Quelle est votre adresse? #Questioning_Questions #Ornek-Kalıplar
 id: 1714080472469
 ---
 Adresin soruldü
-No:19 Eti Mah,
+No:19
 Çankaya, Ankara, Türkiye
 ===
 J'habite 19(dix-neuf), rue Eti à Ankara en Turqiue #Ornek-Kalıplar 
@@ -188,18 +188,6 @@ id: 1714080472748
 travaille hangi grupta?
 ===
 1. grupta: -er ile bitiyor #Questioning_Verb 
-
-je travaille
-
-tu travailles
-
-il/elle/on travaille
-
-nous travaillons
-
-vous travaillez
-
-ils/elles travaillent
 ```
 #Conjugaison
 ```anki
