@@ -343,3 +343,4 @@
 | 340 | [[WatsonFrames/ids/8be5a61]] | 0 days 02:15:00  | 2024-05-09 19:00:00 | 2024-05-09 21:15:00 | Topluluklar                 | #AmerikanFutbolu, #Tandogan                                                | [[daily/2024-05-09]] |
 | 341 | [[WatsonFrames/ids/fdf098d]] | 0 days 02:45:00  | 2024-05-12 12:00:00 | 2024-05-12 14:45:00 | Topluluklar                 | #AmerikanFutbolu, #Tandogan                                                | [[daily/2024-05-12]] |
 | 342 | [[WatsonFrames/ids/3cef788]] | 0 days 02:54:11  | 2024-05-13 18:02:00 | 2024-05-13 20:56:11 | Linguistics                 | #French, #TOMER, #Zoom                                                     | [[daily/2024-05-13]] |
+| 343 | [[WatsonFrames/ids/61cea6e]] | 0 days 02:15:56  | 2024-05-14 01:49:55 | 2024-05-14 04:05:51 | Programming                 | #WorkedOnMildew, #InspiredWork                                             | [[daily/2024-05-14]] |
