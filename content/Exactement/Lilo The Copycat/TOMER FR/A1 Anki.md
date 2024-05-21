@@ -252,15 +252,10 @@ Pencere #Questioning_Verb
 ```
 
 
+![[039F4D54-CD54-4996-8863-922EDC4C4A68.jpeg]]
 
 
-
-
-
-
-
-
-
+![[51D9C567-2AB0-4862-A5E2-C987DF3857A5.png]]
 
 
 
