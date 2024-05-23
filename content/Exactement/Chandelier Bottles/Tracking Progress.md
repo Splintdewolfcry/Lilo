@@ -12,3 +12,5 @@
 	- Bir süredir sanırım düzgün içmediğim ya da zorlama içtiğim için 2. dalı bitirmeden hem dalı hem de paketi ortasında bırakıp çöpe attım
 	- Yarın(gece yazıyorum bugün) Çınar'a gideceğim, sigarasız dayanacağım, ***içmiyorum**.*
 	- Yarınki antrenman beni çok geriyor ama devam edeceğim
+
+[[2024-05-23]] --> [[Some Introspective Thoughts Jotted Down]]

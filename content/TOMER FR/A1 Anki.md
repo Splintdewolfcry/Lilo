@@ -7,6 +7,9 @@
 
 - Il elle **on**
 
+- Partitif
+- Passe composé
+
 [[LeComplement]] #Qqn
 ```anki
 id: 1714074638392
@@ -250,6 +253,7 @@ la fenêtre nedir?
 ===
 Pencere #Questioning_Verb 
 ```
+
 
 
 

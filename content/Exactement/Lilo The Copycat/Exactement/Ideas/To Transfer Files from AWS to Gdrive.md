@@ -1,1 +1,0 @@
-`sudo apt update && sudo apt upgrade --assume-yes && sudo apt install snap --assume-yes && ngrok config add-authtoken 26fXbpyELHzoYywaQz4EWPO6d0v_7nfz9hTicrDgKRPAN9cqP &&  `

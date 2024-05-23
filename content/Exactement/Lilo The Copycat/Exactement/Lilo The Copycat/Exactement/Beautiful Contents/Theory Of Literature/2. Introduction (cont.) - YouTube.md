@@ -1,1 +1,0 @@
-[[Burayı Sildim Bir Daha Dinle ve NOT ET]]
