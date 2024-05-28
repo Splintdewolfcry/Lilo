@@ -1,5 +1,0 @@
-[[Beautiful Courses/Coursera/MoMA/Beautiful Tidbits]]
-[[Beautiful Courses/Coursera/MoMA/Allowing a Soul Of Their Own]]
-[[Beautiful Courses/Coursera/MoMA/Pieces of Non-Linear History]]
-[[Chandelier Bottles/Matches a Piece of My Soul]]
-[[Beautiful Courses/Coursera/MoMA/Striking Details]]
