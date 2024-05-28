@@ -1,3 +1,0 @@
-- Tüm isimlerle folderdaki her .* uzantılı dosyanın ismini karşılaştıracak tutuyorsa okeydir
-- Her dosyanın ismindeki son sözcüğü tamamı büyük harf yapacak
-- 
