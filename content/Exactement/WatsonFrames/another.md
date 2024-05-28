@@ -362,3 +362,4 @@
 | 359 | [[WatsonFrames/ids/99a8a30]] | 0 days 03:15:00  | 2024-05-23 18:45:00 | 2024-05-23 22:00:00 | Topluluklar                 | #AmerikanFutbolu, #Tandogan                                                | [[daily/2024-05-23]] |
 | 360 | [[WatsonFrames/ids/e2d87d1]] | 0 days 02:23:31  | 2024-05-24 15:32:00 | 2024-05-24 17:55:31 | Linguistics                 | #French, #TOMER, #Zoom                                                     | [[daily/2024-05-24]] |
 | 361 | [[WatsonFrames/ids/589fa3b]] | 0 days 00:01:00  | 2024-05-23 18:00:00 | 2024-05-23 18:01:00 | Linguistics                 | #French, #TOMER, #Zoom                                                     | [[daily/2024-05-23]] |
+| 362 | [[WatsonFrames/ids/e54a50e]] | 0 days 01:32:56  | 2024-05-25 21:15:00 | 2024-05-25 22:47:56 | Linguistics                 | #Revision, #AdditionalRevision                                             | [[daily/2024-05-25]] |

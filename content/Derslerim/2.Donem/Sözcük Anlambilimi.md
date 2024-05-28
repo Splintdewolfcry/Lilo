@@ -20,7 +20,6 @@ id: 1714578301465
 ===
 Herhangi bir dile özgü sözcük, öbek ya da tümcenin anlamsal doğasını araştırmak [[Anlambilimi 1. Slayt]]
 ```
-
 ```anki
 id: 1714578301496
 ---
@@ -119,7 +118,7 @@ Kavram
 Dil ve dünya arasındaki kavramsal ilişki
 Sözcük anlamı ve sözcüklerarası anlam ilişkileri [[Anlambilimi 2. Slayt]]
 ```
-[[Anlambilimi 2. Slayt]]
+
 ```anki
 id: 1714583550586
 ---
@@ -129,7 +128,7 @@ Bir bütün oluşturmak için bir arada olma bağıntısı
 Hem - hem
 Syntagmatic relations are defined as words that **co-occur** in the same sentence [[Anlambilimi 2. Slayt]]
 ```
-
+[[Anlambilimi 2. Slayt]]
 ```anki
 id: 1714583550616
 ---
@@ -153,7 +152,9 @@ chicken işte leopar olabilirdi gibi
 ```
 
 
+
 ```anki
+id: 1716662734084
 ---
 Gösterge neden zihinsel bir içerik?
 ===
@@ -161,8 +162,8 @@ Bazı sözcüklerin gerçek dünyada gönderimi yok (çünkü, sonrai eğer..)
 Kimi adların varoluşsal gönderimi yok (3. dünya savaşı, ejderiyalar..)
 Varoluşsal gönderimi olsa da farklı yollarda gönderim yapabiliriz (ABD Başkanı -- Kennedy gibi..) [[Anlambilimi 2. Slayt]]
 ```
-
 ```anki
+id: 1716662734116
 ---
 Sözcük ile gösterge arasındaki fark nedir?
 ===
@@ -170,6 +171,7 @@ Sözcük-gösterge bağlantılı ama gösterge daha geniş bir kavram
 Gösterge : zihinsel bir representation iken
 Sözcük : bir kodlama [[Anlambilimi 2. Slayt]]
 ```
+
 
 
 - ![[Ogden_semiotic_triangle.png]]

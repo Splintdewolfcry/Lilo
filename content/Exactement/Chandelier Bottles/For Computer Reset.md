@@ -29,4 +29,9 @@
 	- xBrowser Sync
 	- Tab Stash
 
-- 
+- Legion Fan Control
+- HWINFO64
+- Nx Studio
+- Zoom
+- Zotero?
+- Vscodium / Pycharm
