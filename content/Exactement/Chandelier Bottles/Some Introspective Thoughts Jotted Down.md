@@ -22,3 +22,19 @@ sen hatırlamazsın ben unutmam. Nasıl kıydın yüreğim, kandı yüreğim san
 Yaşamadan ölmeye itirazım var. Benim bu dertlere ne borcum var ki tuttu, bırakmıyor.
 
 The thing I found with losing old friends is that you lose your history, the person you've once been, the things you went through. When you have that friend, you can reminisce old days, you listen rememberance and talk about how you made through whatever shit it was. So it becomes enough, because they were something shared you don't need to explain how it was for you, how you dealt with it. The other person had already seen that, lived through both of themselves and mine so you just exist there and it becomes enough. When that is lost, those shared experiences, the people you knew, you no longer have that, both the good and bad. So they become lost history with no way to regain that. Nowadays I seem to obsses over finding a way to keep those rememberances from being lost. Not sure how successful i am at that but it's painstakingly clear that these workarounds i try to make happen is not an adequate replacement. Just a way to alleviate whatever pain or thoughts I deal with. They're lost in time. Just like how Chronos is trying to deal with gods. I also deal with time, one that can't be stopped, altered, just paving a way forward whatever happens or does not happen. Possibilities are not a thing for time, they didn't happen so they didn't happen. It's a feedback loop that you can't change. A fallacy of sorts, an ironic and funny one, that's for sure. Just like how i learn French, work at it, how i go again and again to the lessons
+
+[[2024-05-28]]
+I failed myself and Teo because of my ways of finding stupid excuses and even more stupid self pity. I had stopped smoking but I started again when I went to Istanbul. It's too late so I'm just gonna give the headlines. Got scared of the depression, relapsed
+Haven't been reading these days at all, not liking it so much but also have been having efficient nights in terms of coding
+Making new friends, making amends with somewhat old and older friends, removed a lot of nuisance. Some things work fine some don't.
+Renewed my lease with Bekir. Don't have much to feel, just looking for some solutions as to how I eat
+Spending a lot and earning none
+Want to buy r50 and earn money on the side somehow (maybe with Yusuf?)
+Quite happy and somewhat empty at the same time, maybe addicted to melancholy or let's just say looking for it where there is very little so trying some way to explain why I am not suffering out of my mind when I am not asleep
+İlayda keeps popping up into my head, not liking it. Missed the love I could afford to give someone and receive some
+Need some face sitting 
+Güçlenip futbolda milletin amina koymak istiyorum
+Gastro gitmem lazım çok artti
+Deli dolu yemek istiyorum
+Somewhat end rant
+

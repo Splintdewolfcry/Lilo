@@ -5,8 +5,9 @@
 	- Adem Meleke ye haber ver
 - Projects eklentisi bayaaaaa iyi
 	- To do yla birlestirilebilir, deli seyler cikar
-- [[2024-05-20]] de Çınarda kaldım, bir şeyler not et, ekle hem calendar a hem de Chandelier'e
-	- Videolar, ettiğimiz küfürlerin target'ı/target'ları, olası ters bir durumda yaşanan/yaşanabilecek problemler, uyku problemi çekmesi, iletişimsiz kalmam, sigaraya geri başlamam, yanlış insan uğruna hala ara ara çektiğim yalnızlık/özlem, Azra, şarkılarım, self inflicted pain(sigara(çino çıkışı yoldaki halim)), dondurma yemem her gün, insanlarla ilişkilerim, irade gücüm, Teo'nun beguiling warmth u, İrem kahve muhabbeti, gece gece yanlış şeylere takmam, Eren ve Balkan (Eren le iyileşirken Balkan), Yusuf, Kaan ve ekibi, dengesizliğim, doktora gitmeye çekinmem, yazın çalışma planım, gelecek planım, para yetersizliği/kontrolsüzlüğü, kripto, genel kalacak yer durumum(teo bağlantılı)
+
+
+- [[2024-05-20]]
 - Kendimle gurur duyuyorum
 - Watson self reflection tag i ac
 - Mildew i exe haline getir
