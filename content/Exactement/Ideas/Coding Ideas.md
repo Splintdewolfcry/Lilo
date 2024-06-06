@@ -21,7 +21,7 @@
 - Obsidian'da o gün modify edilmiş embed bloklarını o günkü daily'e aktar
 	- Based on last modified date (mtime and ctime)
 	- Değişiklikleri nasıl birebir alabilirim gerçekten hiç kestiremiyorum ama onun da kesin bir library'si yapılmıştır
-	- ![[Project- Notes and Tutorials/Python#^cdnmbq]]
-	- ![[Project- Notes and Tutorials/Python#^zedhtk]]
+	- ![[Python#^cdnmbq]]
+	- ![[Python#^zedhtk]]
 
 - Google calendar daki o günkü eventleri al, obsidian'a kopyala. Probably will be in the other vault
