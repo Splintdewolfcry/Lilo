@@ -382,3 +382,4 @@
 | 379 | [[WatsonFrames/ids/707c90c]] | 0 days 01:20:00  | 2024-06-08 17:15:00 | 2024-06-08 18:35:00 | Linguistics                 | #French, #Revison, #AdditionalRevision                                          | [[daily/2024-06-08]] |
 | 380 | [[WatsonFrames/ids/2e289fe]] | 0 days 03:30:00  | 2024-06-08 19:00:00 | 2024-06-08 22:30:00 | Linguistics                 | #French, #Tomer, #Zoom                                                          | [[daily/2024-06-08]] |
 | 381 | [[WatsonFrames/ids/95427b2]] | 0 days 03:15:52  | 2024-06-09 00:35:00 | 2024-06-09 03:50:52 | Programming                 | #InspiredWork, #WorkedOnMildew                                                  | [[daily/2024-06-09]] |
+| 382 | [[WatsonFrames/ids/2c17347]] | 0 days 03:35:00  | 2024-06-10 18:00:00 | 2024-06-10 21:35:00 | Linguistics                 | #French, #TOMER, #Zoom                                                          | [[daily/2024-06-10]] |
