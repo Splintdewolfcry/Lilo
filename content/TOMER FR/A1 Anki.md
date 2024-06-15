@@ -20,6 +20,8 @@ quelqu'un (kişi)
 parler à qqn.
 conseiller à qqn de faire qqch [[LeComplement]] #Qqn
 ```
+
+#Qqch
 ```anki
 id: 1714075690105
 ---
@@ -28,7 +30,8 @@ qqch. nedir?
 quelque chose (nesne)
 prendre qqch. [[LeComplement]] #Qqch
 ```
-#Qqch
+
+#Qqpart
 ```anki
 id: 1714075690135
 ---
@@ -37,7 +40,8 @@ qqpart. nedir?
 quelque part (yer)
 Pierre est professeur de français à l'école (être à qqpart.) [[LeComplement]] #Qqpart
 ```
-#Qqpart
+
+#Qqtemps
 ```anki
 id: 1714077723117
 ---
@@ -45,7 +49,8 @@ qqtemps nedir?
 ===
 quelque temps (zaman) [[LeComplement]] #Qqtemps
 ```
-#Qqtemps
+
+#Sonluk-Cinsiyet
 ```anki
 id: 1714077723148
 ---
@@ -54,7 +59,7 @@ Fr'de sadece sonunda -e ile biten mesleklerin cinsiyeti ne oluyor?
 İkisi de olabilir, direk bir şey diyemiyoruz
 ![[IMG_0001.jpg]] #Sonluk-Cinsiyet
 ```
-#Sonluk-Cinsiyet
+
 ```anki
 id: 1714077723396
 ---
@@ -80,6 +85,7 @@ Masc.
 ![[IMG_0002.jpg]] #Sonluk-Cinsiyet
 ```
 
+#Ornek-Kalıplar #Questioning_Verb
 ```anki
 id: 1714077723526
 ---
@@ -87,7 +93,7 @@ She lives in Bruxeless Belgique, FR?
 ===
 Elle habite à Bruxelles, en Belgique #Ornek-Kalıplar
 ```
-#Ornek-Kalıplar #Questioning_Verb
+
 ```anki
 id: 1714077723565
 ---
@@ -96,6 +102,7 @@ dire qqch. à qqn. nedir?
 To say smth to somebody
 Mme Lebon dit 'comment allez-vous' à M Legrand. #Questioning_Verb
 ```
+
 #Conjugaison_Avoir
 ```anki
 id: 1714077723585
@@ -119,6 +126,7 @@ Où sont les personnes? sorusunda ne soruyor
 ===
 Où nerede sorusuna benzeri, muadili #Questioning_Questions #Ornek-Kalıplar
 ```
+
 ```anki
 id: 1714080472438
 ---
@@ -204,6 +212,7 @@ vous travaillez
 
 ils/elles travaillent
 ```
+
 #Conjugaison
 ```anki
 id: 1714080472780
@@ -245,6 +254,7 @@ nous allons
 vous allez
 ils/elles vont #Conjugaison_Aller
 ```
+
 #Conjugaison_Aller
 ```anki
 id: 1714080472874
@@ -253,6 +263,50 @@ la fenêtre nedir?
 ===
 Pencere #Questioning_Verb 
 ```
+
+```anki
+---
+Qu'est-ce qu'il y a dans la chambre? (3 exemples)
+===
+une table, un fauteuil, un lit, deux chaises, un vase, des photos[une photo], des affiches[une affiche], un télephone, des livres, un verre, une assiette
+```
+
+[[Anki Image Occlusion Here]] (twice in different formats)
+
+```anki
+---
+Adam kadına sorular sordu [FR]
+===
+L'homme pose des questions à sa femme [poser une question à qqn.] #Ornek-Kalıplar 
+```
+
+```anki
+---
+(Belirli bir kadından bahsediyoruz) sa femme est comment?
+Sinirli,
+Kızgın,
+Agite olmuş
+===
+Elle est nerveuse
+Elle est furieuse
+Elle est agitée #Ornek-Kalıplar 
+```
+
+```anki
+---
+Eşi kocasından ne talep etti [FR]
+===
+Qu'est-ce que la mère de Mélanie demande à son mari? #Ornek-Kalıplar #Questioning_Verb 
+```
+
+```anki
+---
+The document is IN this folder. [FR]
+===
+Le document est **DANS** ce dossier. #Ornek-Kalıplar 
+```
+
+Renkler konusunu ve içindekileri atladım (Leçon 6)
 
 
 
