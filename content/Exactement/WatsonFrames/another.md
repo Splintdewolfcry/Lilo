@@ -387,3 +387,4 @@
 | 384 | [[WatsonFrames/ids/6525d8f]] | 0 days 03:25:00  | 2024-06-11 14:35:00 | 2024-06-11 18:00:00 | Linguistics                 | #Revision, #AdditionalRevision                                                  | [[daily/2024-06-11]] |
 | 385 | [[WatsonFrames/ids/2ea7357]] | 0 days 01:13:48  | 2024-06-13 01:30:00 | 2024-06-13 02:43:48 | Linguistics                 | #Revision, #AdditionalRevision                                                  | [[daily/2024-06-13]] |
 | 386 | [[WatsonFrames/ids/9145afa]] | 0 days 01:10:56  | 2024-06-15 19:54:04 | 2024-06-15 21:05:00 | Linguistics                 | #French, #Revision, #AdditionalRevision                                         | [[daily/2024-06-15]] |
+| 387 | [[WatsonFrames/ids/d52f92c]] | 0 days 01:15:01  | 2024-06-16 02:35:00 | 2024-06-16 03:50:01 | BookReading                 | #Author_Seneca, #Thinking, #On_Paper                                            | [[daily/2024-06-16]] |
