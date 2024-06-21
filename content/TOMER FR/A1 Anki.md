@@ -59,7 +59,6 @@ Fr'de sadece sonunda -e ile biten mesleklerin cinsiyeti ne oluyor?
 İkisi de olabilir, direk bir şey diyemiyoruz
 ![[IMG_0001.jpg]] #Sonluk-Cinsiyet
 ```
-
 ```anki
 id: 1714077723396
 ---
@@ -85,6 +84,7 @@ Masc.
 ![[IMG_0002.jpg]] #Sonluk-Cinsiyet
 ```
 
+
 #Ornek-Kalıplar #Questioning_Verb
 ```anki
 id: 1714077723526
@@ -93,7 +93,6 @@ She lives in Bruxeless Belgique, FR?
 ===
 Elle habite à Bruxelles, en Belgique #Ornek-Kalıplar
 ```
-
 ```anki
 id: 1714077723565
 ---
@@ -102,6 +101,7 @@ dire qqch. à qqn. nedir?
 To say smth to somebody
 Mme Lebon dit 'comment allez-vous' à M Legrand. #Questioning_Verb
 ```
+
 
 #Conjugaison_Avoir
 ```anki
@@ -126,7 +126,6 @@ Où sont les personnes? sorusunda ne soruyor
 ===
 Où nerede sorusuna benzeri, muadili #Questioning_Questions #Ornek-Kalıplar
 ```
-
 ```anki
 id: 1714080472438
 ---
@@ -213,6 +212,7 @@ vous travaillez
 ils/elles travaillent
 ```
 
+
 #Conjugaison
 ```anki
 id: 1714080472780
@@ -227,7 +227,6 @@ nous travaill**ons**
 vous travail**ez**
 ils/elles travaill**ent** #Conjugaison
 ```
-
 ```anki
 id: 1714080472811
 ---
@@ -255,6 +254,7 @@ vous allez
 ils/elles vont #Conjugaison_Aller
 ```
 
+
 #Conjugaison_Aller
 ```anki
 id: 1714080472874
@@ -263,24 +263,26 @@ la fenêtre nedir?
 ===
 Pencere #Questioning_Verb 
 ```
-
 ```anki
+id: 1718719833902
 ---
 Qu'est-ce qu'il y a dans la chambre? (3 exemples)
 ===
 une table, un fauteuil, un lit, deux chaises, un vase, des photos[une photo], des affiches[une affiche], un télephone, des livres, un verre, une assiette
 ```
 
+
 [[Anki Image Occlusion Here]] (twice in different formats)
 
 ```anki
+id: 1718719833933
 ---
 Adam kadına sorular sordu [FR]
 ===
 L'homme pose des questions à sa femme [poser une question à qqn.] #Ornek-Kalıplar 
 ```
-
 ```anki
+id: 1718719833965
 ---
 (Belirli bir kadından bahsediyoruz) sa femme est comment?
 Sinirli,
@@ -293,6 +295,7 @@ Elle est agitée #Ornek-Kalıplar
 ```
 
 ```anki
+id: 1718719833995
 ---
 Eşi kocasından ne talep etti [FR]
 ===
@@ -300,11 +303,13 @@ Qu'est-ce que la mère de Mélanie demande à son mari? #Ornek-Kalıplar #Questi
 ```
 
 ```anki
+id: 1718719834038
 ---
 The document is IN this folder. [FR]
 ===
 Le document est **DANS** ce dossier. #Ornek-Kalıplar 
 ```
+
 
 Renkler konusunu ve içindekileri atladım (Leçon 6)
 
