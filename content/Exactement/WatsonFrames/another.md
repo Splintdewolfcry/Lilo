@@ -391,3 +391,4 @@
 | 388 | [[WatsonFrames/ids/3a73cc9]] | 0 days 00:52:53  | 2024-06-17 03:54:14 | 2024-06-17 04:47:07 | BookReading                 | #Author_Seneca, #Book_DeBrevitateVitae, #Thinking, #On_Paper                      | [[daily/2024-06-17]] |
 | 389 | [[WatsonFrames/ids/6a2e297]] | 0 days 02:03:00  | 2024-06-19 21:42:00 | 2024-06-19 23:45:00 | BookRevision                | #Author_SusanSontag, #Author_RolloMay, #Book_OnPhotography, #Book_YaratmaCesareti | [[daily/2024-06-19]] |
 | 390 | [[WatsonFrames/ids/9175977]] | 0 days 00:30:01  | 2024-06-20 20:48:05 | 2024-06-20 21:18:06 | BookRevision                | #Author_SusanSontag, #Author_RolloMay, #Book_OnPhotography, #Book_YaratmaCesareti | [[daily/2024-06-20]] |
+| 391 | [[WatsonFrames/ids/12ccd39]] | 0 days 01:06:13  | 2024-06-21 15:46:55 | 2024-06-21 16:53:08 | Programming                 | #InspiredWork, #WorkedOnMildew                                                    | [[daily/2024-06-21]] |
