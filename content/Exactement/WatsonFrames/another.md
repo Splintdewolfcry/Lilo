@@ -398,3 +398,4 @@
 | 395 | [[WatsonFrames/ids/4b02e21]] | 0 days 01:25:00  | 2024-06-23 20:55:00 | 2024-06-23 22:20:00 | Linguistics                 | #Revision, #AdditionalRevision                                                    | [[daily/2024-06-23]] |
 | 396 | [[WatsonFrames/ids/5a206c7]] | 0 days 03:35:00  | 2024-06-23 16:00:00 | 2024-06-23 19:35:00 | YusufTalks                  | #Dertlesme, #IdeaPrep, #TarcinetHerkulMedya                                       | [[daily/2024-06-23]] |
 | 397 | [[WatsonFrames/ids/5790156]] | 0 days 01:00:00  | 2024-06-25 04:15:00 | 2024-06-25 05:15:00 | Programming                 | #InspiredWork, #WorkedOnMildew                                                    | [[daily/2024-06-25]] |
+| 398 | [[WatsonFrames/ids/108ac48]] | 0 days 01:45:01  | 2024-06-27 19:45:00 | 2024-06-27 21:30:01 | Courses                     | #Coursera, #Thinking, #Specilization, #Logic, #Revision                           | [[daily/2024-06-27]] |
