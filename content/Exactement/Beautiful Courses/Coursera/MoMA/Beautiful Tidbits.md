@@ -1,8 +1,3 @@
----
-File Tags: []
-Day Modified: []
----
-
 - **Painting Meets Photography**  
 In 1884, a year before Paul Cézanne painted [[Images/Works Of Art I Saved/_The Bather_]], inventor George Eastman developed a method for photographing on [film](https://www.moma.org/learn/moma_learning/glossary/#film), rather than on glass plates. The technique eliminated the need to carry toxic chemicals and the cumbersome glass plates, and soon made photography available to everyone. Within a few years, it became common for [painters](https://www.moma.org/learn/moma_learning/glossary/#painter), including Cézanne and later Pablo Picasso, to work from photographs or otherwise include photography as part of their painting process.
 

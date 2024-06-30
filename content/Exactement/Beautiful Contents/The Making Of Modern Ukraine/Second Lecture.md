@@ -1,8 +1,3 @@
----
-File Tags: []
-Day Modified: []
----
-
 - [[2023-09-18]]
 	- We're dealing with how a nation comes to be
 		- The thing is: there wasn't always a nation, when it becomes a nation, it rewrites the story of the past and that story is wrong

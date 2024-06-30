@@ -1,6 +1,4 @@
 ---
-File Tags: []
+Day Modified: []
 ---
 
-- ### Coursera dışında buradaki her şeyi sildim, dinle ve bir daha not et
-- 

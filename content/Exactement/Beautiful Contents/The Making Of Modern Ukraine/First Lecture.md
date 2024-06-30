@@ -1,8 +1,3 @@
----
-File Tags: []
-Day Modified: []
----
-
 How Benedict Anderson imagined community (his philosophy)
 - He is briefly mentioned when he is talking 
 

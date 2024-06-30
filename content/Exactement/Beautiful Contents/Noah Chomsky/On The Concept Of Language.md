@@ -1,8 +1,3 @@
----
-File Tags: []
-Day Modified: []
----
-
 [The Concept Of Language 1989 by Noah Chomsky](https://www.youtube.com/watch?v=hdUbIlwHRkY&t=543[On) 
 
 [00:00.000 --> 00:04.000]  The following program is a UWTV Classic.

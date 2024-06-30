@@ -5,9 +5,11 @@ File Tags:
   - Justifying vs Persuasion
   - Explaining
   - Aristotle's Explanation Types
-Day Modified: "[[2024-06-27]]"
+Day Modified:
+  - "[[2024-06-27]]"
+  - "[[2024-06-30]]"
 ---
-
+[[2024-06-27]]
 - Definition Of Arguments:
 	- (a) (connected) A series of sentences, statements or propositions
 	- (b) Where some are the premises
@@ -80,4 +82,79 @@ Day Modified: "[[2024-06-27]]"
 
 	- An explanation attempts to fit a particular pheomenon into a general pattern in order to increase understanding and remove bewilderment and suprise
 
-Module 2 Materials of Argumentte kaldim
+
+[[2024-06-30]]
+
+- Language definitions in (The materials of Arguments)
+	- Çok fazla not almadım çünkü dilbilimde işlediğimiz muhabbetlerdi ama sanırım not almam gerekecek
+
+- Meaning
+	- Wittgenstein refers to it as use
+	- Hello is used to greet people
+		- Peki bunu acaba öğrenme teorileriyle nasıl birleştirebiliriz
+		- İlk aşama anlamak diyordu, bu doğru, yani önce hello nun ne bileyim Fransızca'da nasıl çalıştığını anlıyorsun ama mesela bonjour ve salut farkı da var. Bunun nerede kullanıldığını anladıktan sonra karşılaştırmalı incelemen gerekiyor. 
+		- [[6 Levels of Thinking (Abimin de Hep Bahsettiği)]]
+
+
+[[Levels Of Languages]]
+- Linguistic Act
+	- The production of a meaningful utterance
+	- It's easy
+		- Syntax *(Correct)*
+		- Semantics *(Correct)*
+		- It's basically a meaninful utterance
+
+- Garden Path Sentences (Anlam Bulanikligi)
+	- The man who whistles tunes pianos. 
+		- Dedigin zaman anlaşılmıyor ilk bakışta ama parçalarına ayırdığın zaman oluyor
+	- The man who whistles **tunes pianos**
+		- Gibi
+	- Example
+		- ![[Pasted image 20240630203145.png]]
+		- ![[Pasted image 20240630203124.png]]
+
+
+- Speech Act
+	- You're nothing till you say so because saying so makes it so
+		- Strike zone'un yakınına attığı için vuran eleman vurmamayı seçiyor, pitcher da dönüyor diyor ki hani am I out or was that a walk?
+		- You're nothing till i say so
+	- Most examples include ceremonies, rituals or games (like baseball)
+		- In weddings, the officiants' [I now make you husband and wife] is a quality example, his/her saying so changed their relationship
+
+
+- To segway, 
+	- thereby test; ![[Pasted image 20240630204534.png]]
+	- Then thereby Test: ![[Pasted image 20240630204804.png]]
+		- It requires right circumstances, if you're not an officiant you can't just go out and say you're officiating them, pronuncing husband and wife
+			- It necessitates you to be an officiant
+		- Sometimes these right circumstances can be contraversial
+			- A man can marry a woman but cannot marry another man (According to some yes and for some no)
+	- SO THE QUESITON OR THE POSITING THEORY BECOMES: ![[Pasted image 20240630205542.png]]
+		- For example, If I say, I apologize, in the appropriate circumstances, then I thereby I apologize
+			- There's a difference between apologizing for real, so being sincere and there's saying it and you not meaning anything
+
+	- Promise or threat depends on what you intend to do![[Pasted image 20240630210012.png]] 
+
+- Conversational Act
+	- Saying something to bring about a change in the world
+	- Asking to loan a friend's car
+		- I wanted to use his car, and wanted that to be within legal rights too
+		- I didn't ask it for the sake of asking it, rather so that i could get the keys to his car and drive it
+
+	- Is the moon full?
+		- Yes it's full moon tonight
+		- Well, am i uttering those words just to expel hot air? No
+		- I'm trying to *inform* my friend, to bring about the effect of informing my friend
+	- ![[Pasted image 20240630211610.png]]
+		- You ask a question to make the answer so
+		- You ask for apology to bring about forgiveness or make him forgive you so
+	- The conversational act does not occur when that act does not occur
+
+	- Mesela bu conversational act muhabbetinin günlük hayattaki insanlara yansıttığın şeylerle de alakası var
+		- Mesela birisine yaptığın güzel bir şeyi anlatmaya çalışıyorsun.
+			- Bugün işte aç bir kediyi besledim
+			- Burada conversational act var, onu inform ettiğin için bu conversational act
+			- ama aynı zamanda speech act te kullanıyorsun, belki bu buradaki subtextler olabilir
+				- Benim yumuşak kalpli bir insan olduğumu bilmeni istiyor olabilirim
+				- Bu yaptığım eylemin validate edilmesini istiyor olabilirim (Evet çok tatlı bir haraket yapmışsın...)
+	- Conversational Act 05.45 civarında kaldım, bir filozofun maximlerine giriş yapacaktı
