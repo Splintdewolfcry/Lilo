@@ -405,3 +405,4 @@
 | 402 | [[WatsonFrames/ids/d9aef3f]] | 0 days 02:00:04  | 2024-06-25 03:00:34 | 2024-06-25 05:00:38 | SeriesWithSubtexts          | #Westworld, #BeautyOfAConversation, #PromptsALivingThought                        | [[daily/2024-06-25]] |
 | 403 | [[WatsonFrames/ids/1e88161]] | 0 days 02:00:00  | 2024-06-28 04:15:00 | 2024-06-28 06:15:00 | SomeIntrospectiveThinking   | #JottedDown, #SelfReflection                                                      | [[daily/2024-06-28]] |
 | 404 | [[WatsonFrames/ids/b7ba1f6]] | 0 days 02:25:47  | 2024-06-30 19:02:00 | 2024-06-30 21:27:47 | Courses                     | #Coursera, #Thinking, #Specilization, #Logic, #Revision                           | [[daily/2024-06-30]] |
+| 405 | [[WatsonFrames/ids/45e4bec]] | 0 days 00:49:58  | 2024-07-01 01:42:00 | 2024-07-01 02:31:58 | Programming                 | #WorkedOnMildew, #InspiredWork                                                    | [[daily/2024-07-01]] |
