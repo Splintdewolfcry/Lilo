@@ -1,5 +1,8 @@
 ---
-media_link: https://www.youtube.com/watch?v=1xqerXscTsE&t=3
+Day Modified:
+  - "[[2024-06-30]]"
+File Tags:
+  - Learning
 ---
 #Video
 

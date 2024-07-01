@@ -1,2 +1,2 @@
-[[{{date}}]]
+[[Bybit Trades]]
 Event:
