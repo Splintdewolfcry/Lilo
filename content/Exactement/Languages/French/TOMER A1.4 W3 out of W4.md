@@ -16,8 +16,9 @@ https://www.lawlessfrench.com/grammar/modal-verbs/
 - [x] 87-10
 	- [x] 82-5
 
-- [[due:: 2024-07-05]]
-	- [ ] Cah d'ex: 87: 11
+- [[due:: 2024-07-07]]
+	- [ ] #task Cah d'ex: 87: 11 📅 2024-07-07 
 	- [ ] Haftanın günleri
 	- [ ] Soru yapma şekilleri (1 ve 2)
-	- [ ] Cah d'ex 93:b
+	- [ ] Cah d'ex 93:b 📅 2024-07-07
+
