@@ -26,7 +26,7 @@
 - Bir noktada gcalendar eventlerini artık obsidian'a aktarmam lazım gibi artık ya, tüm detaylarıyla
 - frames processed i güncelle
 	- Obsidian'da entry açarken till ekleyip şu saate kadardı yazsın (pendulumla yapabilirim, end time oluşturmamışım)
-- [ ] Remotely save i güncelle
+- [x] Remotely save i güncelle
 - Arşivlediğim daha fazla uygulamayacağım fikirlerim boşluğa kaybolmasın
 - Shutil'i metadatayı daha koruyan bir versiyonunu yazsam efsane sarar he
 - Self reflection tagindeki self i pythondaki self gibi alip biraz anlamını ya da sözcüğü maya gibi kullansam
