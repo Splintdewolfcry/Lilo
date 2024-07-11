@@ -22,3 +22,5 @@ https://www.lawlessfrench.com/grammar/modal-verbs/
 	- [ ] Soru yapma şekilleri (1 ve 2)
 	- [ ] Cah d'ex 93:b 📅 2024-07-07
 
+Cah dex 88 3
+90 7
