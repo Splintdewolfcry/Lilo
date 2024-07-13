@@ -1,0 +1,3 @@
+- Outdoor
+	- ![[Pasted image 20240713030325.png]]
+- 

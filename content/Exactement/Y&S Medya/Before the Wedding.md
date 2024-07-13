@@ -1,0 +1,3 @@
+- Size herhangi yanlış giden bir şeyler için kimin destek olmasını beklersiniz?
+	- Never bring the couple the problem, bring to someone else, someone they trust and can take problems off their hands(if possible)
+- Hava durumunu kontrol et
