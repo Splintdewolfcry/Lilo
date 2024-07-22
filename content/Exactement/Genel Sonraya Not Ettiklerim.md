@@ -37,3 +37,7 @@
 
 [[2024-07-01]]
 -  [ ] Olumsuz imperatif yapilari
+
+[[2024-07-17]]
+- Watson add Bookreading 17 02:40 - 05:00
+- 
