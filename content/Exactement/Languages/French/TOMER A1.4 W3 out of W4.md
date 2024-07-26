@@ -7,7 +7,7 @@
 - [x] Cah d'ex 82-5
 	- [x] Cah d'ex 80-1
 
--  [ ] Hüseyin bey gri kitap / yardımcı kitaplar 
+- [x] Hüseyin bey gri kitap / yardımcı kitaplar
 
 
 https://www.lawlessfrench.com/grammar/modal-verbs/
@@ -20,9 +20,5 @@ https://www.lawlessfrench.com/grammar/modal-verbs/
 	- [x] #task Cah d'ex: 87: 11 📅 2024-07-07
 	- [ ] Haftanın günleri
 	- [ ] Soru yapma şekilleri (1 ve 2)
-	- [ ] Cah d'ex 93:b 📅 2024-07-07
+	- [x] Cah d'ex 93:b 📅 2024-07-07
 
-Cah dex 88 3
-90 7
--  [ ] 89-2
-- 

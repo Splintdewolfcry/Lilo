@@ -33,7 +33,7 @@
 - Sözcük demişken dilbilim pls
 - [ ] Some intrusive thought entartained vs the one thing ama devam eden one thing
 	- Yine heatmap calendar benzeri streak koruma
-- [ ] Yakinda foto kurslarina baslarim artik\
+- [x] Yakinda foto kurslarina baslarim artik\
 
 [[2024-07-01]]
 -  [ ] Olumsuz imperatif yapilari
