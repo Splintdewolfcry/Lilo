@@ -39,5 +39,11 @@
 -  [ ] Olumsuz imperatif yapilari
 
 [[2024-07-17]]
-- Watson add Bookreading 17 02:40 - 05:00
-- 
+- Watson add BookReading 17 02:40 - 05:00
+- Watson add BookReading 
+
+[[2024-07-30]]
+- [ ] Orçoyla bir photoshoot yap
+	- [ ] Bir veli içeri girdiğinde sende ne görmesini istersin? (Özgüven, sevecenlik, profesyonellik, karizma, ...)
+	- [ ] Daha sonra Tolga hoca olabilir
+	- [ ] Azra'yla photoshoot
