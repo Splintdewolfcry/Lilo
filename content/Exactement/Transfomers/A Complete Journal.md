@@ -21,3 +21,5 @@
 #### Cue:  Amplitude and bit depth
 
 - Sound is made by changes in air pressure at frequencies that are audible to humans. The **[[amplitude]]** of a sound describes the sound pressure level at any given instant and is measured in decibels (dB). *We perceive the amplitude as loudness*. To give you an example, a normal speaking voice is under 60 dB, and a rock concert can be at around 125 dB, pushing the limits of human hearing.
+
+- In digital audio, each audio sample records the amplitude of the audio wave at a point in time. The **bit depth** of the sample determines with how much precision this amplitude value can be described. The higher the bit depth, the more faithfully the digital representation approximates the original continuous sound wave.
