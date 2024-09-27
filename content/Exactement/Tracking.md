@@ -1,3 +1,4 @@
 TODO
-- [ ] Kahve al ⏫ 📅 2024-09-18
-Lil cigarette timer script
+- [x] Kahve al ⏫ 📅 2024-09-18 ✅ 2024-09-20
+- [x] Kahve için filtre al 🛫 2024-09-19 ⏳ 2024-09-24 📅 2024-09-24 ✅ 2024-09-23
+
