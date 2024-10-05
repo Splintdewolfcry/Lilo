@@ -1,7 +1,7 @@
 [[2024-05-21]] 04:00:00 - 05:00:00 arasi beynimin durmayip surekli beni bir seylerle mesgul etmesi ve benim gunes gozluklu ekrana yansiyisim
 - [ ] Biletleri güncelle ^1j9ndv
 	- Son gittiğim birkaç filmin biletlerini ekle, çok yalnız kaldı bebişlerim, olmuyor
-- [ ] Projects eklentisi bayaaaaa iyi
+- [x] Projects eklentisi bayaaaaa iyi
 	- To do yla birlestirilebilir, deli seyler cikar
 
 
@@ -37,10 +37,6 @@
 
 [[2024-07-01]]
 -  [ ] Olumsuz imperatif yapilari
-
-[[2024-07-17]]
-- Watson add BookReading 17 02:40 - 05:00
-- Watson add BookReading 
 
 [[2024-07-30]]
 - [ ] Orçoyla bir photoshoot yap
