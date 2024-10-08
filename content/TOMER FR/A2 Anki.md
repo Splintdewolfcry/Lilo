@@ -13,7 +13,6 @@ Sarp (sor)
 ===
 Quel est votre nom? // Vous vous appelez comment?
 ```
-
 ```anki
 id: 1728151092397
 ---
@@ -53,4 +52,21 @@ Ne kadar kazaniyorsun? (formal)
 ===
 Vous gagnez recevez combien par mois?
 ```
+
+```anki
+id: 1728155418741
+---
+Marianne regarde la télévision --> zamirli?
+===
+Marianne la regarde (onune geliyor)
+```
+
+```anki
+id: 1728155418770
+---
+Marianne regarde Pierre --> zamirli?
+===
+Marianne le regarde
+```
+
 

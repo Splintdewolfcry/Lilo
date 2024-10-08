@@ -11,6 +11,11 @@ TODO
 - [x] Watson add Modacı 04.10.2024 20.20 - 22.15 ✅ 2024-10-04
 - [ ] Sunum konusunu ekle [[Biçimbilim DBB215 Bahtiyar Hoca]] 📅 2024-10-05 
 - [ ] Notları ekle📅 2024-10-07 
+- [ ] ⏫ ➕ 2024-10-05 Kalan 10-02 deki dersi fr yi tamamla📅 2024-10-06 
+- [ ] ⏫ ➕ 2024-10-05 ADIT toplantısı ⏳ 2024-10-06 
+- [ ] 🔼 ➕ 2024-10-05 Pzt Eren için Tömere uğra 📅 2024-10-07
+- [ ] 🔽 Fr için belki şu an napıyorsun diye 10-15 dkda bir pingleyecek basit bir sistem onu da obsidian'a append edecek
+- [ ] 🔽 Aynı şekilde direk anki için girdi oluşturacağım basit bir program
 
 
 
