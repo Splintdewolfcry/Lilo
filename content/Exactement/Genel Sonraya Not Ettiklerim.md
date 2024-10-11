@@ -41,5 +41,3 @@
 [[2024-07-30]]
 - [ ] Orçoyla bir photoshoot yap
 	- [ ] Bir veli içeri girdiğinde sende ne görmesini istersin? (Özgüven, sevecenlik, profesyonellik, karizma, ...)
-	- [ ] Daha sonra Tolga hoca olabilir
-	- [ ] Azra'yla photoshoot

@@ -15,4 +15,5 @@
 
 
 [[2024-10-07]]
-- Vetement lerden ve onları anlatmakla geçiriyoruz 
+- Vetement lerden ve onları anlatmakla geçiriyoruz
+- Erken çıkmak zorunda kaldım
