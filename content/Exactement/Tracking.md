@@ -12,14 +12,13 @@ TODO
 - [ ] Notları ekle📅 2024-10-07 
 - [x] ⏫ ➕ 2024-10-05 Kalan 10-02 deki dersi fr yi tamamla 📅 2024-10-06 ✅ 2024-10-11
 - [x] ⏫ ➕ 2024-10-05 ADIT toplantısı ⏳ 2024-10-06 ✅ 2024-10-11
-- [ ] 🔺 Abeyimle konuş 📅 2024-10-11 
+- [x] 🔺 Abeyimle konuş 🆔 jy0cv2 📅 2024-10-11 ✅ 2024-10-16
 - [x] 🔼 ➕ 2024-10-05 Pzt Eren için Tömere uğra ⏳ 2024-10-11 📅 2024-10-07 ✅ 2024-10-11
-- [ ] ⏫ TOMER benim için
-- [ ] 🔼 Enis Umuler 📅 2024-10-12 
-- [ ] ⏫ Alara📅 2024-10-15 
-- [ ] 🔽 Kayralar Cards Against Humanity
-- [ ] 🔼 Emrecan Civ
-- [ ] ⏫ Oda değişimi muhabbetini başlat
-- [ ] 🔼 Liya videolar
-- [ ] 🔼 Hafta 3 ü geçir
+- [x] ⏫ TOMER benim için ⛔ jy0cv2 ✅ 2024-10-16
+- [ ] 🔼 Enis Umuler 📅 2024-10-12 ⏳ 2024-10-16 
+- [x] ⏫ Alara 📅 2024-10-15 ✅ 2024-10-16
+- [  / ] 🔼 Liya videolar 🛫 2024-10-08 📅 2024-10-16
+- [ ] 🔼 Hafta 3 ü geçir ⏳ 2024-10-15 sabahina
+- [ ] 🔽 Arsima Foto Edit 📅 2024-10-15 
+- [x] ⏫ Beste hanim ⏳ 2024-10-14 ✅ 2024-10-16
 

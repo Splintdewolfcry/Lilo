@@ -28,8 +28,9 @@
 	- Obsidian'da entry açarken till ekleyip şu saate kadardı yazsın (pendulumla yapabilirim, end time oluşturmamışım)
 - [x] Remotely save i güncelle
 - Arşivlediğim daha fazla uygulamayacağım fikirlerim boşluğa kaybolmasın
-- [x] Shutil'i metadatayı daha koruyan bir versiyonunu yazsam efsane sarar he ✅ 2024-10-14
+- Shutil'i metadatayı daha koruyan bir versiyonunu yazsam efsane sarar he
 - Self reflection tagindeki self i pythondaki self gibi alip biraz anlamını ya da sözcüğü maya gibi kullansam
+- Sözcük demişken dilbilim pls
 - [ ] Some intrusive thought entartained vs the one thing ama devam eden one thing
 	- Yine heatmap calendar benzeri streak koruma
 - [x] Yakinda foto kurslarina baslarim artik\
@@ -40,3 +41,5 @@
 [[2024-07-30]]
 - [ ] Orçoyla bir photoshoot yap
 	- [ ] Bir veli içeri girdiğinde sende ne görmesini istersin? (Özgüven, sevecenlik, profesyonellik, karizma, ...)
+	- [ ] Daha sonra Tolga hoca olabilir
+	- [ ] Azra'yla photoshoot
