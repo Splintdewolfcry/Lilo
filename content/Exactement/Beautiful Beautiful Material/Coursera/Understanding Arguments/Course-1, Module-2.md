@@ -70,7 +70,7 @@ Day Modified:
 	- Formal
 - **Material:** Explains the properties of something based on the material it's made of. However, in some cases, additional information might be needed for a complete explanation (like with the golf club example).
 	- Materyal
-
+%% Error: Cannot create a waypoint in a note that's not the folder note. For more information, check the instructions [here](https://github.com/IdreesInc/Waypoint) %%
 
 - Prediction vs Explanation
 	- Something can be used to predict but not explain

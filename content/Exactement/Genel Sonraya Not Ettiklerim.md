@@ -21,7 +21,7 @@
 - Backlinkli template erişimi
 	- Keeping track triggered --> append a line for that day gibi
 	- Hep amaç beautifully woven bir ağ oluşturabilmek
-- [ ] Fr haftanın günlerini öğren
+- [x] Fr haftanın günlerini öğren
 	- Fr yi ayrıca çok boşladım, buna biraz eğilmem lazım
 - Bir noktada gcalendar eventlerini artık obsidian'a aktarmam lazım gibi artık ya, tüm detaylarıyla
 - frames processed i güncelle
@@ -35,7 +35,11 @@
 - [x] Yakinda foto kurslarina baslarim artik\
 
 [[2024-07-01]]
--  [ ] Olumsuz imperatif yapilari
+- [x] Olumsuz imperatif yapilari [completion:: 2024-10-20]
+	- ![[Pasted image 20241020191731.png]]
+	- Kişi düşüyor, ek düşmüyor
+	- ![[Pasted image 20241020191813.png]]
+	- ![[Pasted image 20241020192034.png]]
 
 [[2024-07-30]]
 - [ ] Orçoyla bir photoshoot yap
