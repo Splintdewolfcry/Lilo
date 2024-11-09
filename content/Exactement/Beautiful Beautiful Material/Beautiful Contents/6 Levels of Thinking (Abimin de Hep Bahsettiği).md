@@ -38,6 +38,7 @@ File Tags:
 		- Who cares?
 		- Why is it important?
 		- ![[IMG_8683.jpeg]]
+		- 
 	- Even this little piece of nugget provides me with so many opportunities to fix what i'm missing
 
 - Level Four vs Level Five, different types of questions

@@ -1,84 +1,209 @@
 ```anki
+id: 1730272254431
+---
+Avoir le droit?
+===
+hak, temel hak. 
+```
+```anki
+id: 1730272254527
+---
+le droit fondamental
+===
+temel hak
+```
+
+```anki
+id: 1730272254581
+---
+la loi
+===
+yasa
+```
+
+```anki
+id: 1730272254633
+---
+les malfaiteurs?
+===
+Kotu niyetli
+```
+
+```anki
+id: 1730272254665
+---
+les sans abris
+===
+Homeless, sans = without, without home/shelter
+```
+
+```anki
+id: 1730272254696
+---
+se sentir en sécurité
+===
+Kendini guvende hissetmek
+```
+
+```anki
+id: 1730272254728
+---
+d'espaces vide X rempli
+===
+d'espaces vide bos alan var X tiklim tiklis
+```
+
+```anki
+id: 1730272254759
+---
+La cuisine est spacieuse
+===
+The kitchen is spacious
+```
+
+```anki
+id: 1730272254788
+---
+People have fun in bars, disco
+===
+Les gens se distraient dans le bars, dans le discothéques
+```
+
+```anki
+id: 1730272254820
+---
+faire du vélo
+===
+Bisiklet surmek
+```
+
+```anki
+id: 1730272254853
+---
+Genevada cok turist var
+===
+Il y a beacoup de tourist a Genèva
+```
+
+```anki
+id: 1730272254883
+---
+buy souvenirs
+===
+acheter des souvenirs
+
+```
+
+```anki
+id: 1730272499257
+---
+le conflit de génération
+===
+kusak catismasi
+```
+
+```anki
+id: 1730272254913
+---
+cultiver la terre, tarimla ugrasmak soru yap
+===
+Il cultive la terre
+```
+
+```anki
+id: 1730272254946
+---
+plus mauvais -> ?
+===
+pire(s)
+```
+
+```anki
+id: 1730272254977
+---
+plus mauvais(e) -> ?
+===
+pire(s)
+```
+
+```anki
+id: 1730272255006
+---
+giderek daha cok?
+===
+de plus en plus de + nom(s)
+```
+
+```anki
+id: 1730272255038
+---
+de moins en moins?
+===
+giderek daha az
+```
+
+
+[[2024-10-30]] Ankiye gecirdigim tarih
+```anki
+id: 1730272499599
+---
+Pour Exprimer le choix, quand on exprime les alternatifs d'une proposition:
+Quel livre voulez-vous lire? O degil bu
+===
+Pas celui-ci, celui-là
+```
+
+[[2024-09-17]]
+```anki
+---
+avoir preposition alir mi?
+===
+Asla almaz, avoir qqn, avoir qqpart, avoir qqch
+```
+
+```anki
+---
+etre preposition alir mi?
+===
+Alir, etre à qqpart
+```
+
+
+[[2024-11-04]]
+```anki
+---
+tenir qqch / tenir sa promesse
+===
+sözünü tutmak
+```
+
+```anki
+---
+Who published this document
+===
+Qui a publié ce document? (Le Journal d'entreprise)
+```            ```anki
             ---
-            Avoir le droit?
+            maitriser qqch
             ===
-            hak, temel hak. 
+            utiliser qqch
             ```
             ```anki
             ---
-            le droit fondamental
+            maitriser qqn
             ===
-            temel hak
+            éduquer qqn
             ```
             ```anki
             ---
-            la loi
+            la maîtrise
             ===
-            yasa
+            yüksek lisans
             ```
             ```anki
             ---
-            les malfaiteurs?
+            tenis oynuyorum
             ===
-            Kotu niyetli
-            ```
-            ```anki
-            ---
-            les sans abris
-            ===
-            Homeless, sans = without, without home/shelter
-            ```
-            ```anki
-            ---
-            se sentir en s�curit�
-            ===
-            Kendini guvende hissetmek
-            ```
-            ```anki
-            ---
-            vide X rempli
-            ===
-            d'espaces vide bos alan var X tiklim tiklis
-            ```
-            ```anki
-            ---
-            La cuisine est spacieuse
-            ===
-            The kitchen is spacious
-            ```
-            ```anki
-            ---
-            Le gens se distraient dans le bars, dans le discothéques
-            ===
-            What do people do in bars
-            ```
-            ```anki
-            ---
-            faire du vélo
-            ===
-            Bisiklet surmek
-            ```
-            ```anki
-            ---
-            Genevada cok turist var
-            ===
-            Il y a beacoup de tourist a Genèva
-            ```
-            ```anki
-            ---
-            buy souvenirs
-            ===
-            acheter des souvenirs
-            ``````anki
-            ---
-            le conflit de génération
-            ===
-            kusak catismasi
-            ```
-            ```anki
-            ---
-            cultiver la terre, tarimla ugrasmak soru yap
-            ===
-            Il cultive la terre
+            je joue au tennis
             ```
             

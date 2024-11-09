@@ -285,7 +285,7 @@ L'homme pose des questions à sa femme [poser une question à qqn.] #Ornek-Kalı
 id: 1718719833965
 ---
 (Belirli bir kadından bahsediyoruz) sa femme est comment?
-Sinirli,
+Gergin,
 Kızgın,
 Agite olmuş
 ===
@@ -297,7 +297,7 @@ Elle est agitée #Ornek-Kalıplar
 ```anki
 id: 1718719833995
 ---
-Eşi kocasından ne talep etti [FR]
+Melanienin annesi Melanie'nin kocasından ne talep etti [FR]
 ===
 Qu'est-ce que la mère de Mélanie demande à son mari? #Ornek-Kalıplar #Questioning_Verb 
 ```

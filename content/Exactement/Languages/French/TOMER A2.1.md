@@ -33,7 +33,15 @@
 - Bi hizli bakip not al
 
 [[2024-10-23]] Cars dersi, katilamadim
+- Comparative yapilmis, ona bakmam lazim
 
 [[2024-10-24]]
 - ![[TOMER A2.1#^rc5rpd]]
 - Bi onceki cars derslerine bak
+- Superlative leri yaptik
+
+[[2024-11-03]] Ekstra benim çalışış
+
+- Est-ce que tu conjugues avoir au prèsent? Cümlesi doğru mu?
+- vous gagnez combien par mois cümlesinde combien ne katıyor?
+- Qu'aimez vous pendant votre temps libre? pendant niye o konumda?
