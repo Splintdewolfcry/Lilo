@@ -206,4 +206,51 @@ Qui a publié ce document? (Le Journal d'entreprise)
             ===
             je joue au tennis
             ```
-            
+            ```anki
+            ---
+            grip olmak / grip sahibi olmak.
+            ===
+            avoir le rhume. J'ai le rhume
+            ```
+            ```anki
+            ---
+            il fait de la gymnastique
+            ===
+            jimnastik yapiyor
+            ```
+            ```anki
+            ---
+            ateşim var
+            ===
+            avoir la fièvre. J'ai la fièvre
+            ```
+            ```anki
+            ---
+            en az
+            ===
+            au moins
+            ```
+            ```anki
+            ---
+            au moins
+            ===
+            en az
+            ```
+            ```anki
+            ---
+            les féculents
+            ===
+            nişastalı yiyecekler
+            ```
+            ```anki
+            ---
+            le produits laitiers
+            ===
+            süt ve süt ürünü yiyecekler
+            ```
+            ```anki
+            ---
+            süt ve süt ürünü yiyecekler
+            ===
+            le produits laitiers
+            ```       
