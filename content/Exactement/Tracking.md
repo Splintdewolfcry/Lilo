@@ -15,7 +15,7 @@
 - [x] 🔺 Erasmus Sinavi Basvurusu📅 2024-10-21🏁 keep
 - [ ] 🔺 Erasmus Sinavi kendisi ➕ 2024-10-18 📅 2024-12-01
 - [x] 📅 2024-10-18 , unutmadan yazmak istedim. 21 inde erasmus basvurulari bitiyor, girmek isteyenlere hatirlatsak iyi olabilir ✅ 2024-10-20
-- [ ] 🔼 Geçen hafta sesbilimdeki metni duygudan metin al 📅 2024-10-28 
+- [x] 🔼 Geçen hafta sesbilimdeki metni duygudan metin al 📅 2024-10-28 ✅ 2024-11-16
 - [ ] ⏫ Bahtiyar hocadan slaytlari al 📅 2024-10-25
 - [ ] 🔼 ➕ 2024-11-13 https://www.reddit.com/r/selfhosted/comments/1btytji/any_selfhosted_alternative_to_omnivore_need_a/?rdt=48597 linklerin arasindan kendine yeni bir servis seç, obsidian sync efsane otesi olur ya da api olacak 📅 2024-11-13 
 - [ ] 🔽 ➕ 2024-11-13 news as a sentimental analysis 📅 2024-11-17 

@@ -39,7 +39,7 @@
 	- Colab i de var(demo)
 - https://huggingface.co/pysentimiento/robertuito-emotion-analysis
 	- https://github.com/pysentimiento/pysentimiento
-	- ![[My Ideas, Various Tutorials And Misc/Orço/Modeller#^nxw9tc]]
+	- ![[Transfomers/Orço/Modeller#^nxw9tc]]
 -  https://huggingface.co/ayoubkirouane/BERT-Emotions-Classifier
 	- Yine bert based
 - https://huggingface.co/finiteautomata/beto-emotion-analysis
