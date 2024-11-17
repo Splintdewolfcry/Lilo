@@ -25,7 +25,7 @@
 - [x] ıslak mendil ✅ 2024-11-16
 - [ ] tuvalet kagidi
 - [ ] hosting service
-- [ ] tw
+- [ ] 🔼 🛫 2024-11-22 Tw satin al📅 2024-11-25
 
 
 

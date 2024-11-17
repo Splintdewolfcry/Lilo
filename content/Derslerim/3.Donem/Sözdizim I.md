@@ -24,7 +24,6 @@ Dilin değişimi neden dilbilim ekolünde normal karşılanır?
 ===
 Amacımız dili şöyle konuşmak zorundasın gibi kuralcı bir yöntem izlemekten ziyade kültürlerle, dönemin getirdiği ürünlerle etkileşen canlı bir nesnenin objektif bir "görüntüsünü" yakalamaktır.
 ```
-
 ```anki
 id: 1731775806256
 ---
@@ -40,6 +39,7 @@ id: 1731775806290
 ===
 ![[Pasted image 20241116173842.png]]
 ```
+
 
 
 [[Hafta3]]
@@ -65,7 +65,6 @@ Betimsel yetkinlik -- Artık amaç sadece çalışmayan bir durumu ortaya çıka
 Açıklamalı yetkinlik -- alternatif dilbilgilerinden hangisinin seçilmesi gerektiğini ilkeli bir biçimde ortaya koyabiliyorsa açıklamalı yetkinliğe sahip demektir.
 ![[Pasted image 20241116182139.png]]
 ```
-
 ```anki
 id: 1731775806665
 ---
@@ -91,6 +90,7 @@ ve bundan sonuç çıkartacak olursak:
 ```
 
 
+
 [[Hafta4]]
 
 
@@ -110,7 +110,6 @@ Biçimbilimsel yani form testi?
 Örnek: escape ingilizcede hem ad hem eylem olarak kullanılabilmektedir
 ![[Pasted image 20241116190259.png]]
 ```
-
 ```anki
 id: 1731775807007
 ---
@@ -136,6 +135,36 @@ Dağılım testi bağlamında kamyon ve taşı değerlendir (Ör cümle üzerind
 ![[Pasted image 20241116193918.png]]
 ```
 
+```anki
+id: 1731857758459
+---
+Sözdizimsel ölçüt olarak sözcük türünü belirlemeye örnek ver
+===
+Boşluk testi,
+gelen eklere bakma, biçim (form) testi
+dağılım testi
+```
+
+```anki
+id: 1731857758532
+---
+Biçimbilimsel ölçütler, bir sözcüğün ... belirler.
+===
+hangi tür ekleri alabildiğini
+![[Pasted image 20241117022454.png]]
+```
+
+
+
+```anki
+id: 1731857758649
+---
+Adöbekleri çoğu durumda ... olarak adlandırılan sözcüklerle birlikte görünür.
+===
+belirleyici (determiner)
+![[Pasted image 20241117024137.png]]
+Belirleyiciler,yalnızca adöbekleri ile birlikte bulunmaktadır. Bu nedenle, bir sözcüğün ad olup olmadığını belirlemekte iyi bir test aracı olabilirler.
+```
 
 
 
