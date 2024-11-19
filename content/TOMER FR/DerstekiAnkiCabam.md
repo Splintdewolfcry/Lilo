@@ -258,4 +258,58 @@ Qui a publié ce document? (Le Journal d'entreprise)
             süt ve süt ürünü yiyecekler
             ===
             le produits laitiers
-            ```       
+            ```       ```anki
+            ---
+            le dromadaire
+            ===
+            camel
+            ```
+            ```anki
+            ---
+            hava çok sıcak
+            ===
+            il fait trop chaud
+            ```
+            ```anki
+            ---
+            avoir soif
+            ===
+            susamak
+            ```
+            ```anki
+            ---
+            se suer
+            ===
+            terlemek
+            ```
+            ```anki
+            ---
+            oranin yereli
+            ===
+            un habitant local (régional)
+            ```
+            ```anki
+            ---
+            garde le bon espoir de Vinf
+            ===
+            Umudunu kaybetmemek
+            ```
+            ```anki
+            ---
+            être intitulé
+            ===
+            adi olmak (s'apaller gibi ama mesela radyo programinin ismi)
+            ```
+            ```anki
+            ---
+            avoir du succès X  XXX
+            ===
+            échouer à qqch.
+            ```
+            ```anki
+            ---
+            en fait
+            ===
+            en réalité
+            ```
+            

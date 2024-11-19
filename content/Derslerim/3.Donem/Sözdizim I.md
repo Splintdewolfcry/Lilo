@@ -17,6 +17,7 @@ Dil nedir kavramını tek başına dilbilim bakış açısından ele alınabilir
 ===
 Hayır çünkü toplum normları, siyası geçmişler, kültürel düzenlerin getirdiği bir sürü ürün var ve bunları sadece dil açısından ele almamamız mümkün olmaz
 ```
+
 ```anki
 id: 1731775806233
 ---
@@ -24,6 +25,7 @@ Dilin değişimi neden dilbilim ekolünde normal karşılanır?
 ===
 Amacımız dili şöyle konuşmak zorundasın gibi kuralcı bir yöntem izlemekten ziyade kültürlerle, dönemin getirdiği ürünlerle etkileşen canlı bir nesnenin objektif bir "görüntüsünü" yakalamaktır.
 ```
+
 ```anki
 id: 1731775806256
 ---
@@ -51,10 +53,11 @@ Gözlemsel yetkinlik?
 ![[Pasted image 20241116181158.png]]
 ![[Pasted image 20241116181214.png]]
 ```
+
 ```anki
 id: 1731775806537
 ---
-Yetkinlik düzeyleri?
+	Yetkinlik düzeyleri başlıkları kısaca?
 ===
 Gözlemsel yetkinlik -- Eldeki X Y ve a verisini doğru seçip *XYa *XaY gibi dizilişlere bakarak neyin olamayacağını söyler.
 ![[Pasted image 20241116181657.png]]
@@ -65,6 +68,7 @@ Betimsel yetkinlik -- Artık amaç sadece çalışmayan bir durumu ortaya çıka
 Açıklamalı yetkinlik -- alternatif dilbilgilerinden hangisinin seçilmesi gerektiğini ilkeli bir biçimde ortaya koyabiliyorsa açıklamalı yetkinliğe sahip demektir.
 ![[Pasted image 20241116182139.png]]
 ```
+
 ```anki
 id: 1731775806665
 ---
@@ -165,6 +169,175 @@ belirleyici (determiner)
 ![[Pasted image 20241117024137.png]]
 Belirleyiciler,yalnızca adöbekleri ile birlikte bulunmaktadır. Bu nedenle, bir sözcüğün ad olup olmadığını belirlemekte iyi bir test aracı olabilirler.
 ```
+
+
+```anki
+---
+Belirleyicilere ingilizceden örnek ver
+===
+the paper, cette leçon
+a problem, quelle bonne idée !,
+which cat, certaines idées
+both children, quelles idées ?
+all examples, je ne vois aucun enfant
+```
+
+
+```anki
+---
+Belirleyicilerle sıfatlar arasında daha derin bir inceleme yapmak istediğimizde belirleyicilerle sıfatlar arasındaki fark nedir sorusunu sormamız gerekiyor
+===
+![[Pasted image 20241118131803.png]]
+```
+
+
+```anki
+---
+Türkçede İngilizcedeki gibi "the" belirleyicisi yoktur ancak "a" tanımlığının Türkçede karşılığı bulunmaktadır.
+İngilizcede kullandığımız yöntemleri kullanırsak nasıl bir şeye benzer?
+===
+bir sorun, o duygular, hangi kedi, tüm örnekler
+```
+
+
+```anki
+---
+İngilizcede belirleyicileri sıfatlardan ayıran sözdizimsel kanıtların Türkçedeki karşılığı neden sorunludur? 
+===
+![[Pasted image 20241118132303.png]]
+```
+
+
+```anki
+---
+Bir ad öbeğinde xx tane belirleyici bulunabilir
+===
+1 tane
+![[Pasted image 20241118132455.png]]
+```
+
+```anki
+---
+Türkçede isimlerden sıfat yapan tipik ekler belirleyicilere eklenir mi?
+===
+şekerli,
+sevinçli, kapısız
+*tümlü,
+*hangisiz
+```
+
+
+```anki
+---
+Sıfatlar İngilizcede olduğu gibi Türkçede de XX sınıftadırlar. 
+===
+BACK
+```
+
+```anki
+---
+Belirleyiciler Türkçede de kesin olarak XX sınıf oluşturur. 
+===
+Sıfatlar İngilizcede olduğu gibi Türkçede de doğal olarak açık sınıftadırlar. Buna karşın, belirleyiciler Türkçede de kesin olarak kapalı sınıf oluşturur.
+```
+
+
+```anki
+---
+Adların adöbekleri içinde belirleyiciler ile birlikte kullanılması gibi, sıfatlar da XXX ile birlikte kullanılabilmektedir.
+===
+derecelendirme niteleyicileri (degree modifier)
+![[Pasted image 20241118135500.png]]
+```
+
+
+```anki
+---
+Niteleyici Sıfat Öbekleri (SÖ) ler XXX'i niteler ve XXX
+===
+Niteleyici Sıfat Öbekleri adları niteler ve normal olarak konumları sabittir
+![[Pasted image 20241118140338.png]]
+```
+
+```anki
+---
+SÖ'lerin iki temel işlevi?
+===
+Niteleyeci (attributive) ve yüklemleyici konumda(predicative) bulunurlar
+un livre rouge
+![[Pasted image 20241118141644.png]]
+```
+
+```anki
+---
+İlgeç öbekleri kaça ayrılır?
+===
+2ye
+![[Pasted image 20241118160040.png]]
+```
+
+```anki
+---
+İlgeç öbeklerinin kendi içinde hangi kategorilere ayrılır
+===
+Geçişli ve geçissiz ilgeçler
+```
+
+
+```anki
+---
+Geçişli ilgeçlere örnek ver
+===
+![[Pasted image 20241118160138.png]]
+```
+
+```anki
+---
+Geçişssiz ilgeçlere örnek ver
+===
+![[Pasted image 20241118160152.png]]
+```
+
+
+```anki
+---
+İngilizcede bir sözcüğün ilgeç olup olmadığını test etme yöntemleri?
+===
+She put the box [right] inside the cupboard
+Put your clean pile of clothes right underneath
+![[Pasted image 20241118160539.png]]
+```
+
+
+```anki
+---
+Türkçedeki tipik ilgeçlere en az 3 örnek ver
+===
+ile, kadar, gibi, boyunca, önce, dek, için
+```
+
+```anki
+---
+İlgeçler Türkçede her zaman bir ad ile kullanılırlar, bu anlamda Türkçedeki ilgeçler ingilizcedeki kategorik ayrımın aksine XXX
+===
+Geçişlidir
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
