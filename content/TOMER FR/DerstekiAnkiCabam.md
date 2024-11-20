@@ -12,7 +12,6 @@ le droit fondamental
 ===
 temel hak
 ```
-
 ```anki
 id: 1730272254581
 ---
@@ -143,6 +142,7 @@ giderek daha az
 ```
 
 
+
 [[2024-10-30]] Ankiye gecirdigim tarih
 ```anki
 id: 1730272499599
@@ -155,13 +155,14 @@ Pas celui-ci, celui-là
 
 [[2024-09-17]]
 ```anki
+id: 1731775822357
 ---
 avoir preposition alir mi?
 ===
 Asla almaz, avoir qqn, avoir qqpart, avoir qqch
 ```
-
 ```anki
+id: 1731775822389
 ---
 etre preposition alir mi?
 ===
@@ -169,20 +170,24 @@ Alir, etre à qqpart
 ```
 
 
+
 [[2024-11-04]]
 ```anki
+id: 1731775822420
 ---
 tenir qqch / tenir sa promesse
 ===
 sözünü tutmak
 ```
-
 ```anki
+id: 1731775822450
 ---
 Who published this document
 ===
 Qui a publié ce document? (Le Journal d'entreprise)
-```            ```anki
+```
+
+```anki
             ---
             maitriser qqch
             ===
@@ -253,4 +258,58 @@ Qui a publié ce document? (Le Journal d'entreprise)
             süt ve süt ürünü yiyecekler
             ===
             le produits laitiers
-            ```       
+            ```       ```anki
+            ---
+            le dromadaire
+            ===
+            camel
+            ```
+            ```anki
+            ---
+            hava çok sıcak
+            ===
+            il fait trop chaud
+            ```
+            ```anki
+            ---
+            avoir soif
+            ===
+            susamak
+            ```
+            ```anki
+            ---
+            se suer
+            ===
+            terlemek
+            ```
+            ```anki
+            ---
+            oranin yereli
+            ===
+            un habitant local (régional)
+            ```
+            ```anki
+            ---
+            garde le bon espoir de Vinf
+            ===
+            Umudunu kaybetmemek
+            ```
+            ```anki
+            ---
+            être intitulé
+            ===
+            adi olmak (s'apaller gibi ama mesela radyo programinin ismi)
+            ```
+            ```anki
+            ---
+            avoir du succès X  XXX
+            ===
+            échouer à qqch.
+            ```
+            ```anki
+            ---
+            en fait
+            ===
+            en réalité
+            ```
+            
