@@ -13,7 +13,7 @@
 - [x] 🔽 Arsima Foto Edit 📅 2024-10-15
 
 - [x] 🔺 Erasmus Sinavi Basvurusu📅 2024-10-21🏁 keep
-- [ ] 🔺 Erasmus Sinavi kendisi ➕ 2024-10-18 📅 2024-12-01
+- [x] 🔺 Erasmus Sinavi kendisi ➕ 2024-10-18 📅 2024-12-01 ✅ 2024-12-03
 - [x] 📅 2024-10-18 , unutmadan yazmak istedim. 21 inde erasmus basvurulari bitiyor, girmek isteyenlere hatirlatsak iyi olabilir ✅ 2024-10-20
 - [x] 🔼 Geçen hafta sesbilimdeki metni duygudan metin al 📅 2024-10-28 ✅ 2024-11-16
 - [ ] ⏫ Bahtiyar hocadan slaytlari al 📅 2024-10-25
@@ -23,9 +23,12 @@
 - [ ] sahibinden ilanı koy artik
 - [ ] çay al mistik
 - [x] ıslak mendil ✅ 2024-11-16
-- [ ] tuvalet kagidi
+- [x] tuvalet kagidi ✅ 2024-12-03
 - [ ] hosting service
 - [ ] 🔼 🛫 2024-11-22 Tw satin al📅 2024-11-25
+
+
+[[BooksToBeRead]]
 
 
 
