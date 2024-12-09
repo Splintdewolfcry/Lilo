@@ -312,4 +312,64 @@ Qui a publié ce document? (Le Journal d'entreprise)
             ===
             en réalité
             ```
+            ```anki
+            ---
+            aller seul(e)
+            ===
+            bir yere tek basina gitmek
+            ```
+            ```anki
+            ---
+            déranger qqn.
+            ===
+            Birisini rahatsız etmek
+            ```
+            ```anki
+            ---
+            cher(ère) X bon marché
+            ===
+            ucuz // pahalı
+            ```
+            ```anki
+            ---
+            promettre à qqn. de Vinf.
+            ===
+            Birisine bir şey yapmak için söz vermek
+            ```
+            ```anki
+            ---
+            J(e) t'assure
+            ===
+            Emin olabilirsin ki
+            ```
+            ```anki
+            ---
+            avoir l'air
+            ===
+            gibi gözükmek / tu as l'air fatigué, toi!
+            ```
+            ```anki
+            ---
+            Grâce à
+            ===
+            Thanks to / Grâce à Guillaume
+            ```
+            ```anki
+            ---
+            	Parce que hangi durumlarda başa gelir
+            ===
+            Sadece pourquoi sorusuna cevap verdiği zaman onun dışında her zaman cümlenin ortasında
+            ```
+            ```anki
+            ---
+            Puisque nün Tr deki karşılığı
+            ===
+            Madem ki
+            ```
+            ```anki
+            ---
+            Puisque dediğimiz zaman karşımızdaki sebebini biliyor mu?
+            ===
+            Evet. Puisque tu es fatigué, regardons un film à la tele
+            ```
             
