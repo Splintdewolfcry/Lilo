@@ -35,6 +35,7 @@ Sarp -- Sunum
 	- ![[Pasted image 20241217194033.png]]
 	- ![[Pasted image 20241217195218.png]]
 		- Bunlarin ikisi yan yana lise lokal gibi karsilastirmali olarak anlatmam gereken seyler
+			- Minimal Pair
 
 - İşaret dillerinde anlamaltı birimleri ayırıcı üç değiştirgen (parameter) vardır. Bunlar el şekli, yer ve harekettir. 
 	- Modeldeki katmanları teker teker açıklamak gerekirse seçili parmaklar ve onun üstünde bu modelde gösterilmeyen yönelim gibi diğer özellikler el şeklini oluşturmaktadır. El düzeni bir elin tek elle mi yoksa iki elle mi yapıldığını belirtir. El kurulumu bu modelde diğer bütün özellikleri barındıran en üst düğümdür. Yer-Hareket-Yer şeklinde gösterilen katman zaman birimlerini, yani özerkparça teorisindeki adıyla iskeleti ifade eder.
@@ -62,7 +63,12 @@ Sarp -- Sunum
 
 - El şekli benzeşmesi
 	- El şekli benzeşmesi C el harfi ve GİY sözcüklerinin eş anlı olarak birleştirilmesiyle türetilmiş CEKET sözcüğünde görülebilir. Burada C el harfinin seçili parmaklar düğümündeki kıvrılma ve diğer özellikler GİY sözcüğüne bağlanmaktadır. Şekil 6’da işaretin fotoğrafları, (4)’te ise Katmanlı El Modeli ile temsili verilmiştir.
+	- El alfabesinde P el harfi gövdeye yakın bir yerde işaretlenir. Örneğin, BAŞ ve P el harfinin bir araya getirilmesiyle türemiş olan ve “psikolojik rahatsızlığı olan kişi” anlamına gelen birleşik bir sözcüğü inceleyecek olursak, BAŞ sözcüğünde el başla temas eder ve ardından P el harfi başa yakın bir konumda işaretlenir.
+		- ![[PsikolojikKadin.mp4]]
 	- Çorap Giy
 		- ![[CorapCGiy.mp4]]
-- 
+- 4.5'i al
+
+- Sonuç tan al çizdiklerimi
+	- Birisini Nuri yapıyo
 
