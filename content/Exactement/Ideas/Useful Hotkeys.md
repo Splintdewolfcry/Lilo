@@ -1,0 +1,2 @@
+- How to expand all rows in Excel according to the length of the data in those columns
+	- ![[Pasted image 20241214152207.png]]

@@ -1,3 +1,4 @@
+[[2024-09-24]]
 NIKON D3500/1
 - 5887 - Liminal space lere ilgim olduğu bi ara
 

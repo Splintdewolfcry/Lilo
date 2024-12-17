@@ -1,8 +1,8 @@
 	[[2024-07-01]]
 
 Üçüncü kayıt direk futur simple
--  [ ] Ms. Vandertrump muhabbetine bakman lazim
-
+- [x] Ms. Vandertrump muhabbetine bakman lazim
+	 [completion:: 2024-12-13]
 
 - [x] Cah d'ex 82-5
 	- [x] Cah d'ex 80-1
@@ -18,7 +18,7 @@ https://www.lawlessfrench.com/grammar/modal-verbs/
 
 - [[due:: 2024-07-07]]
 	- [x] #task Cah d'ex: 87: 11 📅 2024-07-07
-	- [ ] Haftanın günleri
-	- [ ] Soru yapma şekilleri (1 ve 2)
+	- [x] Haftanın günleri [completion:: 2024-12-13]
+	- [x] Soru yapma şekilleri (1 ve 2) [completion:: 2024-12-13]
 	- [x] Cah d'ex 93:b 📅 2024-07-07
 

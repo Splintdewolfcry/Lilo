@@ -372,4 +372,94 @@ Qui a publié ce document? (Le Journal d'entreprise)
             ===
             Evet. Puisque tu es fatigué, regardons un film à la tele
             ```
+            ```anki
+            ---
+            un avertissement
+            ===
+            ikaz, uyari
+            ```
+            ```anki
+            ---
+            le volant
+            ===
+            direksiyon
+            ```
+            ```anki
+            ---
+            la sensibiliation
+            ===
+            sensitivity
+            ```
+            ```anki
+            ---
+            le comportement
+            ===
+            davranis
+            ```
+            ```anki
+            ---
+            se comporter + adj 
+            ===
+            ekle
+            ```
+            ```anki
+            ---
+            même si + phrase
+            ===
+            olsa bile (conj)
+            ```
+            ```anki
+            ---
+            doubler qqn 
+            ===
+            birini (arabayla) geçmek
+            ```
+            ```anki
+            ---
+            être précipité(e)
+            ===
+            acelesi olmak
+            ```
+            ```anki
+            ---
+            doubler la classe
+            ===
+            Sinifta kalmak
+            ```
+            ```anki
+            ---
+            la priorité
+            ===
+            l'importance
+            ```
+            ```anki
+            ---
+            environ
+            ===
+            à peu près // yaklasik
+            ```
+            ```anki
+            ---
+            le kit main libre
+            ===
+            telefon tutacagi
+            ```
+            ```anki
+            ---
+            avertir qqn
+            ===
+            Birisini uyarmak
+            ```
+            ```anki
+            ---
+            traverse preposition?
+            ===
+            ekle
+            ```
+            ```anki
+            ---
+            se bagarer
+            ===
+            Kavgalaşmak // se disputer
+            ```
             

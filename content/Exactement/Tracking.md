@@ -1,5 +1,5 @@
-- [ ] ⏫ Defter bişiler bak benim kırtasiyeden ➕ 2024-09-29 📅 2024-09-30
-
+- [x] ⏫ Defter bişiler bak benim kırtasiyeden ➕ 2024-09-29 📅 2024-09-30
+	 [completion:: 2024-12-13]
 - [ ] 🔼 minnak pantolon bişi bak LC den giyim dünyasından➕ 2024-09-29 📅 2024-09-30 
 
 - [x] 🔼 Yoga videolari 📅 2024-10-07 ✅ 2024-10-20

@@ -25,3 +25,6 @@
 	- ![[Python#^zedhtk]]
 
 - Google calendar daki o günkü eventleri al, obsidian'a kopyala. Probably will be in the other vault
+
+- Watson a ghost sureler ekleme (fr vardi katilmadin, bunu repetitive yapip mesela doldurma gibi)
+	- Daha sonra karsilastirma gibi de

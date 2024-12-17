@@ -1,4 +1,4 @@
--  [ ] FR haftanın günleri
+- [x] FR haftanın günleri [completion:: 2024-12-13]
 
 
 [[2024-07-26]]
