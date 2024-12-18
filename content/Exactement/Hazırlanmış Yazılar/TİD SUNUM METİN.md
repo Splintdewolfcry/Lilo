@@ -32,7 +32,7 @@
 Sarp -- Sunum
 
 - Sandler, Katmanlı El Modeli’ni, çizgisel olmayan (non-linear) Özerkparça Modeli (Autosegmental), Hiyerarşik Özellik Organizasyonu (Hierarchical Feature Organization), Bağımlılık İlişkileri (Dependency Relations), Hece Teorisi, Bürünsel Sesbilim gibi modellerden esinlenerek yaratmıştır. Şekil 4’te bir işaretin bu model tarafından nasıl temsil edildiği basitleştirilmiş olarak görülebilir.
-	- ![[Pasted image 20241217194033.png]]
+		- ![[Pasted image 20241217194033.png]]
 	- ![[Pasted image 20241217195218.png]]
 		- Bunlarin ikisi yan yana lise lokal gibi karsilastirmali olarak anlatmam gereken seyler
 			- Minimal Pair
@@ -42,7 +42,7 @@ Sarp -- Sunum
 	- ![[Pasted image 20241217194500.png]]
 	- ![[Pasted image 20241217194808.png]]
 
-- Makalede burayı "Yönelim Benzeşmesi" olarak ifade ediyor. M^ Meclis gibi ifade ederken bize "bu" ifadeyi yapıyor: El alfabesindeki M'yi alttan yapmak yerine üstten yaptığı için yönelim benzeşmesi olduğunu görebiliyoruz. Lakin, Meclis'in eş zamanlı kodlama belirli değişiklikler geçirmiştir.
+- Makalede burayı "Yönelim Benzeşmesi" olarak ifade ediyor. M^ Meclis gibi ifade ederken bize "bu" ifadeyi yapıyor: El alfabesindeki M'yi alttan yapmak yerine üstten yaptığı için yönelim benzeşmesi olduğunu görebiliyoruz. Lakin, Meclis'in eş zamanlı kodlanması belirli değişiklikler geçirmiştir.
 	- M'nin üstten yapılıp salon ifadesinin yanında o dönemlerde oy "böyle" yapılıyordu. Daha sonralarında gerçek hayattan alınan ifadelere benzerlik göstererek, direk "oy" ifadesiyle yapılıyor. Ama bağlama göre de hem art süremli Meclis'in özelliklerini gösteriyor, hem de milletvekili ve "oy"un da özelliklerini gösteriyor
 	- 
 - ![[MeclisBOUN.mp4]]
