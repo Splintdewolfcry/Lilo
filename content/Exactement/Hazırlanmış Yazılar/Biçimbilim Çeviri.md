@@ -1,26 +1,24 @@
-Türk dillerinin belirgin tipolojik özelliklerinden biri de sözel dillerinin zenginliğidir.  
-olumsuzlama gibi çok sayıda kategorinin dilbilgiselleştirildiği sistemler, bakış açıları, kipler, kiplik ve kanıtsallık. Basit fiile ek olarak  formlar, son ekler veya son ek zincirleri ile oluşturulurken, bileşik formlar  farklı kopula parçacıkları.  Örneğin, 'i|di' kopula parçacığı, kusurlu kopula i-'nin terminal formudur.  
+6. The discourse function
+Johanson (1971: 77–87) describes the function of verb forms to mark different discourse types. A verb form can be used to introduce a narrative and define the discourse type of the whole text. Another possibility is that a discourse type can be based on a verb form, i.e. the given verb form is used repeatedly in the text. In Example 1 above, the {-DỊ-ydỊ} forms girdi:dik and vardï:dïq introduce the narrated episodes. They are used as encompassing markers to signal that the following narration is based on the evidence of a self-experienced event. In the second example the entire episode is based on repeatedly used {-DỊ-ydỊ} forms.
 
-← EOT är- 'olmak', aorist tabanlara eklenebilir, örneğin 'gel|ir|di' 'X gelirdi';  
+Johanson (1971: 77-87) fiil biçimlerinin farklı söylem türlerini işaretleme işlevini tanımlar. Bir fiil biçimi bir anlatıyı başlatmak ve tüm metnin söylem türünü tanımlamak için kullanılabilir. 
 
-postterminal tabanlara, örneğin 'gel|miş|ti', 'X gelmişti'; intraterminal tabanlara, örneğin  
+### Example 2.
+	
+- Benim hayatım Mehmet’in köye gelişi ile değişti.
+	- My life changed when Mehmet came to the village.
 
-'gel|iyor|du' 'X geliyordu'; prospektif tabanlar, örneğin 'gel|ecek|ti' 'X gelecekti';  
+- İlk köy kahvesinde **gördüydüm** Mehmet’i, elinde gazete ile yola yakın bir masada oturuyordu.
+	- I recall that I first saw Mehmet in the village coffeehouse; he was sitting with a newspaper in his hand at a table close to the road.
 
-ve gereklilik temelleri, örneğin 'gel|meli|ydi' 'X gelmek zorundaydı'. Bu makalede, şunları yapacağız  
+- Bakıştıydık. 
+	- We looked at each other.
 
-DỊ}'deki terminal taban ve kopuladan oluşan bileşik fiil formunu tartışınız.  
+- Ne yalan söyleyeyim çok beğendiydim onu. 
+	- I will not lie, I liked him.
 
-'i|di'.  
+- Gülümsediydi bana. 
+	- He smiled at me.
 
-'i|di' < är-dị kopulasının son biçimi bir kopula olarak dilbilgiselleştirilir  
-
-zamansal veya zamansal olmayan uzaklığı ifade eden parçacık. Uzak olarak kullanılır  
-
-(anterior) parçacığının çeşitli tematik tabanlarla kombinasyonu.  
-
-Aşağıda, terminal tabanının kombinasyonunun {-  
-
-DỊ} 'i|di' kopula parçacığı ile belirli bir dilbilgiselleştirme sürecinden geçmiştir  
-
-Bu da tipolojik olarak nadir görülen bir kanıt işaretleyici türüne yol açar.
+- Ben de ona gülümsediydim. 
+	- And I also smiled at him.
