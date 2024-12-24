@@ -1,3 +1,13 @@
+## 2 The Turkish mnemonic past evidential {-DỊ-ydỊ}
+The use of {-DỊ-ydỊ} in Turkish mnemonic past sentences was dealt with by Lars Johanson (1971), who stated that {-DỊ-ydỊ} does not express postterminality in the way the pluperfect marker {-mỊș-tỊ} does. Its use implies a supplementary meaning which can be paraphrased ‘as I may recall’ or ‘as far as I can remember’ (1971: 62).
+
+- Türkçe mnemonic geçmiş cümlelerinde {-DỊ-ydỊ} kullanımı Lars Johanson (1971) tarafından ele alınmış ve {-DỊ-ydỊ}'nın {-mỊș-tỊ} işaretleyicisinin yaptığı gibi **artzamanlılık** ifade etmediği belirtilmiştir. Kullanımı, 'hatırladığım kadarıyla' ya da 'hatırlayabildiğim kadarıyla' şeklinde yorumlanabilecek ek bir anlam ifade eder (1971: 62).
+- Artzamanlılık lafına bak
+
+When ‹i|di› attaches to postterminals, the resulting verb form transposes the postterminal view into the past, and it thereby corresponds to the English pluperfect, e.g. Turkish ‹Gel|miș|ti› ‘X had come’, and conveys a ‘plusquamperfectum status’, i.e. a state in the past after the event is regarded to be completed.
+
+- 
+
 ## 6. The discourse function
 
 Johanson (1971: 77–87) describes the function of verb forms to mark different discourse types. A verb form can be used to introduce a narrative and define the discourse type of the whole text. 
@@ -64,6 +74,12 @@ The form {-DỊ-ydỊ} is old and occurs in historical texts. It is frequently u
 	- After I swallowed a pill, I died değil de öldüm diyebilmek gibi
 
 East Old Turkic displays {-DỊ} är-dị as opposed to {-mỊš} är-dị, e.g. Kör-dü-̣ m är-dị ‘I once saw’, Öŋ-düṇ sözlä-δị är-dị ‘X once spoke’. Several other Turkic languages display constructions of this kind, e.g. Gagauz Al-dï-̣ y-dï-̣m, Crimean Tatar Al-dï-̣m ä-dị ‘I once bought it’. Other modern languages exhibit similar constructions. The similarities between these forms should be investigated.
+
+- Doğu Eski Türkçesinde {-mỊš} är-dị'ye karşılık {-DỊ} är-dị bulunur, örneğin Kör-dü-̣ m är-dị 'bir zamanlar gördüm', Öŋ-düṇ sözlä-δị är-dị 'X bir zamanlar konuştu'
+- Diğer bazı Türk dilleri bu tür yapılar sergiler, örneğin Gagavuzca Al-dï-̣ y-dï-̣m
+- Kırım Tatarcası Al-dï-̣m ä-dị 'Bir zamanlar satın aldım'.
+- Diğer modern diller de benzer yapılar sergilemektedir. Bu biçimler arasındaki benzerlikler araştırılmalıdır.
+
 ## 8. Conclusion
 This article deals with the position of {-DỊ-ydỊ} forms in the Turkish verbal system. Arguments have been presented in favor of analyzing this verb form as an evidential anterior form referring to a self-experienced event as remembered or as recalled to mind. The source is the speaker’s memory. To our knowledge, this is a typologically non-attested type of evidential marker.
 
