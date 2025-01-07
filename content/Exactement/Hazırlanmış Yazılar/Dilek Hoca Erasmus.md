@@ -4,3 +4,14 @@
 	- ![[Pasted image 20250108021111.png]]
 	- ![[Pasted image 20250108021125.png]]
 	- ![[Pasted image 20250108021135.png]]
+
+
+- University of Amsterdam
+	- ![[Pasted image 20250108021708.png]]
+	- ![[Pasted image 20250108021720.png]]
+	- ![[Pasted image 20250108021736.png]]
+
+
+- Masaryk University
+	- ![[Pasted image 20250108022952.png]]
+	- ![[Pasted image 20250108023015.png]]
