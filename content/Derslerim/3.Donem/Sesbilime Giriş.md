@@ -84,6 +84,128 @@ F2-F3 Formant larına karşılık gelen ses türü
 ```
 
 
+```anki
+---
+Duraklamalı sesler(obstruents) sadece ünsüzlerden/ünlülerden oluşmaktadır?
+===
+Sadece ünsüzlerden (patlamalı sesleri düşün)
+```
+
+
+```anki
+---
+Ses ötümsüz olduğunda bunu IPA'de nasıl belirtiyoruz
+===
+Küçük h ile, ses üstünde küçük h ile
+```
+
+
+```anki
+---
+[b] genelde ön/iç/son seste [p] ye dönüşür
+===
+Son seste kitap -- kitap+ını 
+```
+
+
+```anki
+---
+/p/ ve /b/ nin değişkeleri
+===
+[p], [b]
+```
+
+
+```anki
+---
+/k/'nin değişkeleri
+===
+[k], [c]
+```
+
+
+```anki
+---
+/g/'nin değişkeleri
+===
+[g] ve [ɟ] (ters t gibi)
+```
+
+
+```anki
+---
+/k/ değişkeleri ne zaman görülüyor?
+===
+[k] olan artdamaksıl [ɑ] ile görülürken
+[c] olan öndamaksıl [a] ile (öndamaksıl a ödünçleme sözcüklerde)
+
+Şeyden hatırla k olunca daha  daha bı tık daha sert bir ses(artdamaksıl [ɑ] öndamaksıl a kadar yol kat etmiyor dolayısıyla o kadar yayılmıyor da)
+```
+
+
+```anki
+---
+k sözcüklerin hangi konumunda görülür?
+===
+ön iç sonseste
+```
+
+
+```anki
+---
+g sözcüklerin hangi konumunda görülür?
+===
+ön ve iç ses (son seste görülmez)
+bcdg kulağa garip geliyor ya o hesap
+```
+
+
+```anki
+---
+Türkçede /n/ ünsüzü neyle beraber kullanıldığında [genizsil m] ye dönüşür?
+===
+/v/ /f/ /k/
+enfes
+```
+
+
+```anki
+---
+/n/ hangi durumlarda ve hangi ünsüzlerle konumlandığında nazal n olur
+===
+iç ve sonseste /k/ ve /g/ ile konumlandığında
+```
+
+
+```anki
+---
+/N/ sesi genelde hangi ünsüzlerle etkileşime geçiyor 
+===
+/k/ /g/
+```
+
+
+```anki
+---
+Yitirilen /h/ sesi neye benziyor?
+===
+[x]
+```
+
+
+```anki
+---
+Ses değerini yitirmeyen h sesi?
+===
+[ç]
+```
+
+
+
+
+
+
+
 
 
 
