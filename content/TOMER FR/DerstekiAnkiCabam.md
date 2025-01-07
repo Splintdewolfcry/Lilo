@@ -462,4 +462,28 @@ Qui a publié ce document? (Le Journal d'entreprise)
             ===
             Kavgalaşmak // se disputer
             ```
+            ```anki
+            ---
+            faire la messe
+            ===
+            ibadetini gerceklestirmek (dinler icin universal)
+            ```
+            ```anki
+            ---
+            faire un rave
+            ===
+            rave e gitmek
+            ```
+            ```anki
+            ---
+            mettre en garde qqn. qqch.
+            ===
+            ikaz etmek
+            ```
+            ```anki
+            ---
+            prendre des mesures
+            ===
+            onlem almak
+            ```
             

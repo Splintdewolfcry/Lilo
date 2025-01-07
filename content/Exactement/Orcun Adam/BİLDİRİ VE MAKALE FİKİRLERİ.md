@@ -1,0 +1,2 @@
+1. **Sentetik data üretimi ile elde edilen doğal konuşma örnekleri** ile **normal bireylerden alınan doğal konuşma örnekleri** arasında frekans, F0, pitch vb. herhangi bir farklılık var mı yok mu gibi bir çalışa yapılabilir. Eğer ses olarak bize veriyorsa ses özellikleri üzerine de çalışma yapılabilir. Eğer üretmiyorsa frekanslar üzerine yapılabilir *(Literatürde toplamda 7 çalışma yapılmış buna dair ("synthetic data" and "natural speech production"))*.
+

@@ -34,7 +34,9 @@ id: 1698522508623
 ---
 ### Biçimbirim nedir? 
 ===
-Anlam yükleyici en küçük birim. göz-lük, göz-cü [[1. Hafta]]
+Anlam yükleyici en küçük birim. göz-lük, göz-cü
+Burada göz de bir biçimbirimdir (ek kök ayrımından farklı olarak anlam yükleyen en küçük birime bakıyoruz)
+[[1. Hafta]]
 ```
 ```anki
 id: 1698522508727
@@ -235,7 +237,10 @@ id: 1700827086136
 ---
 Dilbilgisel cinsiyet nedir?
 ===
-Dilbilgisel cinsiyet adları dişil, eril ya da yansız kategorize eden sistemdir [[4. Hafta]]
+Dilbilgisel cinsiyet adları dişil, eril ya da yansız kategorize eden sistemdir
+Masc, fem (FR)
+Der, die, das (GER) 
+[[4. Hafta]]
 ```
 
 ```anki

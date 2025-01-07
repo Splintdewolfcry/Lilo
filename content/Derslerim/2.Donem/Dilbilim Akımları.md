@@ -145,7 +145,16 @@ id: 1714231679007
 ---
 Diller arası ses benzerliklerine bakan ancak ses/harf terimlerini karıştırmış adam?
 ===
-Rask [[Dönem 2 Hafta 4]]
+Rask
+**"Rask’s Rule: Sounds Shift Regularly"**
+
+Here’s how you can break it down:
+
+1. **"Rask"** – This represents Rasmus Rask, whose work was crucial in identifying and explaining sound laws.
+2. **"Rule"** – This refers to the "rules" of how sounds change over time in predictable patterns. Sound laws are essentially these regular rules governing phonetic changes in languages.
+3. **"Sounds Shift Regularly"** – This emphasizes the core idea behind sound laws, which is that changes in sounds (phonemes) happen in a regular, systematic way across related languages over time.
+
+[[Dönem 2 Hafta 4]]
 ```
 
 ```anki
