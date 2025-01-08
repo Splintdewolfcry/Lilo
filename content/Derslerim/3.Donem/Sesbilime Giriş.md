@@ -201,6 +201,23 @@ Ses değerini yitirmeyen h sesi?
 ```
 
 
+```anki
+---
+Türkçede hangi durumda z ünsüzü ötümsüzleşir?
+===
+Sonseste bulununca
+```
+
+
+```anki
+---
+/z/ ünsüzü son seste bulunca ne olur?
+===
+Ötümsüzleşerek altında yuvarlaklı z ye [ʐ] bir şeye dönüşür
+```
+
+	
+
 
 
 
