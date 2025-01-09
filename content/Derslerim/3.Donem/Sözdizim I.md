@@ -8,7 +8,6 @@ Bireyseldir çünkü beynimizde var olan bir şeyi araç olarak kullanıp toplum
 Sopayı sırtımızı kaşımak, adam dövmek veya işte bir şeyin altına koymak için de kullanabiliriz.
 Sadece işlevsel bakmamak gerekiyor: biçim, işlevsellik ve form gibi kriterler var. Daha educated bakabilmek bir şeylere itecektir
 ```
-
 ```anki
 id: 1731775806203
 ---
@@ -59,6 +58,7 @@ id: 1731775806290
 
 
 
+
 [[Hafta3]]
 ```anki
 id: 1731775806448
@@ -68,7 +68,6 @@ Gözlemsel yetkinlik?
 ![[Pasted image 20241116181158.png]]
 ![[Pasted image 20241116181214.png]]
 ```
-
 ```anki
 id: 1731775806537
 ---
@@ -110,6 +109,7 @@ ve bundan sonuç çıkartacak olursak:
 
 
 
+
 [[Hafta4]]
 ```anki
 id: 1731775806883
@@ -127,7 +127,6 @@ Biçimbilimsel yani form testi?
 Örnek: escape ingilizcede hem ad hem eylem olarak kullanılabilmektedir
 ![[Pasted image 20241116190259.png]]
 ```
-
 ```anki
 id: 1731775807007
 ---
@@ -152,6 +151,7 @@ Dağılım testi bağlamında kamyon ve taşı değerlendir (Ör cümle üzerind
 ===
 ![[Pasted image 20241116193918.png]]
 ```
+
 
 
 
@@ -244,7 +244,6 @@ Bir ad öbeğinde xx tane belirleyici bulunabilir
 1 tane
 ![[Pasted image 20241118132455.png]]
 ```
-
 ```anki
 id: 1735908627332
 ---
@@ -255,6 +254,7 @@ sevinçli, kapısız
 *tümlü,
 *hangisiz
 ```
+
 
 
 ```anki
@@ -313,7 +313,6 @@ id: 1735908627744
 2ye
 ![[Pasted image 20241118160040.png]]
 ```
-
 ```anki
 id: 1735908627806
 ---
@@ -321,6 +320,7 @@ id: 1735908627806
 ===
 Geçişli ve geçissiz ilgeçler
 ```
+
 
 
 
@@ -444,6 +444,7 @@ Dolaylı nesne olduğunu gösterir
 
 
 ```anki
+id: 1736441409447
 ---
 a. İşçiler asfaltı onardı.
 
@@ -456,13 +457,14 @@ Yalin halde bulunmak zorunda
 
 
 ```anki
+id: 1736441409478
 ---
 İlgeçler tek başlarına kullanılabilirler mi?
 ===
 Hayır, ilgeç + ad olarak görebildiğimiz gibi ad + ilgeç olarak da görebiliyoruz
 ```
-
 ```anki
+id: 1736441409540
 ---
 Bildiğimiz gibi, Türkçede sıfatlarla adların birlikteliğinde de aynı sıralama, yani XXXX sıralaması, zorunludur
 ===
@@ -470,12 +472,14 @@ Sıfat + Ad
 ![[Pasted image 20250105164405.png]]
 ```
 
+
 - Bunu şu anlık Ankilemiyorum ama önemli bir piece of info
 	- ![[Pasted image 20250105164739.png]]
 - (13) Kurucu
 	- X Y’yi dallandırıyorsa, Y X’in kurucusudur.
 
 ```anki
+id: 1736441409794
 ---
 Kurucu testleri nelerdir?
 ===
@@ -492,6 +496,7 @@ sözcük/sözcük dizisi bir kurucudur.
 
 
 ```anki
+id: 1736441409818
 ---
 Kaç tane kurucu testi var?
 ===
@@ -500,6 +505,7 @@ Kaç tane kurucu testi var?
 
 
 ```anki
+id: 1736441409849
 ---
 Kurucu testlerinden özerklik testi?
 ===
@@ -515,6 +521,7 @@ B: Seyirciler.
 
 
 ```anki
+id: 1736441409895
 ---
 Kurucu testlerinden yerine koyma testi?
 ===
@@ -522,8 +529,8 @@ Subsitution [adıl değiştirimi pro-­‐form–testi dediğimiz şeyde adılla
 a. Seyirciler ünlü sanatçıyı dakikalarca alkışladı.
 b. Seyirciler onu dakikalarca alkışladı.
 ```
-
 ```anki
+id: 1736441409955
 ---
 Kurucu testlerinden sıralama testi?
 ===
@@ -534,7 +541,9 @@ Coordination test: Aynı türden bir sözcük/sözcük dizisi, ve, veya ama gibi
 ```
 
 
+
 ```anki
+id: 1736441410048
 ---
 Silme testi?
 ===
@@ -547,6 +556,7 @@ Kurucu ya tek başına ayakta duruyo. Bir takım içerisinde tek başına takıl
 
 
 ```anki
+id: 1736441410108
 ---
 Chomsky dilbilgisinde öbek, belirli konumlardan oluşan aşamalı bir yapı olarak ele alınmaktadır. Öbeğin temel birimi XXXX olarak adlandırılır.
 ===
@@ -555,6 +565,7 @@ baş (head)
 
 
 ```anki
+id: 1736441410173
 ---
 Aşağıdaki örneklerde köşeli ayraç içinde gösterilen öğeler bulundukları yapıların XXXX, ayraç dışında kalanlar ise XXXX oluşturmaktadır.
 ![[Pasted image 20250105173422.png]]
@@ -564,6 +575,7 @@ köşeli ayraç içindekiler başı dışındakiler ise bağımlı birimleri gö
 
 
 ```anki
+id: 1736441410234
 ---
 Örneğin bir ad, tanımı gereği, [+ad], bir sıfat [+sıfat] ve diğer türlere ait sözcükler de kendi sözcük ulamlarıyla uyumlu XXXX içerir.
 ===
@@ -572,6 +584,7 @@ ulamsal özellikler (categorial feature)
 
 
 ```anki
+id: 1736441410265
 ---
 Büyükçül yansıma?
 ===
@@ -580,6 +593,7 @@ Hızlı at dediğimiz zaman mesela normalde hızlı sıfat at da ad ya, bunlara 
 
 
 ```anki
+id: 1736441410326
 ---
 Açıkla ![[Pasted image 20250105184446.png]]
 ===
@@ -588,6 +602,7 @@ Elbise bir baş iken, kırmızı sıfatı geldiğinde ve bir öbek oluşması i�
 
 
 ```anki
+id: 1736441410419
 ---
 İlgeçlerin neden kendi başlarına bulunamayacağıyla ilgili sözdizimsel bakış açısı sun
 ===

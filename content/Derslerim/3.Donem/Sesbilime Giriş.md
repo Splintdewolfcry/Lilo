@@ -1,12 +1,13 @@
 [[Hafta2]] 04/10/24
 ```anki
+id: 1736441378232
 ---
 Tr de xx ünlüler ötümlüdür, xx ünsüzler de ötümlüdür
 ===
 Trde bazı ünlüler ötümlüdür, bazı ünsüzler de ötümlü olabilir
 ```
-
 ```anki
+id: 1736441378355
 ---
 Ünlüler xx, xx, xx ve engelsizdir
 ===
@@ -14,6 +15,7 @@ Trde bazı ünlüler ötümlüdür, bazı ünsüzler de ötümlü olabilir
 ```
 
 ```anki
+id: 1736441378388
 ---
 Ünlü sesler periyodiktir ancak insan sesi xx
 ===
@@ -21,6 +23,7 @@ Karmaşıktır.
 ```
 
 ```anki
+id: 1736441378421
 ---
 Ğ bir ses değil, ..
 ===
@@ -28,6 +31,7 @@ Yumuşatma eyleminin bir imi (yazıbirimi)
 ```
 
 ```anki
+id: 1736441378444
 ---
 Sesletiyorsun, dudağın haraket ediyor. Aktif/Pasif eklemleyici?
 ===
@@ -35,6 +39,7 @@ Aktif
 ```
 
 ```anki
+id: 1736441378477
 ---
 Kadınlardaki temel ses sıklığı erkeklere göre daha azdır / fazladır?
 ===
@@ -42,6 +47,7 @@ Fazladır, erkeklerde Hz 90-160 iken kadınlarda bu 150-220 aralığındadır
 ```
 
 ```anki
+id: 1736441378510
 ---
 Küçük dil Tr de yoktur ama Fransızca gibi dillerde görülür
 ===
@@ -49,20 +55,23 @@ Fr'de aktif eklemleyici iken Tr için pasif
 ```
 
 ```anki
+id: 1736441378538
 ---
 Harmonikler yalnızca ünlüler/ünsüzler için geçerlidir
 ===
 Ünlüler için geçerlidir sadece
 Formant değerlerinden hatırla, bir sesin F0 değeri 100Hz ise harmonik değeri 200Hz dir
 ```
+
 ```anki
+id: 1736441378571
 ---
 F0 Herz aralığı
 ===
 1-500Hz
 ```
-
 ```anki
+id: 1736441378605
 ---
 F1 Herz aralığı
 ===
@@ -70,6 +79,7 @@ F1 Herz aralığı
 ```
 
 ```anki
+id: 1736441378637
 ---
 F1 Formant a karşılık gelen ses türü 
 ===
@@ -77,6 +87,7 @@ Arka dil sesleri (düşük)
 ```
 
 ```anki
+id: 1736441378671
 ---
 F2-F3 Formant larına karşılık gelen ses türü
 ===
@@ -84,7 +95,9 @@ F2-F3 Formant larına karşılık gelen ses türü
 ```
 
 
+
 ```anki
+id: 1736441378694
 ---
 Duraklamalı sesler(obstruents) sadece ünsüzlerden/ünlülerden oluşmaktadır?
 ===
@@ -93,6 +106,7 @@ Sadece ünsüzlerden (patlamalı sesleri düşün)
 
 
 ```anki
+id: 1736441378728
 ---
 Ses ötümsüz olduğunda bunu IPA'de nasıl belirtiyoruz
 ===
@@ -101,6 +115,7 @@ Küçük h ile, ses üstünde küçük h ile
 
 
 ```anki
+id: 1736441378761
 ---
 [b] genelde ön/iç/son seste [p] ye dönüşür
 ===
@@ -109,6 +124,7 @@ Son seste kitap -- kitap+ını
 
 
 ```anki
+id: 1736441378791
 ---
 /p/ ve /b/ nin değişkeleri
 ===
@@ -117,6 +133,7 @@ Son seste kitap -- kitap+ını
 
 
 ```anki
+id: 1736441378822
 ---
 /k/'nin değişkeleri
 ===
@@ -125,6 +142,7 @@ Son seste kitap -- kitap+ını
 
 
 ```anki
+id: 1736441378853
 ---
 /g/'nin değişkeleri
 ===
@@ -133,6 +151,7 @@ Son seste kitap -- kitap+ını
 
 
 ```anki
+id: 1736441378884
 ---
 /k/ değişkeleri ne zaman görülüyor?
 ===
@@ -144,6 +163,7 @@ Son seste kitap -- kitap+ını
 
 
 ```anki
+id: 1736441378915
 ---
 k sözcüklerin hangi konumunda görülür?
 ===
@@ -152,6 +172,7 @@ k sözcüklerin hangi konumunda görülür?
 
 
 ```anki
+id: 1736441378945
 ---
 g sözcüklerin hangi konumunda görülür?
 ===
@@ -161,6 +182,7 @@ bcdg kulağa garip geliyor ya o hesap
 
 
 ```anki
+id: 1736441378975
 ---
 Türkçede /n/ ünsüzü neyle beraber kullanıldığında [genizsil m] ye dönüşür?
 ===
@@ -170,6 +192,7 @@ enfes
 
 
 ```anki
+id: 1736441379007
 ---
 /n/ hangi durumlarda ve hangi ünsüzlerle konumlandığında nazal n olur
 ===
@@ -178,6 +201,7 @@ iç ve sonseste /k/ ve /g/ ile konumlandığında
 
 
 ```anki
+id: 1736441379038
 ---
 /N/ sesi genelde hangi ünsüzlerle etkileşime geçiyor 
 ===
@@ -186,6 +210,7 @@ iç ve sonseste /k/ ve /g/ ile konumlandığında
 
 
 ```anki
+id: 1736441379068
 ---
 Yitirilen /h/ sesi neye benziyor?
 ===
@@ -194,6 +219,7 @@ Yitirilen /h/ sesi neye benziyor?
 
 
 ```anki
+id: 1736441379099
 ---
 Ses değerini yitirmeyen h sesi?
 ===
@@ -202,6 +228,7 @@ Ses değerini yitirmeyen h sesi?
 
 
 ```anki
+id: 1736441379130
 ---
 Türkçede hangi durumda z ünsüzü ötümsüzleşir?
 ===
@@ -210,6 +237,7 @@ Sonseste bulununca
 
 
 ```anki
+id: 1736441379177
 ---
 /z/ ünsüzü son seste bulunca ne olur?
 ===
@@ -217,11 +245,30 @@ Sonseste bulununca
 ```
 
 	
+```anki
+id: 1736441379223
+---
+Tek seslemli sözcüklerde e'nin hangi değişkesi görülür?
+===
+[Açık e] ama bu sözcük [kapalı e] ye dönüşür
+```
 
 
+```anki
+id: 1736441379255
+---
+Çift dudaksıl ünsüzler
+===
+p, b, m
+```
 
 
-
+```anki
+---
+Genizsil sesleri çıkış biçimine göre anlat:
+===
+Ağız boşluğundaki kapanmasına rağmen havanın geniz boşluğundan çıkması
+```
 
 
 
