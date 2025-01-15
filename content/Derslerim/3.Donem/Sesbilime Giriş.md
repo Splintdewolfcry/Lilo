@@ -271,6 +271,24 @@ Ağız boşluğundaki kapanmasına rağmen havanın geniz boşluğundan çıkmas
 ```
 
 
+```anki
+---
+/V/ glide yapınca neye benzer?
+===
+![[Pasted image 20250109235215.png]] Sağdakine benzer
+```
+
+
+```anki
+---
+Afrike ünsüzlerin üretimi?
+===
+Patlamalı bir ünsüz sebest bırakılmasındaki sürtünme kısmı uzatılarak, tam bir sürtünmeli ünsüz oluşturulmasıyla elde edilmektedir
+Patlamlı + Sürtünücü ünsüz = Afrike
+```
+
+
+
 
 
 

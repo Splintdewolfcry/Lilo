@@ -7,17 +7,24 @@
 - Sözcük ek aldığında kökteki açık [ɛ], kapalı [e]’ye dönüşür: ben, benim; 
 - Çok seslemli sözcüklerde sözcük sonuna doğru kapalı [e], açık [ɛ]’ye dönüşür: kelebek
 
-3.      /o/: Açık [ɔ] Kapalı [o]: Önses, içses: obur, yorum, palto; Sonses konumundaki /o/ ünlüsü genellikle alıntı sözcüklerde bulunur: Örneğin palto, oto.
+3.      /o/: 
+- Açık [ɔ] Kapalı [o]: Önses, içses: obur, yorum, palto; 
+- Sonses konumundaki /o/ ünlüsü genellikle alıntı sözcüklerde bulunur: Örneğin palto, oto.
 
-5.      /ö/: Açık [œ] Kapalı [þ]: Önses, içses, sonses: örnek, öğüt, gövde
+	5.      /ö/: 
+- Açık [œ] Kapalı [þ]: Önses, içses, sonses: örnek, öğüt, gövde
 
-6.      /ı/: Açık [ɨ]: Önses, içses, sonses: ısırgan, kılıç, sarı, yığıl
+6.      /ı/: 
+- Açık [ɨ]: Önses, içses, sonses: ısırgan, kılıç, sarı, yığıl
 
-7.      /i/: Açık [ɪ] Kapalı [i]: Önses, içses, sonses: iğde, inek, iplik, keçi
+7.      /i/: 
+- Açık [ɪ] Kapalı [i]: Önses, içses, sonses: iğde, inek, iplik, keçi
 
-8.      /u/: Açık [ʊ] Kapalı [u]: Önses, içses, sonses: umut, kuğu, uğultu, tavuk
+8.      /u/: 
+- Açık [ʊ] Kapalı [u]: Önses, içses, sonses: umut, kuğu, uğultu, tavuk
 
-9.      /ü/: Açık [ʏ] Kapalı [y]: Önses, içses, sonses: küme, üzüntü, öğüt, üye
+9.      /ü/: 
+- Açık [ʏ] Kapalı [y]: Önses, içses, sonses: küme, üzüntü, öğüt, üye
 
 10.   /p/: (sözcük-başı) > [ph]; /b/ > [b]; Ötümlü [b] sesi, ön- ve içseste bulunur, sonseste ise ötümsüz [p] sesine dönüşür. Türkçede genellikle sonsesinde [p] bulunan sözcükler ünlüyle başlayan bir ek alınca, ötümlü [b]’ye dönüşmektedir: kitap + ını > kitabını. « pamuk » [phɑmʊk] « sepet » [sepɛt] « şarap » [ʃɑɾɑp]; « beste » [bestɛ] « kibir » [cɪbɪɣ]
 
@@ -29,7 +36,10 @@
 
 14.   /r/: /r/ > [r] (Sözcük başı) /r/ > [ɾ] (Sözcük ortası) /r/ > [ɣ] (Sözcük sonu); Türkçede çok vuruşlu [r] sözcük başında, tek vuruşlu [ɾ] sözcük ortası ve vuruşsuz [ɣ] sözcük sonu konumda bulunur. Türkçede /r/ ünsüzü, sözcük sonu konumunda ötümsüzleşerek, sürtünücü işlev taşır ve yitirilme özelliği taşır: /bir/ > [bɪɣ]. « rıhtım » [rɨxtɨm] « gürbüz » [ɟʏɾbʏz̥] « satır » [sɑtɨɣ]; « gezi » [ɟezɪ] « örgü » [œɾɟʏ]
 
-15.   /f/: f/ > [f] /v/ > [v], [ʋ]; Ötümsüz [f] ve ötümlü [v] sesleri, Türkçede ön-, iç- ve sonseste bulunur.; Türkçede içseste yuvarlak ve düz ünlülerle birlikte kullanılan [ʋ] bu konumda yarı ünlü özelliği kazanmaktadır: / havuç/ > [hανUtʃ]. « fırıldak » [fɨɾɨldɑk] « defne » [defnɛ] « saf » [sɑf]; « vurgu » [vʊɾgʊ] « sevgi » [sevɟɪ] « türev » [thʏɾev]; « kovan » [khɔʋɑn] « soğan » [sɔ· ɑn]
+15.   /f/: f/ > [f] /v/ > [v], [ʋ]; 
+- Ötümsüz [f] ve ötümlü [v] sesleri, Türkçede ön-, iç- ve sonseste bulunur.; 
+- Türkçede içseste yuvarlak ve düz ünlülerle birlikte kullanılan [ʋ] bu konumda yarı ünlü özelliği kazanmaktadır: 
+- /havuç/ > [hανUtʃ]. « fırıldak » [fɨɾɨldɑk] « defne » [defnɛ] « saf » [sɑf]; « vurgu » [vʊɾgʊ] « sevgi » [sevɟɪ] « türev » [thʏɾev]; « kovan » [khɔʋɑn] « soğan » [sɔ· ɑn]
 
 16.   /s/: /s/ > [s] /z/ > [z], [z̥ ]; Ötümsüz [s] ve ötümlü [z] sesleri, Türkçede ön-, iç- ve sonseste bulunur.; Türkçede sonseste bulunan [z] ünsüzü ötümsüzleşerek [z̥ ] biçimine dönüşmektedir: /bizsiz/ > [bɪzsɪz̥ ]. « simit » [sɪmɪt] « eski » [escɪ] « pas » [phɑs]; « zeytin » [zɛ·ɪtɪn] « dizge » [dɪzɟɛ] « göz » [ɟœz̥]
 
@@ -41,7 +51,12 @@
 
 20.   /l/: /l/ > [ɬ] [l]; Türkçede /l/ ünsüzünün her iki değişkesi de ön-, iç- ve sonses konumlarında bulunur. Türkçede /l/ ünsüzü ile başlayan sözcükler genellikle alıntıdır ve bu sözcüklerde [ɭ] değişkesi ve öndamaksıl [a] değişkesi sıklıkla görülmektedir. « lokma » [ɬɔkmɑ] « algı » [ɑɬgɨ] « okul » [ɔkʊɬ]; « lüfer » [ɭʏfɛɣ] « ölçüt » [œɭʈʃt] « tembel » [tembɛɭ].
 
-21.   /y/: /y/ > [j] /y/ > [ɛ·ɪ] , [ɑ·ɪ], [ʊ·ɪ], [œ·ɪ], [ʏ·ɪ] [ɔ·ɪ]; Türkçede ve pek çok dünya dilinde /y/ yarı ünlüsü, seslem sonu ve sözcük sonu konumlarında ünlü kayması oluşturmaktadır: köy, say-, duy-, ney, soy, tüy gibi. Türkçede <ğ> iminin /e/ ünlüsü ile birlikte kullanıldığı sözcüklerde, ünlü kayması oluşabilmektedir. Bu durumda, /i/ ile benzer konumda boğumlanma oluştuğu için /y/ yarı ünlüsü de sesletilmektedir: eğlence [ε· ɪɭendʒε] ~ [εjɭendʒε], eğer [εjεɣ] gibi. Yuvarlak öndil ünlüleriyle birlikte bulunan /y/ yarı ünlüsü, söyleyiş sırasında yitirilmektedir: böyle [bþ·Ilε] ~ [bþːlε] gibi. « yankı » [jɑnkɨ] « deyim » [dejɪm] « çay » [ʈʃɑ·ɪ]
+21.   /y/: /y/ > [j] /y/ > [ɛ·ɪ] , [ɑ·ɪ], [ʊ·ɪ], [œ·ɪ], [ʏ·ɪ] [ɔ·ɪ]; 
+- Türkçede ve pek çok dünya dilinde /y/ yarı ünlüsü, seslem sonu ve sözcük sonu konumlarında ünlü kayması oluşturmaktadır: 
+	- köy, say-, duy-, ney, soy, tüy gibi. Türkçede <ğ> iminin /e/ ünlüsü ile birlikte kullanıldığı sözcüklerde, ünlü kayması oluşabilmektedir. 
+	- Bu durumda, /i/ ile benzer konumda boğumlanma oluştuğu için /y/ yarı ünlüsü de sesletilmektedir: 
+	- eğlence [ε· ɪɭendʒε] ~ [εjɭendʒε], eğer [εjεɣ] gibi. 
+	- Yuvarlak öndil ünlüleriyle birlikte bulunan /y/ yarı ünlüsü, söyleyiş sırasında yitirilmektedir: böyle [bþ·Ilε] ~ [bþːlε] gibi. « yankı » [jɑnkɨ] « deyim » [dejɪm] « çay » [ʈʃɑ·ɪ]
 
 a)      « Yol ayrımı çok geçmeden, koca gövdeli bir ağaca vardılar: ağaç hala canlıydı, çoktan kırılıp kopmuş kollarının yerine filizlenen küçük dallarında yapraklar vardı; ama gövdesinin içi boştu ve yolun aksi yönündeki bir çatlaktan içindeki kovuğa girilebiliyordu. Hobbitler emekleyerek içeri girdiler, kuru yapraklarla çürümüş ağaçtan oluşan zemine oturdular. »
 
