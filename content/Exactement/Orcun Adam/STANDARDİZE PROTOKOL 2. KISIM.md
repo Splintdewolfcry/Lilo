@@ -155,7 +155,5 @@ Pommée, T., Bouvier, L., Pinquier, J., Mauclair, J., Delvaux, V., Fougeron, C.,
 21. Kullanıcı dostu bir yapı ve yönergelerle desteklenmelidir.
 
 
-
-
-
-
+- [ ] Concordance Scraping'de None dondurduklerini bir daha atip son birlestirdigindekinde duzenlensin
+	- [ ] Ve verification lazim, number uzerinden dondurulur
