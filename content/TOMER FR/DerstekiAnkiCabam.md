@@ -188,302 +188,371 @@ Qui a publié ce document? (Le Journal d'entreprise)
 ```
 
 ```anki
+---
+maitriser qqch
+===
+utiliser qqch
+```
+
+```anki
+---
+maitriser qqn
+===
+éduquer qqn
+```
+
+```anki
+---
+la maîtrise
+===
+yüksek lisans
+```
+
+```anki
+---
+tenis oynuyorum
+===
+je joue au tennis
+```
+
+```anki
+---
+grip olmak / grip sahibi olmak.
+===
+avoir le rhume. J'ai le rhume
+```
+
+```anki
+---
+il fait de la gymnastique
+===
+jimnastik yapiyor
+```
+
+```anki
+---
+ateşim var
+===
+avoir la fièvre. J'ai la fièvre
+```
+
+```anki
+---
+en az
+===
+au moins
+```
+
+```anki
+---
+au moins
+===
+en az
+```
+
+```anki
+---
+les féculents
+===
+nişastalı yiyecekler
+```
+
+```anki
+---
+le produits laitiers
+===
+süt ve süt ürünü yiyecekler
+```
+
+```anki
+---
+süt ve süt ürünü yiyecekler
+===
+le produits laitiers
+```       
+
+```anki
+---
+le dromadaire
+===
+camel
+```
+
+```anki
+---
+hava çok sıcak
+===
+il fait trop chaud
+```
+
+```anki
+---
+avoir soif
+===
+susamak
+```
+```anki
+---
+se suer
+===
+terlemek
+```
+```anki
+---
+oranin yereli
+===
+un habitant local (régional)
+```
+```anki
+---
+garde le bon espoir de Vinf
+===
+Umudunu kaybetmemek
+```
+```anki
+---
+être intitulé
+===
+adi olmak (s'apaller gibi ama mesela radyo programinin ismi)
+```
+```anki
+---
+avoir du succès X  XXX
+===
+échouer à qqch.
+```
+```anki
+---
+en fait
+===
+en réalité
+```
+```anki
+---
+aller seul(e)
+===
+bir yere tek basina gitmek
+```
+```anki
+---
+déranger qqn.
+===
+Birisini rahatsız etmek
+```
+```anki
+---
+cher(ère) X bon marché
+===
+ucuz // pahalı
+```
+```anki
+---
+promettre à qqn. de Vinf.
+===
+Birisine bir şey yapmak için söz vermek
+```
+```anki
+---
+J(e) t'assure
+===
+Emin olabilirsin ki
+```
+```anki
+---
+avoir l'air
+===
+gibi gözükmek / tu as l'air fatigué, toi!
+```
+```anki
+---
+Grâce à
+===
+Thanks to / Grâce à Guillaume
+```
+```anki
+---
+	Parce que hangi durumlarda başa gelir
+===
+Sadece pourquoi sorusuna cevap verdiği zaman onun dışında her zaman cümlenin ortasında
+```
+```anki
+---
+Puisque nün Tr deki karşılığı
+===
+Madem ki
+```
+```anki
+---
+Puisque dediğimiz zaman karşımızdaki sebebini biliyor mu?
+===
+Evet. Puisque tu es fatigué, regardons un film à la tele
+```
+```anki
+---
+un avertissement
+===
+ikaz, uyari
+```
+```anki
+---
+le volant
+===
+direksiyon
+```
+```anki
+---
+la sensibiliation
+===
+sensitivity
+```
+```anki
+---
+le comportement
+===
+davranis
+```
+```anki
+---
+se comporter + adj 
+===
+ekle
+```
+```anki
+---
+même si + phrase
+===
+olsa bile (conj)
+```
+```anki
+---
+doubler qqn 
+===
+birini (arabayla) geçmek
+```
+```anki
+---
+être précipité(e)
+===
+acelesi olmak
+```
+```anki
+---
+doubler la classe
+===
+Sinifta kalmak
+```
+```anki
+---
+la priorité
+===
+l'importance
+```
+```anki
+---
+environ
+===
+à peu près // yaklasik
+```
+```anki
+---
+le kit main libre
+===
+telefon tutacagi
+```
+```anki
+---
+avertir qqn
+===
+Birisini uyarmak
+```
+```anki
+---
+traverse preposition?
+===
+ekle
+```
+```anki
+---
+se bagarer
+===
+Kavgalaşmak // se disputer
+```
+```anki
+---
+faire la messe
+===
+ibadetini gerceklestirmek (dinler icin universal)
+```
+```anki
+---
+faire un rave
+===
+rave e gitmek
+```
+```anki
+---
+mettre en garde qqn. qqch.
+===
+ikaz etmek
+```
+```anki
+---
+prendre des mesures
+===
+onlem almak
+```
+```anki
             ---
-            maitriser qqch
+            héberger qqn. à qqpart
             ===
-            utiliser qqch
+            accommodate sb. at somewhere
             ```
             ```anki
             ---
-            maitriser qqn
+            avoir peur de qqch. / qqn.
             ===
-            éduquer qqn
+            bir şeyden / birisinden korkmak
             ```
             ```anki
             ---
-            la maîtrise
+            parler couramment
             ===
-            yüksek lisans
+            akici sekilde konusmak
             ```
             ```anki
             ---
-            tenis oynuyorum
+            l'hôtesse
             ===
-            je joue au tennis
+            konaklama yerinin sahibi
             ```
             ```anki
             ---
-            grip olmak / grip sahibi olmak.
+            je ferai une petite sieste
             ===
-            avoir le rhume. J'ai le rhume
+            Siesta yaptim
             ```
             ```anki
             ---
-            il fait de la gymnastique
+            faire la grasse maitinée
             ===
-            jimnastik yapiyor
+            sabah erken kalmadan yatakta keyif yapmak
             ```
             ```anki
             ---
-            ateşim var
+            I'd like to live as a nomad one day
             ===
-            avoir la fièvre. J'ai la fièvre
+            J'aimerais vivre en tant que nomade un jour. 
             ```
             ```anki
             ---
-            en az
+            la tranquilité
             ===
-            au moins
+            calmness
             ```
             ```anki
             ---
-            au moins
+            CEO?
             ===
-            en az
-            ```
-            ```anki
-            ---
-            les féculents
-            ===
-            nişastalı yiyecekler
-            ```
-            ```anki
-            ---
-            le produits laitiers
-            ===
-            süt ve süt ürünü yiyecekler
-            ```
-            ```anki
-            ---
-            süt ve süt ürünü yiyecekler
-            ===
-            le produits laitiers
-            ```       ```anki
-            ---
-            le dromadaire
-            ===
-            camel
-            ```
-            ```anki
-            ---
-            hava çok sıcak
-            ===
-            il fait trop chaud
-            ```
-            ```anki
-            ---
-            avoir soif
-            ===
-            susamak
-            ```
-            ```anki
-            ---
-            se suer
-            ===
-            terlemek
-            ```
-            ```anki
-            ---
-            oranin yereli
-            ===
-            un habitant local (régional)
-            ```
-            ```anki
-            ---
-            garde le bon espoir de Vinf
-            ===
-            Umudunu kaybetmemek
-            ```
-            ```anki
-            ---
-            être intitulé
-            ===
-            adi olmak (s'apaller gibi ama mesela radyo programinin ismi)
-            ```
-            ```anki
-            ---
-            avoir du succès X  XXX
-            ===
-            échouer à qqch.
-            ```
-            ```anki
-            ---
-            en fait
-            ===
-            en réalité
-            ```
-            ```anki
-            ---
-            aller seul(e)
-            ===
-            bir yere tek basina gitmek
-            ```
-            ```anki
-            ---
-            déranger qqn.
-            ===
-            Birisini rahatsız etmek
-            ```
-            ```anki
-            ---
-            cher(ère) X bon marché
-            ===
-            ucuz // pahalı
-            ```
-            ```anki
-            ---
-            promettre à qqn. de Vinf.
-            ===
-            Birisine bir şey yapmak için söz vermek
-            ```
-            ```anki
-            ---
-            J(e) t'assure
-            ===
-            Emin olabilirsin ki
-            ```
-            ```anki
-            ---
-            avoir l'air
-            ===
-            gibi gözükmek / tu as l'air fatigué, toi!
-            ```
-            ```anki
-            ---
-            Grâce à
-            ===
-            Thanks to / Grâce à Guillaume
-            ```
-            ```anki
-            ---
-            	Parce que hangi durumlarda başa gelir
-            ===
-            Sadece pourquoi sorusuna cevap verdiği zaman onun dışında her zaman cümlenin ortasında
-            ```
-            ```anki
-            ---
-            Puisque nün Tr deki karşılığı
-            ===
-            Madem ki
-            ```
-            ```anki
-            ---
-            Puisque dediğimiz zaman karşımızdaki sebebini biliyor mu?
-            ===
-            Evet. Puisque tu es fatigué, regardons un film à la tele
-            ```
-            ```anki
-            ---
-            un avertissement
-            ===
-            ikaz, uyari
-            ```
-            ```anki
-            ---
-            le volant
-            ===
-            direksiyon
-            ```
-            ```anki
-            ---
-            la sensibiliation
-            ===
-            sensitivity
-            ```
-            ```anki
-            ---
-            le comportement
-            ===
-            davranis
-            ```
-            ```anki
-            ---
-            se comporter + adj 
-            ===
-            ekle
-            ```
-            ```anki
-            ---
-            même si + phrase
-            ===
-            olsa bile (conj)
-            ```
-            ```anki
-            ---
-            doubler qqn 
-            ===
-            birini (arabayla) geçmek
-            ```
-            ```anki
-            ---
-            être précipité(e)
-            ===
-            acelesi olmak
-            ```
-            ```anki
-            ---
-            doubler la classe
-            ===
-            Sinifta kalmak
-            ```
-            ```anki
-            ---
-            la priorité
-            ===
-            l'importance
-            ```
-            ```anki
-            ---
-            environ
-            ===
-            à peu près // yaklasik
-            ```
-            ```anki
-            ---
-            le kit main libre
-            ===
-            telefon tutacagi
-            ```
-            ```anki
-            ---
-            avertir qqn
-            ===
-            Birisini uyarmak
-            ```
-            ```anki
-            ---
-            traverse preposition?
-            ===
-            ekle
-            ```
-            ```anki
-            ---
-            se bagarer
-            ===
-            Kavgalaşmak // se disputer
-            ```
-            ```anki
-            ---
-            faire la messe
-            ===
-            ibadetini gerceklestirmek (dinler icin universal)
-            ```
-            ```anki
-            ---
-            faire un rave
-            ===
-            rave e gitmek
-            ```
-            ```anki
-            ---
-            mettre en garde qqn. qqch.
-            ===
-            ikaz etmek
-            ```
-            ```anki
-            ---
-            prendre des mesures
-            ===
-            onlem almak
+            un(e) PDG
             ```
             
