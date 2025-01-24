@@ -1,7 +1,7 @@
 - [x] ⏫ Defter bişiler bak benim kırtasiyeden ➕ 2024-09-29 📅 2024-09-30
 	 [completion:: 2024-12-13]
-- [ ] 🔼 minnak pantolon bişi bak LC den giyim dünyasından➕ 2024-09-29 📅 2024-09-30 
-
+- [x] 🔼 minnak pantolon bişi bak LC den giyim dünyasından➕ 2024-09-29 📅 2024-09-30
+	 [completion:: 2025-01-24]
 - [x] 🔼 Yoga videolari 📅 2024-10-07 ✅ 2024-10-20
 
 
@@ -21,10 +21,10 @@
 - [ ] 🔽 ➕ 2024-11-13 news as a sentimental analysis 📅 2024-11-17 
 - [ ] ⏫ ➕ 2024-11-13 Obsidian içeriklerini hem telefon hem bilgisayar için encryptle ⏳ 2024-11-17 
 - [ ] sahibinden ilanı koy artik
-- [ ] çay al mistik
+- [x] çay al mistik [completion:: 2025-01-24]
 - [x] ıslak mendil ✅ 2024-11-16
 - [x] tuvalet kagidi ✅ 2024-12-03
-- [ ] hosting service
+- [x] hosting service [completion:: 2025-01-24]
 - [ ] 🔼 🛫 2024-11-22 Tw satin al📅 2024-11-25
 
 

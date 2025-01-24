@@ -555,4 +555,34 @@ onlem almak
             ===
             un(e) PDG
             ```
+            ```anki
+            ---
+            bonheur
+            ===
+            happiness
+            ```
+            ```anki
+            ---
+            Mais y'a tous ces soirs sans **potes**. Potes?
+            ===
+            Amis
+            ```
+            ```anki
+            ---
+            je'ai fait le **con** ce'est vrai(...) con?
+            ===
+            Ahmak
+            ```
+            ```anki
+            ---
+            ces dimanches soirs dans **la flotte**
+            ===
+            su birikintisi
+            ```
+            ```anki
+            ---
+            sans soit
+            ===
+            toit cati demek, hani evsiz barksiz gibi
+            ```
             
