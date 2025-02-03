@@ -26,3 +26,6 @@ For example, one could leverage a pretrained model trained on the English langua
 ![The fine-tuning of a language model is cheaper than pretraining in both time and money.](https://huggingface.co/datasets/huggingface-course/documentation-images/resolve/main/en/chapter1/finetuning.svg)
 
 ![[24-10-28 19.38.16.png]]
+
+[[Mel spectrum]] is more close to how humans hear
+- in a logarithmic scale
