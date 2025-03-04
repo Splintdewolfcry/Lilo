@@ -20,12 +20,14 @@
 - [ ] 🔼 ➕ 2024-11-13 https://www.reddit.com/r/selfhosted/comments/1btytji/any_selfhosted_alternative_to_omnivore_need_a/?rdt=48597 linklerin arasindan kendine yeni bir servis seç, obsidian sync efsane otesi olur ya da api olacak 📅 2024-11-13 
 - [ ] 🔽 ➕ 2024-11-13 news as a sentimental analysis 📅 2024-11-17 
 - [ ] ⏫ ➕ 2024-11-13 Obsidian içeriklerini hem telefon hem bilgisayar için encryptle ⏳ 2024-11-17 
-- [ ] sahibinden ilanı koy artik
 - [x] çay al mistik [completion:: 2025-01-24]
 - [x] ıslak mendil ✅ 2024-11-16
 - [x] tuvalet kagidi ✅ 2024-12-03
 - [x] hosting service [completion:: 2025-01-24]
 - [ ] 🔼 🛫 2024-11-22 Tw satin al📅 2024-11-25
+- [ ] 🔼 ➕ 2025-03-03 sahibinden ilanı
+- [ ] ⏫ ➕ 2025-03-03 dış fırçası satın al
+- [ ] 
 
 
 [[BooksToBeRead]]
