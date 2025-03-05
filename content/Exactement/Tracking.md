@@ -24,10 +24,9 @@
 - [x] ıslak mendil ✅ 2024-11-16
 - [x] tuvalet kagidi ✅ 2024-12-03
 - [x] hosting service [completion:: 2025-01-24]
-- [ ] 🔼 🛫 2024-11-22 Tw satin al📅 2024-11-25
+- [x] 🔼 🛫 2024-11-22 Tw satin al📅 2024-11-25 Başka kurallara bağladığım için bunu siliyorum ✅ 2025-03-05
 - [ ] 🔼 ➕ 2025-03-03 sahibinden ilanı
 - [ ] ⏫ ➕ 2025-03-03 dış fırçası satın al
-- [ ] 
 
 
 [[BooksToBeRead]]
