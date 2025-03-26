@@ -1,5 +1,6 @@
-## Ram 200 Euro
+## Ram 200 Euro DDR5 olursa
 - ![[Pasted image 20250305013551.png]]
+- Ama ram'in DDR5 olması için şuanlık önemli bir sebep yok, DDR4 de gayet okey ve aradığım belirli performans kriterlerini karşılayabilecek durumda
 
 ## Processor 500 Euro
 - ![[Pasted image 20250305013754.png]]
