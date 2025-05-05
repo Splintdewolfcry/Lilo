@@ -4,3 +4,5 @@ Biraz düzenle folderları, bu kadar lineer olmasınlar, hiçbi sikim uymuyor
 
 
 https://www.seeingspeech.ac.uk/ipa-charts/?chart=4&datatype=1&speaker=1 bu sitedekinden istiyorum
+
+![[2025-05-05#^j9bppq]]
