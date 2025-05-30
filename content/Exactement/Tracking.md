@@ -6,7 +6,7 @@
 
 
 - [ ] Sunum konusunu ekle [[Biçimbilim DBB215 Bahtiyar Hoca]] 📅 2024-10-05 
-- [ ] Notları ekle📅 2024-10-07
+- [ ] Notları ekle📅 2024-10-07 
 - [x] 🔼 Enis Umuler 📅 2024-10-12 ⏳ 2024-10-16
 - [x] 🔼 Liya videolar 🛫 2024-10-08 📅 2024-10-16 ✅ 2024-11-03
 - [ ] 🔼 Hafta 3 ü geçir ⏳ 2024-10-15 sabahina
@@ -25,8 +25,8 @@
 - [x] tuvalet kagidi ✅ 2024-12-03
 - [x] hosting service [completion:: 2025-01-24]
 - [x] 🔼 🛫 2024-11-22 Tw satin al📅 2024-11-25 Başka kurallara bağladığım için bunu siliyorum ✅ 2025-03-05
-- [ ] 🔼 ➕ 2025-03-03 sahibinden ilanı
-- [ ] ⏫ ➕ 2025-03-03 dış fırçası satın al
+- [x] 🔼 ➕ 2025-03-03 sahibinden ilanı ✅ 2025-04-26
+- [x] ⏫ ➕ 2025-03-03 dış fırçası satın al ✅ 2025-04-26
 
 
 [[BooksToBeRead]]
