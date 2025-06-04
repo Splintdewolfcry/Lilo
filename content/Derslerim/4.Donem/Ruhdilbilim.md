@@ -283,6 +283,83 @@ Sıralı ve öbeksel tümcelere örnek ver
 ```
 
 
+```anki
+---
+XXXX'e göre anlama ve üretim gibi işlemler için birbirinden ayrı birimler vardır.
+===
+Birimselliğe göre
+```
+
+
+```anki
+---
+Ayrıca farklı dilsel seviyelerdeki (yani XXXX, XXXX, XXXX, XXXX gibi) bilişsel işlemlerin birbiriyle ne kadar etkileşimli ya da ne kadar bağımsız olduğu da sorgulanır.
+===
+sesler, sözcükler, tümceler gibi
+```
+
+
+```anki
+---
+Dilsel işlemenin iki türü vardır: XXXX, XXXX. İkisinin temeli de verimliliğe dayanır.
+===
+Birimsel ve etkileşimsel yaklaşımlar vardır dil işlemlemesinde
+```
+
+
+```anki
+---
+Birimsellik görüşündeki verimliliğin dayandığı nokta?
+===
+Görevler üzerine özelleşmiş bölümler vardır ve bu bölümler dikkat dağınıklığı olmadan görevlerini tamamlarlar
+```
+
+
+```anki
+---
+Dil işlemlemesi etkileşimlidir görüşündeki verimliliğin dayandığı nokta
+===
+Bir işlem dizisinin sağladığı bilgiler yanlış veya gereksiz analizleri eler ve böylece diğer işlem dizilerinin hızını arttırabilir
+```
+
+
+```anki
+---
+Birimsellik yaklaşımında bilgiyi kapsüllerken bilgi erişilebilir midir?
+===
+Hayır, bir birimin içerisinde gerçekleşen işlemler diğer birimlere kapalıdır. Yani her birim girdiyi alır, ve işlemler ve diğer birime gönderir.
+```
+
+
+```anki
+---
+Birimsellik yaklaşımında görev alan birimler?
+===
+![[Pasted image 20250604002339.png]]
+```
+
+
+```anki
+---
+2) Her birimin işlemleri XXXX özelliği gösterir. Girdi alan birim zorunlu olarak uygun bir çıktı üretmeye çalışır. Buna örnek olarak sözcük tanımanın zorunlu olması verilebilir.
+===
+özdevimsellik (automaticity)
+```
+
+
+```anki
+---
+Stroop effect nedir?
+===
+Kırmızı renkli bir YEŞİL yazısının rengi sorulduğunda katılımcıların yeşil deme durumu
+![[Pasted image 20250604003213.png]]
+```
+
+
+
+
+
+
 
 
 
