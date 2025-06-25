@@ -15,7 +15,6 @@ Dil nedir kavramını tek başına dilbilim bakış açısından ele alınabilir
 ===
 Hayır çünkü toplum normları, siyası geçmişler, kültürel düzenlerin getirdiği bir sürü ürün var ve bunları sadece dil açısından ele almamamız mümkün olmaz
 ```
-
 ```anki
 id: 1731775806233
 ---
@@ -59,6 +58,7 @@ id: 1731775806290
 
 
 
+
 [[Hafta3]]
 ```anki
 id: 1731775806448
@@ -82,7 +82,6 @@ Betimsel yetkinlik -- Artık amaç sadece çalışmayan bir durumu ortaya çıka
 Açıklamalı yetkinlik -- alternatif dilbilgilerinden hangisinin seçilmesi gerektiğini ilkeli bir biçimde ortaya koyabiliyorsa açıklamalı yetkinliğe sahip demektir.
 ![[Pasted image 20241116182139.png]]
 ```
-
 ```anki
 id: 1731775806665
 ---
@@ -95,9 +94,12 @@ Geleneksel dilbilgisi yalnızca betimsel yetkinliği hedefleyen bir dilbilgisi m
 ```anki
 id: 1731775806726
 ---
-ne...ne yapılarına geleneksel dilbilgisi bakış açısı vs dilbilimci?
+ne...ne yapılarına yetkinlik açısından geleneksel dilbilgisi bakış açısı vs dilbilimci?
 ===
-Geleneksel bakış açısında amaç sadece betimlemektir yani bu olmaz der ve geçer. Dilbilimsel bakış açısında ise amaç sadece bu yapı olmuyor demenin ziyade ilk aşama ana dil konuşurunun dil sezgisi bir açıklama getirmek, daha sonrasında olası X Y a komboları üzerinden daha derinlemesine inceler. Bu incelemeler sonucu elde ettiğimiz veriye göre mesela ne..ne yapılarında odaklama üzerinden analize girilmiştir
+Geleneksel bakış açısında amaç sadece betimlemektir yani bu olmaz der ve geçer. 
+
+Dilbilimsel bakış açısında ise amaç sadece bu yapı olmuyor demenin ziyade ilk aşama ana dil konuşurunun dil sezgisi bir açıklama getirmek, daha sonrasında olası X Y a komboları üzerinden daha derinlemesine inceler. 
+Bu incelemeler sonucu elde ettiğimiz veriye göre mesela ne..ne yapılarında odaklama üzerinden analize girilmiştir
 ![[Pasted image 20241116183309.png]]
 Yeni betimlememiz o zaman:
 ![[Pasted image 20241116183327.png]]
@@ -106,6 +108,7 @@ ve bundan sonuç çıkartacak olursak:
 ![[Pasted image 20241116183400.png]]
 
 ```
+
 
 
 
@@ -134,7 +137,6 @@ Eylem tanimi?
 ===
 Eylem: Eylemler, bir hareket, süreç ya da durum bildirir.
 ```
-
 ```anki
 id: 1731775807038
 ---
@@ -151,6 +153,7 @@ Dağılım testi bağlamında kamyon ve taşı değerlendir (Ör cümle üzerind
 ===
 ![[Pasted image 20241116193918.png]]
 ```
+
 
 
 
@@ -608,15 +611,6 @@ id: 1736441410419
 ===
 ![[Pasted image 20250106010316.png]]
 ```
-
-
-```anki
----
-FRONT
-===
-BACK
-```
-
 
 
 

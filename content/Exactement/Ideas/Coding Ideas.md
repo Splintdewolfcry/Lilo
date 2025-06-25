@@ -28,3 +28,7 @@
 
 - Watson a ghost sureler ekleme (fr vardi katilmadin, bunu repetitive yapip mesela doldurma gibi)
 	- Daha sonra karsilastirma gibi de
+
+- Cümlelerin kolaydan zora doğru zaman eklenmesi olabilir, niteleyici sıfatlar ekleme olabilir oluşturulması
+	- yancümleciği aradan kaldırıp mesela daha sonra yancümlecikle beraber sormak gibi (kafalarını düşüncelerle doldurmak vs kafalarını asil düşüncelerle doldurmak gibi, alm düşün)
+	- 

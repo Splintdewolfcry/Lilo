@@ -32,7 +32,7 @@ Ali, Ayşe'yi çay içerken gördü (wtf) [[Anlambilimi 1. Slayt]]
 ```anki
 id: 1714578301522
 ---
-Sözcük öbekleri ve tümceler arasındaki sistematik anlam ilişkilerini tanımak cümlesi ne demek?
+"Sözcük öbekleri ve tümceler arasındaki sistematik anlam ilişkilerini tanımak" tümcesine uygun örnek ver
 ===
 Ali papatyayı kokladı -- Ali çiçeği kokladı
 Ali vazoyu kokladı [[Anlambilimi 1. Slayt]]
@@ -93,7 +93,7 @@ Aracısız/dolaysız [[Anlambilimi 1. Slayt]]
 ```anki
 id: 1714578301746
 ---
-Uzanım ne demek?
+Anlambilim çerçevesinde uzanım ne demek?
 ===
 Bir ifadenin gönderimi olabilecek nesneler bütünü (O ve the others that comes with it)
 - Karıncalar çalışkandır
