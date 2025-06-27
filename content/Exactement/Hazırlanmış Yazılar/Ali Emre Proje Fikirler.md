@@ -40,3 +40,8 @@
 - Spacy nin dependency visualizer ını alıp Türkçe için geliştirebiliriz çünkü İngilizcesi ve Fransızcası dahil olmak üzere çok zayıf kalıyor,
 	- NLP de tagging muhabbetlerinin iyi çalışması gerekiyor, biraz daha iki projedeki amacım da neredeyse Xiaomi redmi note 12 pro da kullanabilecek kadar küçük ama aynı zamanda güçlü bir şeyler çıkartabilmek istiyorum ki hem aşırı data ihtiyacımız olmadan çok güçlü bir şeyler çıkartalım ve her yere applicable hale getirelim
 	- Hem hosting maliyeti olarak çok tutmayacak hem de efficency olarak maksimize ettiğimiz bir şeyler her yerde çok ciddi manada iş yapar
+- 
+- 
+- 
+- Arxiv databaseinden bir şeyler çekebilir miyiz diye düşünüyorum, bizim erişilebilir ve free dataya ihtiyacımız var.
+	- 
