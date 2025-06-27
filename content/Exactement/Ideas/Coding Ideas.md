@@ -26,9 +26,26 @@
 
 - Google calendar daki o günkü eventleri al, obsidian'a kopyala. Probably will be in the other vault
 
-- Watson a ghost sureler ekleme (fr vardi katilmadin, bunu repetitive yapip mesela doldurma gibi)
-	- Daha sonra karsilastirma gibi de
 
-- Cümlelerin kolaydan zora doğru zaman eklenmesi olabilir, niteleyici sıfatlar ekleme olabilir oluşturulması
-	- yancümleciği aradan kaldırıp mesela daha sonra yancümlecikle beraber sormak gibi (kafalarını düşüncelerle doldurmak vs kafalarını asil düşüncelerle doldurmak gibi, alm düşün)
+- Fransızca/Almanca çalışabilmek için;
+	- Cümlelerin kolaydan zora doğru zaman eklenmesi olabilir, niteleyici sıfatlar ekleme olabilir oluşturulması
+		- yancümleciği aradan kaldırıp mesela daha sonra yancümlecikle beraber sormak gibi (kafalarını düşüncelerle doldurmak vs kafalarını asil düşüncelerle doldurmak gibi, alm düşün)
+
+[[2025-06-25]]
+- Mildew için;
+	- Her proje veya tag'in ilk occurance ını al ve obsidian'da bir dosya olarak oluştur
+		- Linguistics mesela, dailyde ilk şu isimde şu şu açıklamayla kendini göstermiş, bunu bulletpoint gibi sunabilir?
+			- Template kısmını ele al varsa (yaml okumayla çözülebilir?) ve ele
+			- daha sonra dosya tarihiyle sun, bunu ya obsidian'da linked şekilde yapabilirim ya da gui ile projeye tıkladığında gösterecek şekilde bir tab bir de direk sunan bir tab gibi yapılabilir.
+			- Planlaması güzel olabilir
 	- 
+	- Watson a ghost sureler ekleme (fr vardi katilmadin, bunu repetitive yapip mesela doldurma gibi) (bu daha önce yazdım ama ne zaman bilmiyorum, not etmemişim))
+		- Daha sonra karsilastirma gibi de
+		- Tag ile bunu çözebilirim, ghostadded falan gibi
+	- Ve artık yalvarıyorum amına koyim bi aggregation yaz, bana chart çıkarsın, 
+		- Tag ile beraber olabilir, şu tagler beraber en çok görülmüş gibi
+			- Haftalık olarak ne kadar zaman harcamışım
+				- Yani aslında lastfmstats ın yaptığının daha küçük ölçeklisi
+			- Lastfmden o dönemki şarkıları da çekebilirim bak, direk oluşmuş dosyadan falan
+		- calendardan çekip oradaki dataya da baksın
+			- calendar datası read only olacak
