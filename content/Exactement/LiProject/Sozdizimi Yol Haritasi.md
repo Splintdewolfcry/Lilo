@@ -1,0 +1,18 @@
+Dizin ağaçları üzerinden model eğitçez
+- Her bir tier için;
+	- 15'er tane dizin ağacı mantığında sözdizim apacı python üzerinden üretip
+		- 100'er tane sentetik ağaç üretip
+		- Yarı yarıya kontrollerini sağlarız
+- Model konusunda
+	- Ya free tier API ya da local modeller üzerinden gideriz
+		- Nvidia Free tier'ini özellikle kullanabiliriz (aylık 100 saat)
+			- Nemotron üzerinden
+	- Elimizde tagged data var, TSCorpus'un datası
+		- Punctuation ve numaraları temizleriz
+			- PİLOT İÇİN
+				- Her bir sözcük türüne (Eylem, Ad, vs..) üzerinden 150 er tane örnek,
+				- Toplam taglenmiş 1200 örneğimiz olacak, 600 600 bölüşüp kontrol ederiz
+				- Bu 1200 örnekle;
+					- Gemini 2.5 üzerinden prompt atıp 2 sözcüklük ve 3 sözcüklük öbekler üreteceğiz
+						- Bunların kontrolü sonrasında (kaç tane örnek çıkar kestiremiyorum)
+				- artık sözdizim modeli oluşturmaya/eğitmeye başlarız
