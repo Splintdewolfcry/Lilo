@@ -1,3 +1,4 @@
+[[2025-07-01]]
 Dizin ağaçları üzerinden model eğitçez
 - Her bir tier için;
 	- 15'er tane dizin ağacı mantığında sözdizim apacı python üzerinden üretip
@@ -22,7 +23,7 @@ Tagleme
 	- Bir kitap (bir DET de olabilir, sıfat da)
 	- Tüm kitaplar
 
-
+[[2025-07-04]]
 - Artik Sentetik data üretimindeyiz;
 	- Az çok elimizde tümce örneği var diyorum, 1000 civarındayız
 		- Gemini 2.5 Proyla anlaşılabilir ve dilbilgisel Eylem öbeği çok güzel üretiyor, Sözdizim 2 notlarını atınca
