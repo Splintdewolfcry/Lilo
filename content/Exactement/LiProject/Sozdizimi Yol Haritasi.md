@@ -41,7 +41,7 @@ Tagleme
 	- POS tagging işinde ilerlememiz lazım
 		- Eylem öbeklerini güzel veriyorsa eylemleri düzeltmemize gerek yok
 		- Sıfat ve zarf karıştırıyorsa mesela, onlara bunun datasını sağlayıp bunları geliştirebiliriz
-	- İskelet hazırlamaya başlarız (Şu an aciliyeti ama elimizde olması zamanı geldiğinde çok işimize yarayacak)
+	- İskelet hazırlamaya başlarız (Şu an aciliyeti yok ama elimizde olması zamanı geldiğinde çok işimize yarayacak)
 	- Artık modellere giriş yapmaya başlarız 
 		- Hangi modelleri kullanabiliriz
 		- Küçük modelde eğer doğruluk elde edebilmeye başlarsak onun işi de aşırı kolaylaşıcak
