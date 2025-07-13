@@ -1,7 +1,7 @@
 - Machine Learning muhabbetleri adamın checkers öğrenmek istemesiyle başlıyor,
 	- Algoritma kendine karşı binlerce oyun atarak öğreniyor
 
-- ![[Pasted image 20250713233147.png]] X ve Y mantığı
+- ![[Pasted image 20250713233147.png]] x ve y mantığı
 	- matematikteki fonksiyonlarda da bunu öğreniyorduk
 
 ![[Pasted image 20250713233412.png]] Supervised learning mantığı cevabı vermekte yatıyor, doğru cevabı söylüyorsun bundan bir infer datası elde ediyor
@@ -27,4 +27,4 @@
 	- Buna bi bakış açısı olarak sallıyorum housing prices mantığında metrekare başına sabit genelde 1.5k ekliyoruz(Sivas için), x'in eğimi de mesela merkeze yakınlaştıkça ne kadar fiyat arttığı olabilir
 
 - ![[Pasted image 20250714003333.png]]
-- [[Cost Function]] = 
+- [[Cost Function]] ı yarın açıklamasını yaz, bi nevi neyi anlayıp anlamadığımı görmek için
