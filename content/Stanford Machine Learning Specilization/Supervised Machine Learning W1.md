@@ -28,3 +28,31 @@
 
 - ![[Pasted image 20250714003333.png]]
 - [[Cost Function]] ı yarın açıklamasını yaz, bi nevi neyi anlayıp anlamadığımı görmek için
+
+[[2025-07-15]]
+- Linear grafiği mantığında düşünmen lazım
+	- Her bir data noktası için;
+	- predictiondan actual value yı cıkartıp, mesafe için cezalandıracağımız için karesini alıyoruz
+	- Daha sonra bunları (sigma aracılığıyla) her biri için topluyoruz(m tane veri noktası var) sonra da sonucu 1/2m olarak alıyoruz
+- We're looking to minimize this, minimize it to as close as to 0
+
+Gradient descent aracılığıyla cost function'daki local minimumu bulmaya çalışıyoruz,
+- Bunu yaparken eğim gittikçe azaldığı için bu değer azalıyor ve eskisi kadar büyük adım atmıyor, o tepeden
+
+![[Pasted image 20250715231615.png]]
+
+## Course 1 Module 2
+[[2025-07-19]]
+- ![[Pasted image 20250719211117.png]]
+- Now we're introduced multiple features in our examples
+	- $x_j$ dediği mesela x1 dediği zaman orada size in feet i seçme durumu
+	- artık vektörel değerlerle karşı karşıyayız
+	- i yukarıda
+	- j aşağıda
+
+- ![[Pasted image 20250719212713.png]]
+- Vektörizasyon dediğimiz şey aslında o değişkenin ya da atadığımız denotion metodunun bir liste tutması olacak
+	- Burada vektör x dediği, 4 feature lı bir datasete sahip olduğumuz için x1 x2 x3 ve x4
+	- W vektörü de aynı şekilde
+- Bunu dot product şeklinde yazmamız da 1. nin 1.iyle çarpılması yani
+	- w vektörüyle x vektörünün çarpımı w1 . x1 + w2 . x2 gibi oluyor
