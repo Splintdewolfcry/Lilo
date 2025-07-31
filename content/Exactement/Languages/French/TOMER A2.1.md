@@ -23,9 +23,9 @@
 [[2024-10-19]] Ekstra ders ^rc5rpd
 - Celui ler
 - Laquelle ler
-- [ ] 🔼 Si bak 📅 2024-10-21 
-- [ ]  🔼 Derste isledigimiz notlarin yapilmis kisimlariyla don ugras 📅 2024-10-21 
-- [ ]  ⏫ 17 oct dersini dinle 📅 2024-10-21
+- [x] 🔼 Si bak 📅 2024-10-21 [completion:: 2025-07-25]
+- [x] 🔼 Derste isledigimiz notlarin yapilmis kisimlariyla don ugras 📅 2024-10-21 [completion:: 2025-07-25]
+- [x] ⏫ 17 oct dersini dinle 📅 2024-10-21 [completion:: 2025-07-25]
 	- Baya ciddi bisiler yapmis hoca hayvan gibi relative girmiş
 	- Kurtarmak istiyorsan ciddi uğraş
 

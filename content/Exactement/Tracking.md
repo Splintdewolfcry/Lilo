@@ -6,10 +6,10 @@
 
 
 - [ ] Sunum konusunu ekle [[Biçimbilim DBB215 Bahtiyar Hoca]] 📅 2024-10-05 
-- [ ] Notları ekle📅 2024-10-07 
+- [x] Notları ekle📅 2024-10-07 [completion:: 2025-07-25]
 - [x] 🔼 Enis Umuler 📅 2024-10-12 ⏳ 2024-10-16
 - [x] 🔼 Liya videolar 🛫 2024-10-08 📅 2024-10-16 ✅ 2024-11-03
-- [ ] 🔼 Hafta 3 ü geçir ⏳ 2024-10-15 sabahina
+- [x] 🔼 Hafta 3 ü geçir ⏳ 2024-10-15 sabahina [completion:: 2025-07-25]
 - [x] 🔽 Arsima Foto Edit 📅 2024-10-15
 
 - [x] 🔺 Erasmus Sinavi Basvurusu📅 2024-10-21🏁 keep

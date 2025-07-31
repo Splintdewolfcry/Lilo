@@ -23,10 +23,10 @@ et meme sans artiste parmi nous
 le cause est un manque
 
 [[2024-12-16]]
-- [ ] Vandertrump ve avoir fiillerinin yazili oldugu seylere bakmam lazim cunku direk onlar uzerinden hardcore cumle kuruyoruz
+- [x] Vandertrump ve avoir fiillerinin yazili oldugu seylere bakmam lazim cunku direk onlar uzerinden hardcore cumle kuruyoruz [completion:: 2025-07-25]
 	- Artik yarra gidiyom yoksa
 - avant de/ apres + l'infinitif lere girdik
-- [ ] Gerondif lere bak, 23. konu
+- [x] Gerondif lere bak, 23. konu [completion:: 2025-07-25]
 
 Sécurité routière
 méfaits
