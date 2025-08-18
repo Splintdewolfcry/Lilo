@@ -45,3 +45,14 @@ Tagleme
 	- Artık modellere giriş yapmaya başlarız 
 		- Hangi modelleri kullanabiliriz
 		- Küçük modelde eğer doğruluk elde edebilmeye başlarsak onun işi de aşırı kolaylaşıcak
+
+
+[[2025-08-16]]
+- LiSyntax icin 100 tane yeni hic gormedigi data uzerinden dogruluk testi
+- numaralarin da nasil calistigini ogren
+
+- Denemeders te on kod var
+- Veriler derlenecek
+	- Dilbilime Giriş ve Syntax notlarını derliyoruz 
+	- Ben kendi notlarima bakacagim
+	- 
