@@ -1,0 +1,1 @@
+Türkçenin dizge kurallarına örnek olarak yüksek oranda [[saydamlığı]], sözcüklerinin küçük [[ünlü uyumu]]na ve büyük [[ünlü uyumu]]na uyduğu örnekleri verilebilir. 

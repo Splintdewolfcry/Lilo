@@ -1,0 +1,2 @@
+Biz yazılı dil değil [[sözlü dil]] e bağlı olarak teorilerimizi oluşturuyoruz. Bunun birkaç sebebi mevcuttur:
+- Eğer dilbilimi yazılı dil üzerine kurulu olsaydı okuma yazma bilmeyen bir [[ana dil konuşuru]]nun dili nasıl kavradığını ve öğrendiğini açıklayamazdık.
