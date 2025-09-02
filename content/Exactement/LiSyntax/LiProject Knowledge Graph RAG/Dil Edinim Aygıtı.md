@@ -1,0 +1,1 @@
+[[LAD]] olarak bilinen, kritik dönemini geçmemiş bir çocuğun o dilin bütün dilbilgisel yapısını öğrenmesini sağlayan cihazdır. Adını Chomsky'nin verdiği bu teori, geniş kitlelerce kabul görmektedir.

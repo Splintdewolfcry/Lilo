@@ -55,4 +55,9 @@ Tagleme
 - Veriler derlenecek
 	- Dilbilime Giriş ve Syntax notlarını derliyoruz 
 	- Ben kendi notlarima bakacagim
-	- 
+
+
+[[2025-08-22]]
+- [x] 📅 2025-08-22 🛫 2025-08-22 ümle sonunda sıfat dediklerini isime çevirmemiz gerekiyor. [completion:: 2025-08-22]
+- Bir sözcüğünün türünü karıştırıyor
+	- Bir sözcüğünün olduğu 300-400 örnek oluşturup onlarla beslemek

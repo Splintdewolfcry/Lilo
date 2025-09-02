@@ -1,0 +1,1 @@
+[[LAD]] ya [[Dil Edinim Aygıtı]] aracılığıyla o dili [[kritik dönem]] içerisinde öğrenmeniz/edinmeniz.
