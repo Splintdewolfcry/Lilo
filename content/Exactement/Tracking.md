@@ -17,7 +17,7 @@
 - [x] 📅 2024-10-18 , unutmadan yazmak istedim. 21 inde erasmus basvurulari bitiyor, girmek isteyenlere hatirlatsak iyi olabilir ✅ 2024-10-20
 - [x] 🔼 Geçen hafta sesbilimdeki metni duygudan metin al 📅 2024-10-28 ✅ 2024-11-16
 - [x] ⏫ Bahtiyar hocadan slaytlari al 📅 2024-10-25 ✅ 2025-02-03 Daha önce hepsini gönderdi, şimdi güncelliyorum
-- [ ] 🔼 ➕ 2024-11-13 https://www.reddit.com/r/selfhosted/comments/1btytji/any_selfhosted_alternative_to_omnivore_need_a/?rdt=48597 linklerin arasindan kendine yeni bir servis seç, obsidian sync efsane otesi olur ya da api olacak 📅 2024-11-13 
+- [x] 🔼 ➕ 2024-11-13 https://www.reddit.com/r/selfhosted/comments/1btytji/any_selfhosted_alternative_to_omnivore_need_a/?rdt=48597 linklerin arasindan kendine yeni bir servis seç, obsidian sync efsane otesi olur ya da api olacak 📅 2024-11-13 ✅ 2025-09-09
 - [ ] 🔽 ➕ 2024-11-13 news as a sentimental analysis 📅 2024-11-17 
 - [ ] ⏫ ➕ 2024-11-13 Obsidian içeriklerini hem telefon hem bilgisayar için encryptle ⏳ 2024-11-17 
 - [x] çay al mistik [completion:: 2025-01-24]
