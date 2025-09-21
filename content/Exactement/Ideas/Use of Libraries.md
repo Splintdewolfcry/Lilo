@@ -1,0 +1,2 @@
+- Miller CSV
+	- mlr --csv --from "D:\OuiOui\LiProject\Pieces Of Code\TAGGED_W_SCORE_10000.csv" split -n 1500 --prefix reports/BERT-TAGGED/10k_Tagged

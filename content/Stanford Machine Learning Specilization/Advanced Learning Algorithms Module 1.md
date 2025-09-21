@@ -13,3 +13,13 @@
 ![[Pasted image 20250909205705.png]]
 - Tensorflow 2d array lerle calisiyor
 	- array mantigi kaç tane [[]] olduğuyla ölçülüyor.
+
+- 
+	- ![[Pasted image 20250919205228.png]]
+	- ![[Pasted image 20250919205211.png]]
+	- ![[Pasted image 20250919211603.png]]
+	- ![[Pasted image 20250919212608.png]]
+	- Rowlar ilk matrixe denk geliyor
+	- Columnlarsa ikinci
+	- ![[Pasted image 20250919214352.png]]
+
