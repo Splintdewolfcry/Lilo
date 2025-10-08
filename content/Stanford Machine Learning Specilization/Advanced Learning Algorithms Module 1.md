@@ -23,3 +23,22 @@
 	- Columnlarsa ikinci
 	- ![[Pasted image 20250919214352.png]]
 
+Model Training Steps compared between logistic regression and Tensorflow
+- ![[Pasted image 20251003214419.png]]
+- ![[Pasted image 20251003214553.png]]
+
+Cost functions for binary classification and logistic Regression
+- ![[Pasted image 20251003214842.png]]
+- ![[Pasted image 20251003214944.png]]
+
+
+Binary, Regression with neg values and Regression with only + values
+- ![[Pasted image 20251003220342.png]]
+
+- Softmax
+- Sparse means it can have only one value
+	- ![[Pasted image 20251007212709.png]]
+Numerical Roundoff Errors
+- ![[Pasted image 20251007213141.png]]
+- Numerically daha accurate olmasi icin linear activation yapip from logits ekliyorsun loss functiona
+	- ![[Pasted image 20251007213718.png]]
