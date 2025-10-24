@@ -1,0 +1,1 @@
+"[[abak]]" sözcüğü Türkçede bulunmasa da Türkçenin [[dizge kuralları]]na ters düşmediği için bir gün belki anlam kazanabilir
