@@ -1,7 +1,7 @@
 
 
 ```anki
-id: 1762474843504
+id: 1765225260349
 ---
 Modern Dilbilimin kurucusu?
 ===
@@ -10,7 +10,7 @@ Nicolai Trubetzkoy
 
 
 ```anki
-id: 1762474843530
+id: 1765225260410
 ---
 Sesbilimin karşıtlık ilkeleri ne anlama gelir?
 ===
@@ -19,7 +19,7 @@ Phonem lerin nasıl anlam ayrımını sağladığı (minimal pairs sel/kel)
 
 
 ```anki
-id: 1762474843565
+id: 1765225260473
 ---
 Sesbilimdeki karşıtlık başlıkları?
 ===
@@ -30,7 +30,7 @@ Tekil Karşıtlık (Isolated Opposition)
 
 
 ```anki
-id: 1762474843596
+id: 1765225260534
 ---
 Sesbilimde sistem bağımlı taksonomide çok yönlü karşıtlık?
 ===
@@ -39,7 +39,7 @@ Eğer 3 özelliğin ikisi aynıysa bu durum gözükür
 
 
 ```anki
-id: 1762474843625
+id: 1765225260612
 ---
 Sesbilimde sistem bağımlı taksonomide orantısal karşıtlık?
 ===
@@ -48,7 +48,7 @@ k:g, t:d (ipada aynı hücredeler)
 
 
 ```anki
-id: 1762474843661
+id: 1765225260674
 ---
 Sesbilimde sistem bağımlı taksonomide tekil karşıtlık?
 ===
@@ -60,7 +60,7 @@ l: dilucu-öndamak, yan daralmalı(akıcı)
 
 
 ```anki
-id: 1762474843689
+id: 1765225260721
 ---
 Sesbilimde Karşıtlıklararası Bağıntılar yönünden:
 Eksik ögeli karşıtlık nedir?
@@ -74,7 +74,7 @@ g [+ötümlü]
 
 
 ```anki
-id: 1762474843721
+id: 1765225260799
 ---
 Sesbilimde Karşıtlıklararası Bağıntılar yönünden:
 Aşamalı karşıtlık?
@@ -86,7 +86,7 @@ Yalnızca ünlüler için geçerlidir çünkü e nin değişkeleri gibi kapalı,
 
 
 ```anki
-id: 1762474843750
+id: 1765225260861
 ---
 Sesbilimde Karşıtlıklararası Bağıntılar yönünden:
 Eşdeğerli Karşıtlık?
@@ -98,7 +98,7 @@ p : t ==~ t : k
 
 
 ```anki
-id: 1762474843783
+id: 1765225260911
 ---
 Chomsky ve Halle 1968 de ingilizceyi özellikler açısından kaça ayırmıştır?
 ===
@@ -107,7 +107,7 @@ Chomsky ve Halle 1968 de ingilizceyi özellikler açısından kaça ayırmışt�
 
 
 ```anki
-id: 1762474843814
+id: 1765225260985
 ---
 Chomsky ve Halle 1968 de ingilizceyi özellikler açısından ayırdıkları sınıflar
 ===
@@ -118,7 +118,7 @@ Ek Özellikler
 
 Chomsky kısımlara buraya iyi olurdu da nasıl yazacağımı kestiremedim
 ```anki
-id: 1762474843844
+id: 1765225261048
 ---
 Taçsı ünsüzler?
 ===
@@ -127,7 +127,7 @@ Dil ucu kısmını gösterir. Bu ünsüzler dişsil ve damaksıl ünsüzler aras
 
 
 ```anki
-id: 1762474843877
+id: 1765225261110
 ---
 Sesbirimler xxxx sürecinde etkin rol oynamakta, sesbirimlerin her seferinde biraraya getirilmesiyle öbek yapının kurulmasına izin vermektedir
 ===
@@ -136,7 +136,7 @@ Seçme-birleştirme (bu mekanizma disleksik bireylerdeki ses karıştırma durum
 
 
 ```anki
-id: 1762474843908
+id: 1765225261171
 ---
 Duraklamalı sesler sadece xxxx ten oluşur
 ===
@@ -145,7 +145,7 @@ Duraklamalı sesler sadece xxxx ten oluşur
 
 
 ```anki
-id: 1762474843938
+id: 1765225261234
 ---
 Genellikle xxxx ve xxxx ünsüzler duraklamalıdır
 ===
@@ -154,7 +154,7 @@ Patlamalı ve sürtümücü ünsüzler genelde duraklamalıdır (obstruents)
 
 
 ```anki
-id: 1762474843970
+id: 1765225261295
 ---
 Titreşimlilik hiyeraşisi 1-8 say
 ===
@@ -170,7 +170,7 @@ Titreşimlilik hiyeraşisi 1-8 say
 
 
 ```anki
-id: 1762474844000
+id: 1765225261359
 ---
 Seçkisiz silme kuralı?
 ===
@@ -182,7 +182,7 @@ p gitti
 
 
 ```anki
-id: 1762474844032
+id: 1765225261420
 ---
 Titreşimli Ardışıklık İlkesi?
 ===
