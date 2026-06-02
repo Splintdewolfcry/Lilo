@@ -49,3 +49,6 @@
 			- Lastfmden o dönemki şarkıları da çekebilirim bak, direk oluşmuş dosyadan falan
 		- calendardan çekip oradaki dataya da baksın
 			- calendar datası read only olacak
+
+[[2026-04-19]]
+- Watson için checkpoint mantığı ve bunun obsidianla uyumunu sağlama işi

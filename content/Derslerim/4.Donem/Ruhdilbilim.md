@@ -1,3 +1,4 @@
+
 [[Ruhdilbilim 1.Slayt]]
 
 
@@ -551,7 +552,7 @@ Dil işlemleme ne demektir?
 ```anki
 id: 1749752884457
 ---
-Dil işlemleme süreçlerinde konuşma anlama nasıl bir yol izler?
+Dil işlemleme süreçlerinde konuşma ve anlama genel hatlarıyla nasıl bir yol izler?
 ===
 Duyduğumuz sesleri tanır(fonem analizi), sesler üzerinden sözcükleri tanır, daha sonra bir üst basamak olarak tümceyi sözdizimsel ve anlamsal olarak analiz ederiz ve anlamlandırıp bağlamla ilişkilendiririz.
 ```

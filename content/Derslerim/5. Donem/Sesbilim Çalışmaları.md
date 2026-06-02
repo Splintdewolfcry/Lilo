@@ -1,27 +1,18 @@
 
 
 ```anki
-id: 1765225260349
+id: 1776624309235
 ---
-Modern Dilbilimin kurucusu?
-===
-Nicolai Trubetzkoy
-```
-
-
-```anki
-id: 1765225260410
----
-Sesbilimin karşıtlık ilkeleri ne anlama gelir?
+fonemler karşıtlık ilkeleri çerçevesinde nasıl incelenir?
 ===
 Phonem lerin nasıl anlam ayrımını sağladığı (minimal pairs sel/kel)
 ```
 
 
 ```anki
-id: 1765225260473
+id: 1776624309298
 ---
-Sesbilimdeki karşıtlık başlıkları?
+Sesbilimdeki karşıtlık türleri başlıkları?
 ===
 Çok Yönlü Karşıtlık (multiliteral)
 Orantısal Karşıtlık (proportional)
@@ -30,25 +21,25 @@ Tekil Karşıtlık (Isolated Opposition)
 
 
 ```anki
-id: 1765225260534
+id: 1776624309361
 ---
-Sesbilimde sistem bağımlı taksonomide çok yönlü karşıtlık?
+Sesbilimde sistem bağımlı taksonomide çok yönlü karşıtlık nasıl görünür?
 ===
 Eğer 3 özelliğin ikisi aynıysa bu durum gözükür
 ```
 
 
 ```anki
-id: 1765225260612
+id: 1776624309423
 ---
-Sesbilimde sistem bağımlı taksonomide orantısal karşıtlık?
+Sesbilimde sistem bağımlı taksonomide orantısal karşıtlık nasıl görünür?
 ===
 k:g, t:d (ipada aynı hücredeler)
 ```
 
 
 ```anki
-id: 1765225260674
+id: 1776624309485
 ---
 Sesbilimde sistem bağımlı taksonomide tekil karşıtlık?
 ===
@@ -60,7 +51,7 @@ l: dilucu-öndamak, yan daralmalı(akıcı)
 
 
 ```anki
-id: 1765225260721
+id: 1776624309548
 ---
 Sesbilimde Karşıtlıklararası Bağıntılar yönünden:
 Eksik ögeli karşıtlık nedir?
@@ -74,7 +65,7 @@ g [+ötümlü]
 
 
 ```anki
-id: 1765225260799
+id: 1776624309610
 ---
 Sesbilimde Karşıtlıklararası Bağıntılar yönünden:
 Aşamalı karşıtlık?
@@ -86,7 +77,7 @@ Yalnızca ünlüler için geçerlidir çünkü e nin değişkeleri gibi kapalı,
 
 
 ```anki
-id: 1765225260861
+id: 1776624309674
 ---
 Sesbilimde Karşıtlıklararası Bağıntılar yönünden:
 Eşdeğerli Karşıtlık?
@@ -98,7 +89,7 @@ p : t ==~ t : k
 
 
 ```anki
-id: 1765225260911
+id: 1776624309736
 ---
 Chomsky ve Halle 1968 de ingilizceyi özellikler açısından kaça ayırmıştır?
 ===
@@ -107,7 +98,7 @@ Chomsky ve Halle 1968 de ingilizceyi özellikler açısından kaça ayırmışt�
 
 
 ```anki
-id: 1765225260985
+id: 1776624309799
 ---
 Chomsky ve Halle 1968 de ingilizceyi özellikler açısından ayırdıkları sınıflar
 ===
@@ -118,16 +109,16 @@ Ek Özellikler
 
 Chomsky kısımlara buraya iyi olurdu da nasıl yazacağımı kestiremedim
 ```anki
-id: 1765225261048
+id: 1776624309862
 ---
-Taçsı ünsüzler?
+Taçsı ünsüzlerin nerede üretilirler?
 ===
 Dil ucu kısmını gösterir. Bu ünsüzler dişsil ve damaksıl ünsüzler arasındaki konumda üretilmektedir
 ```
 
 
 ```anki
-id: 1765225261110
+id: 1776624309923
 ---
 Sesbirimler xxxx sürecinde etkin rol oynamakta, sesbirimlerin her seferinde biraraya getirilmesiyle öbek yapının kurulmasına izin vermektedir
 ===
@@ -136,7 +127,7 @@ Seçme-birleştirme (bu mekanizma disleksik bireylerdeki ses karıştırma durum
 
 
 ```anki
-id: 1765225261171
+id: 1776624309986
 ---
 Duraklamalı sesler sadece xxxx ten oluşur
 ===
@@ -145,7 +136,7 @@ Duraklamalı sesler sadece xxxx ten oluşur
 
 
 ```anki
-id: 1765225261234
+id: 1776624310048
 ---
 Genellikle xxxx ve xxxx ünsüzler duraklamalıdır
 ===
@@ -154,7 +145,7 @@ Patlamalı ve sürtümücü ünsüzler genelde duraklamalıdır (obstruents)
 
 
 ```anki
-id: 1765225261295
+id: 1776624310111
 ---
 Titreşimlilik hiyeraşisi 1-8 say
 ===
@@ -170,7 +161,7 @@ Titreşimlilik hiyeraşisi 1-8 say
 
 
 ```anki
-id: 1765225261359
+id: 1776624310173
 ---
 Seçkisiz silme kuralı?
 ===
@@ -182,15 +173,14 @@ p gitti
 
 
 ```anki
-id: 1765225261420
+id: 1776624310236
 ---
-Titreşimli Ardışıklık İlkesi?
+Titreşimli Ardışıklık İlkesine göre titreşim nereye doğru yükselir ?
 ===
 Bir seslemin titreşim düzeyi en tepe noktasına kadar yükselir, ardından düşme gösterir.
 Seslemin kenarları, çekirdeğe doğru yükselen tek yönlü titreşim eğimi içerir.
 Ardışıklık demek bu ardıllık içerisinde bir bağıntı söz konusu demek
 ```
-
 
 
 
